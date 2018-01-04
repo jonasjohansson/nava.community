@@ -30,6 +30,7 @@ h1 {
 }
 
 p span:not(:only-of-type):first-child {
+	display:block;
 	font-weight:bold;
 }
 
