@@ -42,6 +42,6 @@ section:first-child {
 	padding-top:0;
 }
 
-p:last-of-type {
+p:last-of-type:last-child {
 	margin-bottom:0;
 }
