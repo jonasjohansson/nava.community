@@ -29,7 +29,7 @@ h1 {
 	font-size:calc(var(--base)*2);
 }
 
-div span:not(:only-of-type):first-child {
+p span:not(:only-of-type):first-child {
 	font-weight:bold;
 }
 
@@ -40,4 +40,8 @@ section:not(:last-child) {
 
 section:first-child {
 	padding-top:0;
+}
+
+p:last-of-type {
+	margin-bottom:0;
 }
