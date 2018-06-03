@@ -8,6 +8,7 @@
 	hr {
 		border-top:0;
 	}
+	iframe,
 	img {
 		width:100%;
 	}
@@ -15,13 +16,29 @@
 		width:120px;
 		margin-right:10px;
 	}
+	iframe,
+	img {
+		width:100%;
+	}
+
+	.video {
+		padding-bottom:56.25%;
+	}
+
+	iframe {
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+	}
 	</style>
 </head>
 <body>
 	<header>
 		<h1>NAVA</h1>
 		<p>Nordic Audiovisual Artists (NAVA) is a community for artists working at the intersection of music and visual arts. Its first real-world manifestation happened during <a href="https://sonarreykjavik.com">Sónar Reykjavik 2018</a> where invited artists, together with the NAVA team, performed and outlined a framework for the community's existence and future development.</p>
-		<iframe src="https://player.vimeo.com/video/273212882?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" allowfullscreen></iframe>
+		<div class="video"><iframe src="https://player.vimeo.com/video/273212882?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" allowfullscreen></iframe></div>
 	</header>
 	<hr>
 	<main>
