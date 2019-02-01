@@ -1,6 +1,6 @@
 :root {
-	--font-size: 18px;
-	--base: 2rem;
+	--font-size: 20px;
+	--base: 24px;
 }
 
 html {
@@ -12,6 +12,8 @@ html {
 	color: rgba(255, 255, 255, 0.78);
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
+	background-color: black;
+	color: white;
 }
 body {
 	margin: 0;
