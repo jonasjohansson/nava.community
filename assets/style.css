@@ -2,9 +2,10 @@
 	--font-size: 20px;
 	--base: 24px;
 }
+
 html {
 	width: 100%;
-	font-family: system-ui;
+	font-family: 'Maison Neue Book', system-ui;
 	font-size: var(--font-size);
 	line-height: 1.5;
 	background-color: rgb(90, 90, 90);
@@ -12,19 +13,23 @@ html {
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
 }
+
 body {
 	margin: 0;
-	padding-bottom: calc(var(--base) * 2);
+	padding: calc(var(--base) * 2) 0;
 }
+
 figure {
 	margin-left: 0;
 	margin-right: 0;
 }
+
 figcaption {
 	font-style: italic;
 	font-size: 80%;
 	text-align: center;
 }
+
 figure img,
 figure video {
 	width: 100%;
@@ -32,6 +37,7 @@ figure video {
 	object-fit: cover;
 	box-sizing: border-box;
 }
+
 section,
 hr {
 	margin: 0 auto;
@@ -39,12 +45,35 @@ hr {
 	box-sizing: border-box;
 	max-width: 80ex;
 }
+
 hr {
 	opacity: 0.25;
 }
+
 a {
 	color: white;
 }
+
+h1 span {
+	display: none;
+}
+
+h2 {
+	font-size: 1.1em;
+	text-transform: uppercase;
+}
+
+h3 {
+	font-size: 1.2em;
+}
+
 ul {
 	list-style: square;
+}
+
+@font-face {
+	font-family: 'Maison Neue Book';
+	src: url('MaisonNeue-Book.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
 }
