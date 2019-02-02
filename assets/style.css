@@ -38,7 +38,7 @@ figure video {
 section,
 hr {
 	margin: 0 auto;
-	padding: 0 var(--base);
+	padding: 0 calc(var(--base) * 1.5);
 	box-sizing: border-box;
 	max-width: 80ex;
 }
