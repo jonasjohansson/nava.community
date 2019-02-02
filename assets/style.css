@@ -1,15 +1,8 @@
 :root {
-	--font-size: 20px;
 	--base: 24px;
 }
 
 html {
-	width: 100%;
-	font-family: 'Maison Neue Book', system-ui;
-	font-size: var(--font-size);
-	line-height: 1.5;
-	background-color: rgb(90, 90, 90);
-	color: rgba(255, 255, 255, 0.8);
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
 }
@@ -17,6 +10,9 @@ html {
 body {
 	margin: 0;
 	padding: calc(var(--base) * 2) 0;
+	font: 20px/1.5 'Maison Neue Book', system-ui;
+	background-color: rgb(110, 110, 110);
+	color: rgba(255, 255, 255, 0.7);
 }
 
 figure {
@@ -51,7 +47,8 @@ hr {
 }
 
 a {
-	color: white;
+	color: aquamarine;
+	text-decoration: none;
 }
 
 h1 span {
@@ -64,7 +61,7 @@ h2 {
 }
 
 h3 {
-	font-size: 1.2em;
+	font-size: 1em;
 }
 
 ul {
