@@ -22,8 +22,9 @@ figure {
 
 figcaption {
 	font-style: italic;
-	font-size: 80%;
+	font-size: 70%;
 	text-align: center;
+	opacity: 0.5;
 }
 
 figure img,
