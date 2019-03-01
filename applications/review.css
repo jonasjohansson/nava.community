@@ -1,0 +1,21 @@
+* {
+	padding: 0;
+	border: 0;
+	margin: 0;
+}
+.freezebar-vertical-handle,
+.row-headers-background {
+	display: none;
+}
+tbody tr {
+	height: 25vh !important;
+}
+thead th {
+	width: 25vw !important;
+}
+.softmerge-inner,
+iframe {
+	width: 100% !important;
+	height: 100% !important;
+	object-fit: cover;
+}
