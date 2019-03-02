@@ -3,26 +3,34 @@
 	border: 0;
 	margin: 0;
 }
-tbody > tr:nth-child(2),
-td.freezebar-cell,
-th.freezebar-cell,
-.freezebar-vertical-handle,
-.row-headers-background {
+
+.row {
+	position: relative;
+	width: 100vw;
+	height: 20vh;
+	box-sizing: border-box;
+	clear: left;
+}
+
+.row:first-child {
 	display: none;
 }
-td {
-	text-align: center !important;
-	font-size: 16px !important;
+
+.row:nth-child(odd) {
+	background-color: #eee;
 }
-tbody tr {
-	line-height: 25vh !important;
+
+.cell {
+	float: left;
+	width: 25vw;
+	height: 20vh;
+	line-height: 20vh;
+	text-align: center;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
 }
-thead th {
-	width: 25vw !important;
-}
-.softmerge-inner,
+
 iframe {
-	width: 100% !important;
-	height: 100% !important;
-	object-fit: cover;
+	width: 100%;
 }
