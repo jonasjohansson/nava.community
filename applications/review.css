@@ -10,6 +10,13 @@
 	height: 20vh;
 	box-sizing: border-box;
 	clear: left;
+	overflow: hidden;
+}
+
+.row,
+.cell {
+	height: 25vh;
+	line-height: 25vh;
 }
 
 .row:nth-child(odd) {
@@ -18,9 +25,7 @@
 
 .cell {
 	float: left;
-	width: 25vw;
-	height: 20vh;
-	line-height: 20vh;
+	width: 33.33vw;
 	text-align: center;
 	white-space: nowrap;
 	overflow: hidden;
@@ -29,4 +34,5 @@
 
 iframe {
 	width: 100%;
+	height: 100%;
 }
