@@ -16,10 +16,10 @@ td {
 	font-size: 16px !important;
 }
 tbody tr {
-	line-height: 33.33vh !important;
+	line-height: 25vh !important;
 }
 thead th {
-	width: 33.33vw !important;
+	width: 25vw !important;
 }
 .softmerge-inner,
 iframe {
