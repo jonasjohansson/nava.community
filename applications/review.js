@@ -55,6 +55,7 @@ function youtube_parser(url) {
 	var match = url.match(regExp);
 	return match && match[7].length == 11 ? match[7] : false;
 }
+
 function vimeo_parser(url) {
 	var regExp = /http(s)?:\/\/(www\.)?vimeo.com\/(\d+)(\/)?(#.*)?/;
 	var match = url.match(regExp);
