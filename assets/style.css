@@ -10,7 +10,7 @@ html {
 body {
 	margin: 0;
 	padding: calc(var(--base) * 2) 0;
-	font: 18px/1.4 'Maison Neue Book', system-ui;
+	font: 18px/1.5 'Maison Neue Book', system-ui;
 	background-color: rgb(120, 120, 120);
 	color: rgba(255, 255, 255, 0.9);
 }
