@@ -1,5 +1,6 @@
 :root {
 	--base: 16px;
+	--accent-color: #69a9ff; // aquamarine
 }
 
 html {
@@ -11,7 +12,7 @@ body {
 	margin: 0;
 	padding: calc(var(--base) * 2) 0;
 	font: 18px/1.4 'Maison Neue Book', system-ui;
-	background-color: rgb(120, 120, 120);
+	background-color: rgb(80, 80, 80);
 	color: rgba(255, 255, 255, 0.9);
 }
 
@@ -47,8 +48,12 @@ hr {
 	opacity: 0.1;
 }
 
+p:first-of-type {
+	margin-top: 0;
+}
+
 a {
-	color: aquamarine;
+	color: var(--accent-color);
 	text-decoration: none;
 }
 
