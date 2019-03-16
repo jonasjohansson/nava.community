@@ -11,7 +11,7 @@ html {
 body {
 	margin: 0;
 	padding: calc(var(--base) * 2) 0;
-	font: 18px/1.4 'Maison Neue Book', system-ui;
+	font: 20px/1.4 'GTCinetypeRegular', 'Maison Neue Book', system-ui;
 	background-color: rgb(80, 80, 80);
 	color: rgba(255, 255, 255, 0.9);
 }
@@ -41,7 +41,7 @@ hr {
 	margin: 0 auto;
 	padding: 0 var(--base);
 	box-sizing: border-box;
-	max-width: 80ex;
+	max-width: 75ex;
 }
 
 hr {
@@ -75,6 +75,7 @@ h3 {
 
 ul {
 	list-style: square;
+	padding-left: 1em;
 }
 
 @media (max-width: 900px) {
@@ -87,5 +88,54 @@ ul {
 	font-family: 'Maison Neue Book';
 	src: url('type/MaisonNeue-Book.woff2') format('woff2');
 	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'GTCinetypeLight';
+	src: url('GTCinetypeLight-Italic.woff2') format('woff2');
+	font-weight: 300;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'GTCinetypeMono';
+	src: url('GTCinetypeMono.woff2') format('woff2');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'GTCinetypeRegular';
+	src: url('GTCinetypeRegular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'GTCinetypeRegular';
+	src: url('GTCinetypeRegular-Italic.woff2') format('woff2');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'GTCinetypeBold';
+	src: url('GTCinetypeBold-Italic.woff2') format('woff2');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'GTCinetypeBold';
+	src: url('GTCinetypeBold.woff2') format('woff2');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'GTCinetypeLight';
+	src: url('GTCinetypeLight.woff2') format('woff2');
+	font-weight: 300;
 	font-style: normal;
 }
