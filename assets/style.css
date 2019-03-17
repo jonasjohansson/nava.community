@@ -11,7 +11,7 @@ html {
 body {
 	margin: 0;
 	padding: calc(var(--base) * 2) 0;
-	font: 20px/1.4 'Maison Neue', system-ui;
+	font: 18px/1.4 'Maison Neue', system-ui;
 	background-color: rgb(80, 80, 80);
 	color: rgba(255, 255, 255, 0.9);
 }
