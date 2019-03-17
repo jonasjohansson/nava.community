@@ -11,7 +11,7 @@ html {
 body {
 	margin: 0;
 	padding: calc(var(--base) * 2) 0;
-	font: 20px/1.4 'GTCinetypeRegular', system-ui;
+	font: 20px/1.4 'Maison Neue', system-ui;
 	background-color: rgb(80, 80, 80);
 	color: rgba(255, 255, 255, 0.9);
 }
@@ -85,8 +85,8 @@ ul {
 }
 
 @font-face {
-	font-family: 'GTCinetypeRegular';
-	src: url('type/GTCinetypeRegular.woff2') format('woff2');
+	font-family: 'Maison Neue';
+	src: url('MaisonNeue-Book.woff2') format('woff2');
 	font-weight: normal;
 	font-style: normal;
 }
