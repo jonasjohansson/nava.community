@@ -11,7 +11,7 @@ html {
 body {
 	margin: 0;
 	padding: calc(var(--base) * 2) 0;
-	font: 20px/1.4 'GTCinetypeRegular', 'Maison Neue Book', system-ui;
+	font: 20px/1.4 'GTCinetypeRegular', system-ui;
 	background-color: rgb(80, 80, 80);
 	color: rgba(255, 255, 255, 0.9);
 }
@@ -85,57 +85,8 @@ ul {
 }
 
 @font-face {
-	font-family: 'Maison Neue Book';
-	src: url('type/MaisonNeue-Book.woff2') format('woff2');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'GTCinetypeLight';
-	src: url('GTCinetypeLight-Italic.woff2') format('woff2');
-	font-weight: 300;
-	font-style: italic;
-}
-
-@font-face {
-	font-family: 'GTCinetypeMono';
-	src: url('GTCinetypeMono.woff2') format('woff2');
-	font-weight: 900;
-	font-style: normal;
-}
-
-@font-face {
 	font-family: 'GTCinetypeRegular';
 	src: url('GTCinetypeRegular.woff2') format('woff2');
 	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'GTCinetypeRegular';
-	src: url('GTCinetypeRegular-Italic.woff2') format('woff2');
-	font-weight: normal;
-	font-style: italic;
-}
-
-@font-face {
-	font-family: 'GTCinetypeBold';
-	src: url('GTCinetypeBold-Italic.woff2') format('woff2');
-	font-weight: bold;
-	font-style: italic;
-}
-
-@font-face {
-	font-family: 'GTCinetypeBold';
-	src: url('GTCinetypeBold.woff2') format('woff2');
-	font-weight: bold;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'GTCinetypeLight';
-	src: url('GTCinetypeLight.woff2') format('woff2');
-	font-weight: 300;
 	font-style: normal;
 }
