@@ -1,6 +1,7 @@
 :root {
 	--base: 16px;
-	--accent-color: #69a9ff; // aquamarine
+	--accent-color: #69a9ff;
+	--accent-color-2: aquamarine;
 }
 
 html {
@@ -68,7 +69,7 @@ h3 {
 
 h2,
 h3 {
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	font-weight: bold;
 	letter-spacing: 0.01em;
 }
@@ -78,7 +79,7 @@ ul {
 	padding-left: 1em;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 800px) {
 	figcaption {
 		display: none;
 	}
