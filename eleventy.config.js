@@ -1,4 +1,5 @@
 module.exports = eleventyConfig => {
+  eleventyConfig.addPassthroughCopy('admin');
   eleventyConfig.addPassthroughCopy('src/assets');
   return {
     templateFormats: ['njk', 'md', 'html'],
