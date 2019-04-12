@@ -1,0 +1,12 @@
+{
+  "name": "nava",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "npx eleventy --config=eleventy.config.js",
+    "serve": "npx eleventy --config=eleventy.config.js --serve --watch"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.8.2"
+  }
+}
