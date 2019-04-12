@@ -2,17 +2,19 @@
 
 @import url(transfonter.org-20190412-130053/stylesheet.css);
 @import url(transfonter.org-20190412-133128/stylesheet.css);
+@import url(transfonter.org-20190412-222903/stylesheet.css);
+@import url(transfonter.org-20190412-223157/stylesheet.css);
+@import url(transfonter.org-20190412-223836/stylesheet.css);
 
 :root {
 	--base: 16px;
-	--accent-color: gray;
+	--accent-color: springgreen;
 }
 
 body {
-	xpadding: calc(var(--base) * 2) 0;
 	padding-top: calc(var(--base) * 2);
-	font: 18px/1.5 'Maison Neue Extended', 'Maison Neue', system-ui;
-	background-color: rgb(220, 220, 220);
+	font: 18px/1.4 'Scene Std', 'Trim', 'Theinhardt', 'F37 Bolton', 'Maison Neue Extended', 'Maison Neue', system-ui;
+	background-color: rgb(240, 240, 240);
 	color: rgba(0, 0, 0, 0.9);
 }
 
@@ -67,6 +69,10 @@ a {
 	text-decoration: none;
 }
 
+a:hover {
+	font-style: italic;
+}
+
 h1 {
 	margin: 0;
 }
@@ -98,7 +104,6 @@ ul {
 #home {
 	font-size: 8vw;
 	line-height: 9vw;
-	font-weight: 500;
 }
 
 #home * {
@@ -107,6 +112,13 @@ ul {
 }
 
 /* responsive */
+
+@media (min-width: 800px) {
+	.float {
+		float: left;
+		width: 50%;
+	}
+}
 
 @media (max-width: 800px) {
 	figcaption {
