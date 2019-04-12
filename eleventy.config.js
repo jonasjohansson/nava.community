@@ -6,7 +6,7 @@ module.exports = eleventyConfig => {
       input: 'src',
       includes: 'includes',
       data: 'data',
-      output: 'public'
+      output: 'docs'
     },
     markdownTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
