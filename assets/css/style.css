@@ -103,10 +103,9 @@ ul {
 
 .avatar {
 	/*border-radius: 50%;*/
-	width: 60px;
-	height: 40px;
-	padding: 6px;
-	box-sizing: border-box;
+	width: 9vw;
+	height: 6vw;
+	padding: 2px 8px;
 }
 
 .expired {
