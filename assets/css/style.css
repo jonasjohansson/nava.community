@@ -17,6 +17,11 @@ figure {
 	position: relative;
 	margin-left: 0;
 	margin-right: 0;
+	line-height: 0;
+}
+
+body > *:last-child {
+	margin-bottom: 0;
 }
 
 figcaption {

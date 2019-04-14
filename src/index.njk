@@ -8,10 +8,6 @@ members: [
 	{name: Atlí Bollason, url: https://atlibollason.com/},
 	{name: Owen Hindley, url: http://www.owenhindley.co.uk/}
 	]
-pages: [
-	{name: Open call Roskilde, url: ./open-call-roskilde/},
-	{name: Open call Reykjavik, url: ./open-call-reykjavik/},
-	]
 
 ---
 
@@ -20,16 +16,21 @@ pages: [
 </section>
 <section>
 	<nav>
-	{% for page in pages %}
-		<a style="display:block;" href="{{ page.url }}">{{ page.name }}</a>
+	{% for page in collections.page %}
+		<a style="display:block;" href="{{ page.url }}">{{ page.data.title }}</a>
 	{% endfor %}
 	</nav>
 	<p>
 		{{ site.description }}
 	</p>
+	<base href="/assets/media/">
 	<nav>
 	{% for member in members %}
-		<a href="{{ member.url }}" target="_blank">{{ member.name }}{% if member.avatar %}<img class="avatar" src="/assets/media/avatar-{{ member.avatar }}.gif">{% endif %}</a>
+		<a href="{{ member.url }}" target="_blank">{{ member.name }}{% if member.avatar %}<img class="avatar" src="avatar-{{ member.avatar }}.gif">{% endif %}</a>
 	{% endfor %}
 	</nav>
+</section>
+<section>
+    <p>NAVA is made possible by the Nordic Culture Fund.</p>
+    <a href="https://www.nordiskkulturfond.org/"><img src="logo-nordisk-kulturfond.png" height="30"/></a>
 </section>

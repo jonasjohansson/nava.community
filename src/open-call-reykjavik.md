@@ -1,7 +1,9 @@
 ---
+title: Open call Reykjavik
 layout: layouts/opencall.njk
 preamble: Sónar Reykjavik 2019<br>25—27 April
 body_class: open-call
+tags: page
 ---
 
 <section>
