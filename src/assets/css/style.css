@@ -1,21 +1,17 @@
 @import url(https://cdn.jsdelivr.net/npm/modern-normalize/modern-normalize.min.css);
-
-@import url(transfonter.org-20190412-130053/stylesheet.css);
-@import url(transfonter.org-20190412-133128/stylesheet.css);
-@import url(transfonter.org-20190412-222903/stylesheet.css);
-@import url(transfonter.org-20190412-223157/stylesheet.css);
-@import url(transfonter.org-20190412-223836/stylesheet.css);
+@import url(trim/stylesheet.css);
 
 :root {
 	--base: 16px;
-	--accent-color: springgreen;
+	--accent-color: blue;
 }
 
 body {
 	padding-top: calc(var(--base) * 2);
-	font: 18px/1.4 'Scene Std', 'Trim', 'Theinhardt', 'F37 Bolton', 'Maison Neue Extended', 'Maison Neue', system-ui;
-	background-color: rgb(240, 240, 240);
+	font: 18px/1.4 'Trim', system-ui;
+	background-color: rgb(234, 234, 234);
 	color: rgba(0, 0, 0, 0.9);
+	font-weight: 400;
 }
 
 figure {
@@ -95,13 +91,20 @@ h3 {
 
 h2,
 h3 {
-	font-weight: bold;
+	font-weight: 500;
 	letter-spacing: 0.01em;
 }
 
 ul {
 	list-style: square;
 	padding-left: 1em;
+}
+
+/* classes */
+
+.expired {
+	opacity: 0.4;
+	pointer-events: none;
 }
 
 /* home */
