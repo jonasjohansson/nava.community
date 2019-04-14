@@ -2,7 +2,7 @@
 layout: layouts/default.njk
 body_class: home
 members: [
-	{name: Jonas Johansson, url: https://jonasjohansson.se},
+	{name: Jonas Johansson, url: https://jonasjohansson.se, avatar: jonas},
 	{name: Rasmus Stride, url: http://www.stridestud.io/},
 	{name: Katrín Hauksdottir, url: https://www.katikati.me/},
 	{name: Atlí Bollason, url: https://atlibollason.com/},
@@ -29,7 +29,7 @@ pages: [
 	</p>
 	<nav>
 	{% for member in members %}
-		<a href="{{ member.url }}" target="_blank">{{ member.name }}</a>
+		<a href="{{ member.url }}" target="_blank">{% if member.avatar %}<img class="avatar" src="/assets/media/avatar-{{ member.avatar }}.gif">{% endif %}{{ member.name }}</a>
 	{% endfor %}
 	</nav>
 </section>

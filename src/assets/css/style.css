@@ -9,7 +9,7 @@
 body {
 	font: 18px/1.4 'Trim', system-ui;
 	background-color: rgb(255, 255, 255);
-	color: rgba(0, 0, 0, 0.9);
+	color: rgba(0, 0, 0, 1);
 	font-weight: 400;
 }
 
@@ -101,6 +101,14 @@ ul {
 
 /* classes */
 
+.avatar {
+	/*border-radius: 50%;*/
+	width: 60px;
+	height: 40px;
+	padding: 6px;
+	box-sizing: border-box;
+}
+
 .expired {
 	opacity: 0.4;
 	pointer-events: none;
@@ -109,8 +117,8 @@ ul {
 /* home */
 
 #home {
-	font-size: 8vw;
-	line-height: 9vw;
+	font-size: 7vw;
+	line-height: 8vw;
 }
 
 #home * {
