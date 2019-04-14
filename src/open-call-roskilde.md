@@ -1,5 +1,6 @@
 ---
 title: Open call Roskilde
+heading: Open call
 layout: layouts/opencall.njk
 preamble: Countdown stage, Roskilde Festival 2019 <br />29 June-7 July
 body_class: open-call

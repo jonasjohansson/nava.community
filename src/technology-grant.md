@@ -1,5 +1,6 @@
 ---
 title: Technology Grant
+heading: Apply
 layout: layouts/opencall.njk
 tags: pagex
 ---
