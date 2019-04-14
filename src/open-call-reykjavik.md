@@ -38,5 +38,5 @@ body_class: open-call
 </section>
 <figure>
     <img src="harpa2.jpg" />
-    <figcaption>Countdown stage at Roskilde</figcaption>
+    <figcaption>Harpa concert hall, Reykjavik</figcaption>
 </figure>

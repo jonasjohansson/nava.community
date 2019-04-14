@@ -43,5 +43,5 @@ body_class: open-call
 </section>
 <figure>
 	<img src="countdown.jpg" />
-	<figcaption>Countdown stage at Roskilde</figcaption>
+	<figcaption>Countdown stage, Roskilde</figcaption>
 </figure>
