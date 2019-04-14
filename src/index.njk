@@ -7,6 +7,10 @@ members: [
 	{name: Katrín Hauksdottir, url: https://www.katikati.me/},
 	{name: Atlí Bollason, url: https://atlibollason.com/},
 	]
+pages: [
+	{name: Open call Roskilde, url: ./open-call-roskilde/},
+	{name: Open call Reykjavik, url: ./open-call-reykjavik/},
+	]
 
 ---
 
@@ -15,8 +19,9 @@ members: [
 </section> -->
 <section>
     <nav>
-        <a href="./open-call-roskilde/">Open call Roskilde</a>
-        <a href="./open-call-reykjavik/">Open call Reykjavik</a>
+	{% for page in pages %}
+		<a href="{{ page.url }}">{{ page.name }}</a>
+	{% endfor %}
     </nav>
     <p>
         {{ site.description }}

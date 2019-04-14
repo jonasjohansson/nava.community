@@ -1,6 +1,6 @@
 // const CleanCSS = require('clean-css');
 // const UglifyJS = require('uglify-es');
-// const htmlmin = require('html-minifier');
+const htmlmin = require('html-minifier');
 
 module.exports = eleventyConfig => {
 	// Minify CSS
@@ -19,17 +19,17 @@ module.exports = eleventyConfig => {
 	// });
 
 	// // Minify HTML output
-	// eleventyConfig.addTransform('htmlmin', function(content, outputPath) {
-	// 	if (outputPath.indexOf('.html') > -1) {
-	// 		let minified = htmlmin.minify(content, {
-	// 			useShortDoctype: true,
-	// 			removeComments: true,
-	// 			collapseWhitespace: true
-	// 		});
-	// 		return minified;
-	// 	}
-	// 	return content;
-	// });
+	eleventyConfig.addTransform('htmlmin', function(content, outputPath) {
+		if (outputPath.indexOf('.html') > -1) {
+			let minified = htmlmin.minify(content, {
+				useShortDoctype: true,
+				removeComments: true,
+				collapseWhitespace: true
+			});
+			return minified;
+		}
+		return content;
+	});
 
 	eleventyConfig.addPassthroughCopy('assets');
 	return {
