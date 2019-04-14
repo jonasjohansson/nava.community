@@ -15,21 +15,21 @@ pages: [
 
 ---
 
-<!-- <section>
-    <h1>Nordic<br />Audio<br />Visual<br />Artists.</h1>
-</section> -->
 <section>
-    <nav>
+	<h1>Nordic<br />Audio<br />Visual<br />Artists.</h1>
+</section>
+<section>
+	<nav>
 	{% for page in pages %}
 		<a href="{{ page.url }}">{{ page.name }}</a>
 	{% endfor %}
-    </nav>
-    <p>
-        {{ site.description }}
-    </p>
-    <nav>
+	</nav>
+	<p>
+		{{ site.description }}
+	</p>
+	<nav>
 	{% for member in members %}
 		<a href="{{ member.url }}" target="_blank">{{ member.name }}</a>
 	{% endfor %}
-    </nav>
+	</nav>
 </section>

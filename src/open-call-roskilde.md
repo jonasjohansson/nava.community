@@ -5,43 +5,43 @@ body_class: open-call
 ---
 
 <figure>
-    <video src="roskilde2018.mp4" poster="roskilde2018.png" width="960" height="540" muted autoplay loop playsinline></video>
-    <figcaption>
-        2018 Roskilde participants: <a href="http://sortstoj.dk/">Lars Buchholtz</a>,
-        <a href="http://www.kristinwichstrom.com/">Kristin Wichstrom</a>, <a href="https://vertigo.dk/">Vertigo</a>,
-        <a href="https://www.instagram.com/mad_es/">Mad es</a>, <a href="https://vimeo.com/dbfmotion">Jakob Fyledal</a>,
-        <a href="http://hackstage.com/">Hackstage</a>, <a href="https://www.instagram.com/kmidouss/">Camille Doussy</a>,
-        <a href="http://cargocollective.com/amaliesmed">Amalie Smed Dawids</a>
-    </figcaption>
+	<video src="roskilde2018.mp4" poster="roskilde2018.png" width="960" height="540" muted autoplay loop playsinline></video>
+	<figcaption>
+		2018 Roskilde participants: <a href="http://sortstoj.dk/">Lars Buchholtz</a>,
+		<a href="http://www.kristinwichstrom.com/">Kristin Wichstrom</a>, <a href="https://vertigo.dk/">Vertigo</a>,
+		<a href="https://www.instagram.com/mad_es/">Mad es</a>, <a href="https://vimeo.com/dbfmotion">Jakob Fyledal</a>,
+		<a href="http://hackstage.com/">Hackstage</a>, <a href="https://www.instagram.com/kmidouss/">Camille Doussy</a>,
+		<a href="http://cargocollective.com/amaliesmed">Amalie Smed Dawids</a>
+	</figcaption>
 </figure>
 <section class="expired">
-    <p>
-        NAVA and Roskilde Festival is again inviting artists resident in <em>Denmark, Sweden and Norway</em> to perform live visuals
-        (VJ) at the Countdown stage. Selected artists will be paired with booked music acts for a collaborative and unique
-        performance.
-    </p>
-    <p>Join the team and help co-create this years audiovisual experience at the Countdown stage!</p>
-    <h3>Apply</h3>
-    <ul>
-        <li>Application deadline: 12th of April 2019, 24:00 CET</li>
-        <li><a href="https://goo.gl/forms/qvNzNXriHKtXuraC3" target="_blank">Application form</a></li>
-        <li>Read the <a href="https://goo.gl/iY6GLT">FAQ</a> for questions and leave a comment for inquiries.</li>
-    </ul>
-    <h3>Compensation</h3>
-    <ul>
-        <li>Artist honorarium 2050 DKK</li>
-        <li>Festival pass</li>
-    </ul>
-    <h3>Schedule</h3>
-    <ul>
-        <li>19.03.18 Open call start</li>
-        <li>19.04.12 Open call end</li>
-        <li>19.04.19 Invited artists announced by email (no email = not selected)</li>
-        <li>19.06.29-19.07.02 Countdown stage performance</li>
-        <li>19.07.07 Festival end</li>
-    </ul>
+	<p>
+		NAVA and Roskilde Festival is again inviting artists resident in <em>Denmark, Sweden and Norway</em> to perform live visuals
+		(VJ) at the Countdown stage. Selected artists will be paired with booked music acts for a collaborative and unique
+		performance.
+	</p>
+	<p>Join the team and help co-create this years audiovisual experience at the Countdown stage!</p>
+	<h3>Apply</h3>
+	<ul>
+		<li>Application deadline: 12th of April 2019, 24:00 CET</li>
+		<li><a href="https://goo.gl/forms/qvNzNXriHKtXuraC3" target="_blank">Application form</a></li>
+		<li>Read the <a href="https://goo.gl/iY6GLT">FAQ</a> for questions and leave a comment for inquiries.</li>
+	</ul>
+	<h3>Compensation</h3>
+	<ul>
+		<li>Artist honorarium 2050 DKK</li>
+		<li>Festival pass</li>
+	</ul>
+	<h3>Schedule</h3>
+	<ul>
+		<li>19.03.18 Open call start</li>
+		<li>19.04.12 Open call end</li>
+		<li>19.04.19 Invited artists announced by email (no email = not selected)</li>
+		<li>19.06.29-19.07.02 Countdown stage performance</li>
+		<li>19.07.07 Festival end</li>
+	</ul>
 </section>
 <figure>
-    <img src="countdown.jpg" />
-    <figcaption>Countdown stage at Roskilde</figcaption>
+	<img src="countdown.jpg" />
+	<figcaption>Countdown stage at Roskilde</figcaption>
 </figure>
