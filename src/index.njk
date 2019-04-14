@@ -1,27 +1,31 @@
 ---
 layout: layouts/default.njk
 body_class: home
+members: [
+	{name: Jonas Johansson, url: https://jonasjohansson.se},
+	{name: Rasmus Stride, url: http://www.stridestud.io/},
+	{name: Katrín Hauksdottir, url: https://www.katikati.me/},
+	{name: Atlí Bollason, url: https://atlibollason.com/},
+	]
+
 ---
 
-<section class="float">
+<section>
     <h1>Nordic<br />Audio<br />Visual<br />Artists.</h1>
-    <br>
 </section>
-<section class="float">
-
+<section>
     <nav>
-        <a href="./open-call-roskilde/">Roskilde</a>
-        <a href="./open-call-reykjavik/">Reykjavik</a>
+        <a href="./open-call-roskilde/">Open call Roskilde</a>
+        <a href="./open-call-reykjavik/">Open call Reykjavik</a>
     </nav>
 </section>
-<section style="clear:both;">
+<section>
     <p>
-        NAVA is a community with the sole purpose of empowering the field of audiovisal arts.
+        {{ site.description }}
     </p>
     <nav>
-        <a href="https://jonasjohansson.se/">Jonas Johansson</a>
-        <a href="http://www.stridestud.io/">Rasmus Stride</a>
-        <a href="https://www.katikati.me/">Katrín Hauksdottir</a>
-        <a href="https://atlibollason.com/">Atlí Bollason</a>
+	{% for member in members %}
+		<a href="{{ member.url }}" target="_blank">{{ member.name }}</a>
+	{% endfor %}
     </nav>
 </section>
