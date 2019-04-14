@@ -3,7 +3,7 @@ layout: layouts/default.njk
 body_class: home
 members: [
 	{name: Jonas Johansson, url: https://jonasjohansson.se, avatar: jonas},
-	{name: Rasmus Stride, url: http://www.stridestud.io/},
+	{name: Rasmus Stride, url: http://www.stridestud.io/, avatar: rasmus},
 	{name: Katrín Hauksdottir, url: https://www.katikati.me/},
 	{name: Atlí Bollason, url: https://atlibollason.com/},
 	{name: Owen Hindley, url: http://www.owenhindley.co.uk/}
@@ -21,7 +21,7 @@ pages: [
 <section>
 	<nav>
 	{% for page in pages %}
-		<a href="{{ page.url }}">{{ page.name }}</a>
+		<a style="display:block;" href="{{ page.url }}">{{ page.name }}</a>
 	{% endfor %}
 	</nav>
 	<p>
@@ -29,7 +29,7 @@ pages: [
 	</p>
 	<nav>
 	{% for member in members %}
-		<a href="{{ member.url }}" target="_blank">{% if member.avatar %}<img class="avatar" src="/assets/media/avatar-{{ member.avatar }}.gif">{% endif %}{{ member.name }}</a>
+		<a href="{{ member.url }}" target="_blank">{{ member.name }}{% if member.avatar %}<img class="avatar" src="/assets/media/avatar-{{ member.avatar }}.gif">{% endif %}</a>
 	{% endfor %}
 	</nav>
 </section>

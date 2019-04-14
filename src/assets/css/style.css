@@ -3,13 +3,13 @@
 
 :root {
 	--base: 16px;
-	--accent-color: blue;
+	--accent-color: LightPink;
 }
 
 body {
 	font: 18px/1.4 'Trim', system-ui;
-	background-color: rgb(255, 255, 255);
-	color: rgba(0, 0, 0, 1);
+	background-color: rgba(0, 0, 0, 0.9);
+	color: rgba(255, 255, 255, 0.9);
 	font-weight: 400;
 }
 
@@ -40,7 +40,6 @@ p {
 }
 
 nav a {
-	display: block;
 }
 
 section,
@@ -65,8 +64,9 @@ p:first-of-type {
 }
 
 a {
+	color: inherit;
 	color: var(--accent-color);
-	text-decoration: none;
+	/*text-decoration: none;*/
 }
 
 a:hover {
@@ -102,10 +102,11 @@ ul {
 /* classes */
 
 .avatar {
-	/*border-radius: 50%;*/
-	width: 9vw;
-	height: 6vw;
-	padding: 2px 8px;
+	border-radius: 50%;
+	width: 5vw;
+	height: 5vw;
+	margin: 0 10px;
+	/*filter: saturate(0);*/
 }
 
 .expired {
