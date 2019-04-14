@@ -14,7 +14,7 @@ body_class: open-call
         <a href="http://cargocollective.com/amaliesmed">Amalie Smed Dawids</a>
     </figcaption>
 </figure>
-<section>
+<section class="expired">
     <p>
         NAVA and Roskilde Festival is again inviting artists resident in <em>Denmark, Sweden and Norway</em> to perform live visuals
         (VJ) at the Countdown stage. Selected artists will be paired with booked music acts for a collaborative and unique

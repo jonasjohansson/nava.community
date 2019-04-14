@@ -7,7 +7,7 @@ body_class: open-call
 <section>
     <h3>Announcement ⚡</h3>
     <p>With 124 applications sent in we are happy to announce the selected artists: <a href="https://kesson.io">Giovanni Muzio</a> (IT), <a href="https://www.linefj.com">Line Finderup Jensen</a> (DK), <a href="https://www.instagram.com/tiradorstudio/">Diego López Bueno</a> (ES), <a href="http://vanta.xyz">Marcos Gonzalez</a> (ES) and <a href="http://www.spacelight.berlin/">Jana Spacelight</a> (DE).</p>
-    <p>With the announcement of Sónar Reykjavik cancelling we are co-hosting an alternative audiovisual experience at <a href="https://bioparadis.is/">Bíó Paradís</a>. More info TBD.</p>
+    <p>With the announcement of Sónar Reykjavik cancelling we are co-hosting an alternative audiovisual experience with an incredible lineup. More info TBD.</p>
 </section>
 <figure>
     <video src="nava2018.mp4" poster="nava2018.png" width="960" height="540" muted autoplay loop playsinline></video>
