@@ -120,13 +120,6 @@ ul {
 
 /* responsive */
 
-@media (min-width: 800px) {
-	.float {
-		float: left;
-		width: 50%;
-	}
-}
-
 @media (max-width: 800px) {
 	figcaption {
 		display: none;

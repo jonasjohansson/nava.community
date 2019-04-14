@@ -7,15 +7,15 @@ body_class: open-call
 <section>
     <h3>Announcement ⚡</h3>
     <p>With 124 applications sent in we are happy to announce the selected artists: <a href="https://kesson.io">Giovanni Muzio</a> (IT), <a href="https://www.linefj.com">Line Finderup Jensen</a> (DK), <a href="https://www.instagram.com/tiradorstudio/">Diego López Bueno</a> (ES), <a href="http://vanta.xyz">Marcos Gonzalez</a> (ES) and <a href="http://www.spacelight.berlin/">Jana Spacelight</a> (DE).</p>
-    <p>With the announcement of Sónar Reykjavik cancelling we are co-hosting an alternative audiovisual experience with an incredible lineup. More info TBD.</p>
+    <p>With the announcement of the <a href="https://sonarreykjavik.com/en/2019/news/cancellation-statement">Sónar Reykjavik cancellation</a> we are co-hosting an alternative  experience with an incredible lineup — more info TBD.</p>
 </section>
 <figure>
     <video src="nava2018.mp4" poster="nava2018.png" width="960" height="540" muted autoplay loop playsinline></video>
     <figcaption>2018 Sónar participants: <a href="http://manualvisuals.com/">Freya Sif Hestnes</a> (DK), <a href="https://www.instagram.com/lill.usion/">Sofia-lill Jansson</a> (SE), <a href="www.av-arkki.fi/en/artists/samuli-alapuranen_en/">Samuli Alapuranen</a> (FI), <a href="http://www.danielwirtberg.com/">Daniel Wirtberg</a> (SE) and <a href="http://sphericalaberration.com/">Ioana Bilea</a> (RO).</figcaption>
 </figure>
 <section class="expired">
-    <p>NAVA is again inviting artists to perform live visuals (VJ) at the festival and participate in the annual meetup. Selected artists will be paired with booked music acts for a collaborative and unique performance.</p>
-    <p>Join an International team and help co-create this years audiovisual experience at the Reykjavik Harpa concert hall!</p>
+    <p>NAVA is again inviting artists to perform live visuals (VJ) and participate in the annual meetup. Selected artists will be paired with music acts for a collaborative and unique performance.</p>
+    <p>Join the team and help create this years audiovisual experience in Reykjavik!</p>
     <h3>Apply</h3>
     <ul>
         <li>Application deadline: 28th of February 2019, 24:00 CET</li>
