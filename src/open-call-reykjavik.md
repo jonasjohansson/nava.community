@@ -2,7 +2,7 @@
 title: Open call Reykjavik
 heading: Open call
 layout: layouts/opencall.njk
-preamble: Sónar Reykjavik 2019<br>25—27 April
+preamble: Reykjavik 2019<br>25—27 April
 body_class: open-call
 tags: page
 ---
@@ -35,8 +35,7 @@ tags: page
         <li>19.02.01 Open call start</li>
         <li>19.02.28 Open call end</li>
         <li>19.03.04 Invited artists announced by email (no email = not selected)</li>
-        <li>19.04.25-27 Sónar Reykjavik, rehearsal and performance</li>
-        <li>19.04.27 Meetup NAVA</li>
+        <li>19.04.25-27 Rehearsal and performance</li>
     </ul>
 </section>
 <figure>
