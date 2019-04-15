@@ -43,3 +43,7 @@ tags: page
     <img src="harpa2.jpg" />
     <figcaption>Harpa concert hall, Reykjavik</figcaption>
 </figure>
+<section>
+    <p>This open call is made possible by the Nordic Culture Fund.</p>
+    <a href="https://www.nordiskkulturfond.org/"><img src="logo-nordisk-kulturfond.png" height="30"/></a>
+</section>
