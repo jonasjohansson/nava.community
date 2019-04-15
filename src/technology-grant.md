@@ -9,7 +9,7 @@ tags: pagex
     <img src="https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations/raw/master/images/maintenance.jpg" />
 </figure>
 <section class="expired">
-    <p>We are happy to announce a projector grant in collaboration with multimedia power house <a href="https://adapt.se/">Adapt</a>. This is for you who is working on your audiovisual performance or installation and are in need of great equipment. Since this grant depends heavily on Adapts current inventory applications are accepted through the year.</p>
+    <p>We are thrilled to announce a technology grant in collaboration with multimedia power house <a href="https://adapt.se/">Adapt</a>. This is for you who is working on your audiovisual performance or installation and are in need of projectors. Since this grant depends heavily on Adapts current inventory, applications are reviewed continuously.</p>
     <p>New to projectors? Read <a href="https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations/blob/master/Guide%20to%20Projectors%20for%20Interactive%20Installations.md">this fantastic guide to projectors</a> by Blair Neal and explore <a href="https://www.projectorcentral.com/">Projector Central</a> to read the latest reviews and get specific.</p>
     <h3>Apply</h3>
     <ul>

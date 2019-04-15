@@ -24,6 +24,7 @@ members: [
 		{{ site.description }}
 	</p>
 	<base href="/assets/media/">
+	<span>NAVA is managed by</span>
 	<nav>
 	{% for member in members %}
 		<a href="{{ member.url }}" target="_blank">{{ member.name }}{% if member.avatar %}<img class="avatar" src="avatar-{{ member.avatar }}.gif">{% endif %}</a>

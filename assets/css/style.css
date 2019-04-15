@@ -3,14 +3,29 @@
 
 :root {
 	--base: 16px;
-	--accent-color: LightPink;
+	--accent-color: gray;
 }
 
 body {
 	font: 18px/1.4 'Trim', system-ui;
+	font-weight: 400;
+}
+
+body:not(#home) {
 	background-color: rgba(0, 0, 0, 0.9);
 	color: rgba(255, 255, 255, 0.9);
-	font-weight: 400;
+}
+
+body#home {
+	font-size: 7vw;
+	line-height: 8vw;
+	background-color: white;
+	color: black;
+}
+
+body#home * {
+	font-size: inherit;
+	font-weight: inherit;
 }
 
 figure {
@@ -51,9 +66,6 @@ figure video {
 nav,
 p {
 	margin-bottom: calc(var(--base) * 2);
-}
-
-nav a {
 }
 
 section,
@@ -126,18 +138,6 @@ ul {
 .expired {
 	opacity: 0.4;
 	pointer-events: none;
-}
-
-/* home */
-
-#home {
-	font-size: 7vw;
-	line-height: 8vw;
-}
-
-#home * {
-	font-size: inherit;
-	font-weight: inherit;
 }
 
 /* responsive */
