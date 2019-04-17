@@ -1,6 +1,6 @@
 // const CleanCSS = require('clean-css');
 // const UglifyJS = require('uglify-es');
-const htmlmin = require('html-minifier');
+// const htmlmin = require('html-minifier');
 
 module.exports = eleventyConfig => {
 	// Minify CSS
