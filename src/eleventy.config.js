@@ -31,6 +31,16 @@ module.exports = eleventyConfig => {
 	// 	return content;
 	// });
 
+	eleventyConfig.addFilter('path', outputPath => {
+		var count = outputPath.split('/').length - 1;
+
+		if (count == 2) {
+			return '../';
+		} else {
+			return '';
+		}
+	});
+
 	eleventyConfig.addPassthroughCopy('assets');
 	return {
 		templateFormats: ['njk', 'md', 'html'],
