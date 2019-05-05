@@ -2,28 +2,30 @@
 @import url(trim/stylesheet.css);
 
 :root {
-    --base: 16px;
+    --base: 1rem;
     --accent-color: gray;
 }
 
-body {
+html {
     font: 18px/1.4 'Trim', system-ui;
     font-weight: 400;
-}
-
-body:not(#home) {
+    /*background-color: white;*/
+    /*color: black;*/
     background-color: rgba(0, 0, 0, 0.9);
     color: rgba(255, 255, 255, 0.9);
 }
 
-body#home {
-    font-size: 8vw;
-    line-height: 8vw;
-    background-color: white;
-    color: black;
+html:not(#home) {
+    background-color: rgba(0, 0, 0, 0.9);
+    color: rgba(255, 255, 255, 0.9);
 }
 
-body#home * {
+html#home {
+    font-size: 7vw;
+    line-height: 8vw;
+}
+
+html#home * {
     font-size: inherit;
     font-weight: inherit;
 }
@@ -81,6 +83,9 @@ br {
 
 section {
     margin-top: calc(var(--base) * 2);
+}
+
+section:not(:last-of-type) {
     margin-bottom: calc(var(--base) * 2);
 }
 
@@ -134,6 +139,7 @@ ul {
 }
 
 .avatar {
+    display: none;
     border-radius: 50%;
     width: 5vw;
     height: 5vw;

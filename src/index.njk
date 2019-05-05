@@ -14,17 +14,17 @@ members: [
 <base href="/assets/media/">
 <section>
 	<h1>Nordic<br />Audio<br />Visual<br />Artists.</h1>
-	<img class="logo" src="logo-nava-wireframe.svg">
+	<!-- <img class="logo" src="logo-nava-wireframe.svg"> -->
 </section>
 <section>
-	<nav>
-	{% for page in collections.page %}
-		<a style="display:block;" href="{{ page.url }}">{{ page.data.title }}</a>
-	{% endfor %}
-	</nav>
 	<p>
 		{{ site.description }}
 	</p>
+	<nav>
+	{% for page in collections.page | reverse %}
+		<a style="display:block;" href="{{ page.url }}">{{ page.data.title }}</a>
+	{% endfor %}
+	</nav>
 	<span>NAVA is managed by</span>
 	<nav>
 	{% for member in members %}
