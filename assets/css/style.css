@@ -9,10 +9,6 @@
 html {
     font: 18px/1.4 'Trim', system-ui;
     font-weight: 400;
-    /*background-color: white;*/
-    /*color: black;*/
-    background-color: rgba(0, 0, 0, 0.9);
-    color: rgba(255, 255, 255, 0.9);
 }
 
 html:not(#home) {
@@ -23,11 +19,17 @@ html:not(#home) {
 html#home {
     font-size: 7vw;
     line-height: 8vw;
+    background-color: white;
+    color: black;
 }
 
 html#home * {
     font-size: inherit;
     font-weight: inherit;
+}
+
+body {
+    margin-top: calc(var(--base) * 1.5);
 }
 
 figure {
@@ -65,28 +67,26 @@ figure video {
 }
 
 nav,
-p {
-    margin-bottom: calc(var(--base) * 2);
+p,
+section {
+    margin-bottom: calc(var(--base) * 1.5);
+}
+
+nav a {
+    display: block;
 }
 
 section,
 hr {
-    margin: 0 auto;
+    margin-right: auto;
+    margin-left: auto;
     padding: 0 calc(var(--base) * 1);
     box-sizing: border-box;
     max-width: 80ex;
 }
 
 br {
-    height: calc(var(--base) * 2);
-}
-
-section {
-    margin-top: calc(var(--base) * 2);
-}
-
-section:not(:last-of-type) {
-    margin-bottom: calc(var(--base) * 2);
+    height: calc(var(--base) * 1.5);
 }
 
 p:first-of-type {
@@ -94,7 +94,6 @@ p:first-of-type {
 }
 
 a {
-    /*color: inherit;*/
     color: var(--accent-color);
     text-decoration: none;
 }
