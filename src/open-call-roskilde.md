@@ -7,6 +7,11 @@ body_class: open-call
 tags: page
 ---
 
+<section>
+    <h3>Announcement ⚡</h3>
+    <p>The danish skies and eyes will be illuminated by: <a href="http://sphericalaberration.com/">Iona</a> (RO), <a href="https://kesson.io">Giovanni Muzio</a> (IT) and Aliaksandra Smirnova (RU).</p>
+    <p>Get your <a href="https://www.roskilde-festival.dk/en/">ticket to the festival</a> and come early so you get the full experience :)</p>
+</section>
 <figure>
 	<video src="roskilde2018.mp4" poster="roskilde2018.png" width="960" height="540" muted autoplay loop playsinline></video>
 	<figcaption>
