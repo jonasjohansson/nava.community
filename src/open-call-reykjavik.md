@@ -10,7 +10,7 @@ tags: page
 
 <section>
     <h3>Announcement ⚡</h3>
-    <p>With 124 applications sent in we are happy to announce the selected artists: <a href="https://kesson.io">Giovanni Muzio</a> (IT), <a href="https://www.linefj.com">Line Finderup Jensen</a> (DK), <a href="https://www.instagram.com/tiradorstudio/">Tirador</a> (ES), <a href="http://vanta.xyz">Van Ta</a> (ES) and <a href="http://www.spacelight.berlin/">Jana Spacelight</a> (DE).</p>
+    <p>With 124 applications sent in we are happy to announce the selected artists: <a href="https://www.instagram.com/tiradorstudio/">Tirador</a> (ES), <a href="http://vanta.xyz">Van Ta</a> (ES) and <a href="http://www.spacelight.berlin/">Jana Spacelight</a> (DE).</p>
     <p>With the announcement of the <a href="https://sonarreykjavik.com/en/2019/news/cancellation-statement">Sónar Reykjavik cancellation</a> we are co-hosting the unique audiovisual experience <a href="https://www.facebook.com/events/318340158851910/">Skaðablót at Bíó Paradís</a> together with Plútó.</p>
 </section>
 <figure>
