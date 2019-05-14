@@ -7,14 +7,6 @@ body_class: open-call
 tags: page
 ---
 
-Hey Rasmus, thank you so much for the email, I will answer it ASAP with some question/answers/details.
-
-Meanwhile, I just notice my name on the NAVA page as Aliaksandra. I usually use Sasha Smirnova as my artist name. Also, I'm from Belarus (not Russia). Do you think it would be possible to change that?
-
-And the last, it would be amazing if you could make a hyperlink to my Vimeo.
-
-Thanks!
-
 <section>
     <h3>Announcement ⚡</h3>
     <p>The danish skies and eyes will be illuminated by: <a href="http://sphericalaberration.com/">Iona</a> (RO), <a href="https://kesson.io">Giovanni Muzio</a> (IT) and <a href="https://vimeo.com/aliaksandrasmirnova">Sasha Smirnova (BY)</a>.</p>
