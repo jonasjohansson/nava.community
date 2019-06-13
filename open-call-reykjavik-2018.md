@@ -1,23 +1,23 @@
 ---
-heading: Reykjavik 2018
+heading:
 layout: layouts/page.njk
-preamble: 16—17 March
+preamble: Reykjavik 2018, 16—17 March
 assets: /reykjavik/
 body_class:
 tags: page
 ---
 
 <section>
-	<h3>⚡ Announcement 0320</h3>
-	<p>Sónar Reykjavik 2018 is over and it was a blast! The NAVA team and friends hosted <a href="https://sonarreykjavik.com/en/2018/sonarspil">SónarSpil</a> and brought audio/visual experimentation to Reykjavik alongside the unique performances made by the invited artists. We also hosted our very first meetup which led to great conversations and clues of what we should focus on next.</p>
+    <h3>⚡ Announcement 0320</h3>
+    <p>Sónar Reykjavik 2018 is over and it was a blast! The NAVA team and friends hosted <a href="https://sonarreykjavik.com/en/2018/sonarspil">SónarSpil</a> and brought audio/visual experimentation to Reykjavik alongside the unique performances made by the invited artists. We also hosted our very first meetup which led to great conversations and clues of what we should focus on next.</p>
 </section>
 <figure>
-	<video src="nava2018.mp4" poster="nava2018.png" width="960" height="540" muted autoplay loop playsinline></video>
-	<figcaption>Documentation of NAVA 2018. View <a href="https://vimeo.com/273212882">full video</a>.</figcaption>
+    <video src="nava2018.mp4" poster="nava2018.png" width="960" height="540" muted autoplay loop playsinline></video>
+    <figcaption>Documentation of NAVA 2018. View <a href="https://vimeo.com/273212882">full video</a>.</figcaption>
 </figure>
 <section>
-	<h3>⚡ Announcement 0206</h3>
-	<p>With 24 applications sent in we are happy to announce the selected artists: <a href="http://manualvisuals.com/">Freya Sif Hestnes</a> (DK), <a href="https://www.instagram.com/lill.usion/">Sofia-lill Jansson</a> (SE), <a href="www.av-arkki.fi/en/artists/samuli-alapuranen_en/">Samuli Alapuranen</a> (FI) and <a href="http://www.danielwirtberg.com/">Daniel Wirtberg</a> (SE).</p>
+    <h3>⚡ Announcement 0206</h3>
+    <p>With 24 applications sent in we are happy to announce the selected artists: <a href="http://manualvisuals.com/">Freya Sif Hestnes</a> (DK), <a href="https://www.instagram.com/lill.usion/">Sofia-lill Jansson</a> (SE), <a href="www.av-arkki.fi/en/artists/samuli-alapuranen_en/">Samuli Alapuranen</a> (FI) and <a href="http://www.danielwirtberg.com/">Daniel Wirtberg</a> (SE).</p>
 </section>
 <hr>
 <section class="expired">
@@ -44,10 +44,10 @@ tags: page
     </ul>
 </section>
 <figure>
-	<img src="harpa2.jpg" />
-	<figcaption>Harpa concert hall, Reykjavik</figcaption>
+    <img src="harpa2.jpg" />
+    <figcaption>Harpa concert hall, Reykjavik</figcaption>
 </figure>
 <section>
-	<p>This open call was made possible by the Nordic Culture Fund.</p>
-	<a href="https://www.nordiskkulturfond.org/"><img src="logo-nordisk-kulturfond.png" height="30"/></a>
+    <p>This open call was made possible by the Nordic Culture Fund.</p>
+    <a href="https://www.nordiskkulturfond.org/"><img src="logo-nordisk-kulturfond.png" height="30"/></a>
 </section>
