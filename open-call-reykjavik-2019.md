@@ -1,5 +1,5 @@
 ---
-title: ⛰️ Open call Reykjavik
+title: 🗻 Open call Reykjavik
 heading: Open call
 layout: layouts/opencall.njk
 preamble: Reykjavik 2019<br>25—27 April
