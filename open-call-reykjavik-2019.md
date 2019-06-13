@@ -8,6 +8,7 @@ tags: page
 ---
 
 <section>
+    <h3>Announcement ⚡</h3>
     <div style="padding:56.25% 0 0 0;position:relative;">
         <iframe src="https://player.vimeo.com/video/341871873?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
     </div>
@@ -17,7 +18,7 @@ tags: page
     <p>With the announcement of the <a href="https://sonarreykjavik.com/en/2019/news/cancellation-statement">Sónar Reykjavik cancellation</a> we are co-hosting the unique audiovisual experience <a href="https://www.facebook.com/events/318340158851910/">Skaðablót at Bíó Paradís</a> together with Plútó.</p>
 </section>
 <figure>
-    <video src="reykjavik2019.mp4" poster="reykjavik2019.png" width="960" height="540" muted autoplay loop playsinline></video>
+    <video src="opencall/reykjavik2019.mp4" poster="reykjavik2019.png" width="960" height="540" muted autoplay loop playsinline></video>
 </figure>
 <section class="expired">
     <h2>Open call</h2>
@@ -43,7 +44,7 @@ tags: page
     </ul>
 </section>
 <figure>
-    <img src="skadablot1.jpg" />
+    <img src="opencall/skadablot1.jpg" />
     <figcaption>Tirador and Örvar Smärason</figcaption>
 </figure>
 <section>

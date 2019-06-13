@@ -12,7 +12,7 @@ tags: page
     <p>Get your <a href="https://www.roskilde-festival.dk/en/">ticket to the festival</a> and come early so you get the full experience :)</p>
 </section>
 <figure>
-	<video src="roskilde2018.mp4" poster="roskilde2018.png" width="960" height="540" muted autoplay loop playsinline></video>
+	<video src="opencall/roskilde2018.mp4" poster="roskilde2018.png" width="960" height="540" muted autoplay loop playsinline></video>
 	<figcaption>
 		2018 Roskilde participants: <a href="http://sortstoj.dk/">Lars Buchholtz</a>,
 		<a href="http://www.kristinwichstrom.com/">Kristin Wichstrom</a>, <a href="https://vertigo.dk/">Vertigo</a>,
@@ -50,6 +50,6 @@ tags: page
 	</ul>
 </section>
 <figure>
-	<img src="countdown.jpg" />
+	<img src="opencall/countdown.jpg" />
 	<figcaption>Countdown stage, Roskilde</figcaption>
 </figure>

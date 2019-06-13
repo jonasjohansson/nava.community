@@ -8,7 +8,7 @@ tags: page
 ---
 
 <figure>
-    <video src="nava2018.mp4" poster="nava2018.png" width="960" height="540" muted autoplay loop playsinline></video>
+    <video src="opencall/reykjavik2018.mp4" poster="reykjavik2018.png" width="960" height="540" muted autoplay loop playsinline></video>
     <figcaption>Documentation of NAVA 2018. View <a href="https://vimeo.com/273212882">full video</a>.</figcaption>
 </figure>
 <section>
@@ -40,7 +40,7 @@ tags: page
     </ul>
 </section>
 <figure>
-    <img src="harpa2.jpg" />
+    <img src="opencall/harpa2.jpg" />
     <figcaption>Harpa concert hall, Reykjavik</figcaption>
 </figure>
 <section>
