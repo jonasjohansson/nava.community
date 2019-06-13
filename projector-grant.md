@@ -1,7 +1,7 @@
 ---
 title: 📽️ Adapt Projector Grant
 heading: Apply
-layout: layouts/opencall.njk
+layout: layouts/page.njk
 tags: page
 ---
 
