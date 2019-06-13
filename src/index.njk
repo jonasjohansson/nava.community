@@ -1,0 +1,34 @@
+---
+layout: layouts/default.njk
+body_class: home
+members: [
+	{name: Jonas Johansson, url: https://jonasjohansson.se, avatar: jonas},
+	{name: Rasmus Stride, url: http://www.stridestud.io/, avatar: rasmus},
+	{name: Katrín Hauksdottir, url: https://www.katikati.me/, avatar: katrin},
+	{name: Atli Bollason, url: https://atlibollason.com/, avatar: atli},
+	{name: Owen Hindley, url: http://www.owenhindley.co.uk/, avatar: owen}
+	]
+
+---
+
+<base href="/assets/media/">
+<section>
+	<h1>Nordic<br />Audio<br />Visual<br />Artists.</h1>
+	<!-- <img class="logo" src="logo-nava-wireframe.svg"> -->
+</section>
+<section>
+	<p>
+		{{ site.description }}
+	</p>
+	<nav>
+	{% for page in collections.page | reverse %}
+		<a style="display:block;" href="{{ page.url }}">{{ page.data.title }}</a>
+	{% endfor %}
+	</nav>
+	<span>NAVA is managed by</span>
+	<nav>
+	{% for member in members %}
+		<a href="{{ member.url }}" target="_blank">{{ member.name }}{% if member.avatar %}<img class="avatar" src="avatar-{{ member.avatar }}.gif">{% endif %}</a>
+	{% endfor %}
+	</nav>
+</section>

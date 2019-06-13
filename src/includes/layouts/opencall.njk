@@ -1,0 +1,17 @@
+---
+layout: layouts/default.njk
+---
+
+<base href="/assets/media/" target="_blank" />
+
+<section style="text-align:center">
+    <!-- <h1><img src="logo-nava.svg" height="28" /></h1> -->
+    <h2>{{ heading }}</h2>
+    {% if preamble %}
+    <p>
+        <em>{{ preamble | safe }}</em>
+    </p>
+	{% endif %}
+</section>
+
+{{ content | safe }}
