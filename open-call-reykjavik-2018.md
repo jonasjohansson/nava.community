@@ -46,6 +46,7 @@ tags: page
         <li>19.04.25-27 Rehearsal and performance</li>
     </ul>
 </section>
+<hr>
 <section>
 	<p>This open call was made possible by the Nordic Culture Fund.</p>
 	<a href="https://www.nordiskkulturfond.org/"><img src="logo-nordisk-kulturfond.png" height="30"/></a>
