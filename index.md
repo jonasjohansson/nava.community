@@ -29,11 +29,11 @@ members: [
 	<nav>
 		<a style="display:block;" href="/open-call-reykjavik-2018/">⛰️ Open call Reykjavik</a>
 	</nav>
-	<nav>
-		<!-- {% for page in collections.page | reverse %}
+	<!-- <nav>
+		{% for page in collections.page | reverse %}
 		<a style="display:block;" href="{{ page.url }}">{{ page.data.title }}</a>
-		{% endfor %} -->
-	</nav>
+		{% endfor %}
+	</nav>-->
 	<span>NAVA is managed by</span>
 	<nav>
 		{% for member in members %}
