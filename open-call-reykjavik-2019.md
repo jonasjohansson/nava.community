@@ -14,7 +14,7 @@ tags: page
     </div>
     <script src="https://player.vimeo.com/api/player.js"></script>
     <h3>Announcement ⚡</h3>
-    <p>With 124 applications sent in we are happy to announce the selected artists: <a href="https://www.instagram.com/tiradorstudio/">Tirador</a> (ES), <a href="http://vanta.xyz">Van Ta</a> (ES) and <a href="http://www.spacelight.berlin/">Jana Spacelight</a> (DE).</p>
+    <p>With 124 applications sent in we are happy to announce the selected artists: <a href="https://www.instagram.com/tiradorstudio/">Tirador</a> (ES), <a href="http://vanta.xyz">Van Ta</a> (ES) <a href="http://www.spacelight.berlin/">Jana Spacelight</a> (DE).</p>
     <p>With the announcement of the <a href="https://sonarreykjavik.com/en/2019/news/cancellation-statement">Sónar Reykjavik cancellation</a> we are co-hosting the unique audiovisual experience <a href="https://www.facebook.com/events/318340158851910/">Skaðablót at Bíó Paradís</a> together with Plútó.</p>
 </section>
 <!-- <figure>
@@ -44,8 +44,8 @@ tags: page
     </ul>
 </section>
 <figure>
-    <img src="harpa2.jpg" />
-    <figcaption>Harpa concert hall, Reykjavik</figcaption>
+    <img src="skadablot1.jpg" />
+    <figcaption>Tirador and Örvar Smärason</figcaption>
 </figure>
 <section>
     <p>This open call is made possible by the Nordic Culture Fund.</p>
