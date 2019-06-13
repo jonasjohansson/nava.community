@@ -10,7 +10,7 @@ tags: page
 
 <section>
 	<h3>Announcement ⚡</h3>
-	<p>Sónar Reykjavik 2018 is over and it was a blast! The NAVA team and friends hosted SónarSpil and brought audio/visual experimentation to Reykjavik alongside the unique performances made by the invited artists. We also hosted our very first meetup which led to great conversations and clues of what we should focus on next.</p>
+	<p>Sónar Reykjavik 2018 is over and it was a blast! The NAVA team and friends hosted <a href="https://sonarreykjavik.com/en/2018/sonarspil">SónarSpil</a> and brought audio/visual experimentation to Reykjavik alongside the unique performances made by the invited artists. We also hosted our very first meetup which led to great conversations and clues of what we should focus on next.</p>
 </section>
 <figure>
 	<video src="nava2018.mp4" poster="nava2018.png" width="960" height="540" muted autoplay loop playsinline></video>
