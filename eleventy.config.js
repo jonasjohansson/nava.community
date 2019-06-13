@@ -48,8 +48,9 @@ module.exports = eleventyConfig => {
 			input: '.',
 			includes: '11',
 			data: '11',
-			output: 'public'
+			output: 'www'
 		},
+
 		markdownTemplateEngine: 'njk',
 		htmlTemplateEngine: 'njk',
 		dataTemplateEngine: 'njk',
