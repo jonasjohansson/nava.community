@@ -9,8 +9,9 @@ tags: page
 ---
 
 <section>
+    <iframe src="https://player.vimeo.com/video/273212882" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
     <h3>Announcement ⚡</h3>
-    <p>With 24 applications sent in we are happy to announce the selected artists: <a href="http://manualvisuals.com/">Freya Sif Hestnes</a> (DK), <a href="https://www.instagram.com/lill.usion/">Sofia-lill Jansson</a> (SE), <a href="www.av-arkki.fi/en/artists/samuli-alapuranen_en/">Samuli Alapuranen</a> (FI) and <a href="http://www.danielwirtberg.com/">Daniel Wirtberg</a> (SE).
+    <p>With 24 applications sent in we are happy to announce the selected artists: <a href="http://manualvisuals.com/">Freya Sif Hestnes</a> (DK), <a href="https://www.instagram.com/lill.usion/">Sofia-lill Jansson</a> (SE), <a href="www.av-arkki.fi/en/artists/samuli-alapuranen_en/">Samuli Alapuranen</a> (FI) and <a href="http://www.danielwirtberg.com/">Daniel Wirtberg</a> (SE).</p>
 </section>
 <figure>
     <video src="nava2018.mp4" poster="nava2018.png" width="960" height="540" muted autoplay loop playsinline></video>
