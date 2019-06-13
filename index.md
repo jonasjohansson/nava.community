@@ -8,10 +8,9 @@ members: [
 	{name: Atli Bollason, url: https://atlibollason.com/, avatar: atli},
 	{name: Owen Hindley, url: http://www.owenhindley.co.uk/, avatar: owen}
 	]
-
 ---
 
-<base href="/assets/media/">
+<base href="/assets/media/" />
 <section>
 	<h1>Nordic<br />Audio<br />Visual<br />Artists.</h1>
 	<!-- <img class="logo" src="logo-nava-wireframe.svg"> -->
@@ -20,15 +19,26 @@ members: [
 	<p>
 		{{ site.description }}
 	</p>
+	<span>2019</span>
 	<nav>
-	{% for page in collections.page | reverse %}
+		<a style="display:block;" href="/open-call-roskilde-2019/">🌻 Open call Roskilde</a>
+		<a style="display:block;" href="/open-call-reykjavik-2019/">🗻 Open call Reykjavik</a>
+		<!-- <a style="display:block;" href="/projector-grant/">📽️ Adapt Projector Grant</a> -->
+	</nav>
+	<nav>
+		<a style="display:block;" href="/open-call-reykjavik-2018/">⛰️ Open call Reykjavik</a>
+	</nav>
+	<nav>
+		<!-- {% for page in collections.page | reverse %}
 		<a style="display:block;" href="{{ page.url }}">{{ page.data.title }}</a>
-	{% endfor %}
+		{% endfor %} -->
 	</nav>
 	<span>NAVA is managed by</span>
 	<nav>
-	{% for member in members %}
-		<a href="{{ member.url }}" target="_blank">{{ member.name }}{% if member.avatar %}<img class="avatar" src="avatar-{{ member.avatar }}.gif">{% endif %}</a>
-	{% endfor %}
+		{% for member in members %}
+		<a href="{{ member.url }}" target="_blank"
+			>{{ member.name }}{% if member.avatar %}<img class="avatar" src="avatar-{{ member.avatar }}.gif" />{% endif %}</a
+		>
+		{% endfor %}
 	</nav>
 </section>
