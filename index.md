@@ -25,6 +25,7 @@ members: [
 		<a style="display:block;" href="/open-call-reykjavik-2019/">🗻 Open call Reykjavik</a>
 		<!-- <a style="display:block;" href="/projector-grant/">📽️ Adapt Projector Grant</a> -->
 	</nav>
+	<span>2018</span>
 	<nav>
 		<a style="display:block;" href="/open-call-reykjavik-2018/">⛰️ Open call Reykjavik</a>
 	</nav>
