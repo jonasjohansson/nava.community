@@ -1,7 +1,7 @@
 ---
 heading: Roskilde
 layout: layouts/page.njk
-preamble: Countdown stage, Roskilde Festival 2019 <br />29 June-7 July
+preamble: 29 June-7 July
 body_class:
 tags: page
 ---
