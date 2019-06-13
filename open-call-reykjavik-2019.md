@@ -1,7 +1,7 @@
 ---
 heading:
 layout: layouts/page.njk
-preamble: Reykjavik 2019, 25—27 April
+preamble: Reykjavik 2019<br>25—27 April
 assets: /reykjavik/
 body_class:
 tags: page
