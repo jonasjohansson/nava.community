@@ -1,10 +1,9 @@
 ---
-title: 🗻 Open call Reykjavik
-heading: Open call
-layout: layouts/opencall.njk
+heading: Reykjavik
+layout: layouts/page.njk
 preamble: Reykjavik 2019<br>25—27 April
 assets: /reykjavik/
-body_class: open-call
+body_class:
 tags: page
 ---
 
@@ -21,7 +20,8 @@ tags: page
     <video src="reykjavik2019.mp4" poster="reykjavik2019.png" width="960" height="540" muted autoplay loop playsinline></video>
 </figure>
 <section class="expired">
-    <p>NAVA is again inviting artists to perform live visuals (VJ) and participate in the annual meetup. Selected artists will be paired with music acts for a collaborative and unique performance.</p>
+    <h2>Open call</h2>
+    <p>NAVA is inviting artists to perform live visuals (VJ) and participate in the annual meetup. Selected artists will be paired with music acts for a collaborative and unique performance.</p>
     <p>Join the team and help create this years audiovisual experience in Reykjavik!</p>
     <h3>Apply</h3>
     <ul>

@@ -1,9 +1,8 @@
 ---
-title: 🌻 Open call Roskilde
-heading: Open call
-layout: layouts/opencall.njk
+heading: Roskilde
+layout: layouts/page.njk
 preamble: Countdown stage, Roskilde Festival 2019 <br />29 June-7 July
-body_class: open-call
+body_class:
 tags: page
 ---
 
@@ -23,8 +22,9 @@ tags: page
 	</figcaption>
 </figure>
 <section class="expired">
+	<h2>Open call</h2>
 	<p>
-		NAVA and Roskilde Festival is again inviting artists resident in <em>Denmark, Sweden and Norway</em> to perform live visuals
+		NAVA and Roskilde Festival is  inviting artists resident in <em>Denmark, Sweden and Norway</em> to perform live visuals
 		(VJ) at the Countdown stage. Selected artists will be paired with booked music acts for a collaborative and unique
 		performance.
 	</p>
