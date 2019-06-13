@@ -21,6 +21,8 @@ tags: page
 	<p>With 24 applications sent in we are happy to announce the selected artists: <a href="http://manualvisuals.com/">Freya Sif Hestnes</a> (DK), <a href="https://www.instagram.com/lill.usion/">Sofia-lill Jansson</a> (SE), <a href="www.av-arkki.fi/en/artists/samuli-alapuranen_en/">Samuli Alapuranen</a> (FI) and <a href="http://www.danielwirtberg.com/">Daniel Wirtberg</a> (SE).</p>
 </section>
 <figure>
+	<img src="harpa2.jpg" />
+	<figcaption>Harpa concert hall, Reykjavik</figcaption>
 </figure>
 <section class="expired">
     <p>NAVA is again inviting artists to perform live visuals (VJ) and participate in the annual meetup. Selected artists will be paired with music acts for a collaborative and unique performance.</p>
@@ -44,10 +46,6 @@ tags: page
         <li>19.04.25-27 Rehearsal and performance</li>
     </ul>
 </section>
-<figure>
-	<img src="harpa2.jpg" />
-	<figcaption>Harpa concert hall, Reykjavik</figcaption>
-</figure>
 <section>
 	<p>This open call was made possible by the Nordic Culture Fund.</p>
 	<a href="https://www.nordiskkulturfond.org/"><img src="logo-nordisk-kulturfond.png" height="30"/></a>
