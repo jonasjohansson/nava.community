@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en" prefix="og: http://ogp.me/ns#">
-<head>
-	<title>{{ site.title }}</title>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width,user-scalable=no" />
-	<script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-	{% set css %} 
-		{% include "assets/css/modern-normalize.min.css" %} 
-		{% include "assets/css/template.css" %} 
-		{% include "assets/css/style.css" %} 
-		{% include "assets/css/fonts.css" %} 
-	{% endset %}
-	<style>{{ css | cssmin | safe }}</style>
-</head>
+    <head>
+        <title>{{ site.title }}</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width,user-scalable=no" />
+        <link rel="preload" as="font" href="/fonts/NotoSans-Light.woff2" type="font/woff2" crossorigin="anonymous" />
+		{% set css %} 
+			{% include "assets/css/modern-normalize.min.css" %} 
+			{% include "assets/css/template.css" %} 
+			{% include "assets/css/style.css" %} 
+		{% endset %}
+		<style>{{ css | cssmin | safe }}</style>
+    </head>
+</html>

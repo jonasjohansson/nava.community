@@ -58,3 +58,12 @@ input[type='text'] {
         font-size: 1.2rem !important;
     }
 }
+
+@font-face {
+    font-family: 'Trim';
+    font-weight: 400;
+    font-style: normal;
+    src: url(/fonts/Trim-Light.woff2) format('woff2');
+    unicode-range: U+000-5FF;
+    font-display: swap;
+}
