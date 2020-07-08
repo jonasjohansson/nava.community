@@ -1,0 +1,10 @@
+---
+layout: base.njk
+section: page
+---
+
+<section class="text-layout">
+    <h1>{{ title }}<br>{{ preamble | safe }}</h1>
+</section>
+
+{{ content | wrap | safe }}

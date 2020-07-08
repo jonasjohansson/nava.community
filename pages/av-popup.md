@@ -11,9 +11,7 @@ theme:
 
 [Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) announced the possibility to rent their [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) at a reduced price. We seized the moment.
 
-NAVA and [Teckmantel](https://www.facebook.com/teckmantel/) are inviting artists to perform live visuals (VJ) in Stockholm. Selected artists will be paired with music acts for a collaborative and unique performance.
-
-The music acts will be announced along with the visual artists.
+NAVA is inviting both visual as electronic music artists to perform at a special outdoor location in Stockholm. Selected artists will be paired for a collaborative and unique performance.
 
 ### Apply
 

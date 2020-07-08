@@ -5,6 +5,11 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width,user-scalable=no" />
 	<script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-	{% set css %} {% include "assets/css/style.css" %} {% endset %}
+	{% set css %} 
+		{% include "assets/css/modern-normalize.min.css" %} 
+		{% include "assets/css/template.css" %} 
+		{% include "assets/css/style.css" %} 
+		{% include "assets/css/fonts.css" %} 
+	{% endset %}
 	<style>{{ css | cssmin | safe }}</style>
 </head>
