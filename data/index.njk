@@ -1,0 +1,15 @@
+---
+layout: base.njk
+section: home
+---
+
+<section>
+    <p>{{ site.description }}</p>
+        {% for page in collections.page %}
+         <a href="{{ page.data.permalink }}">{{ page.data.theme.emoji }} {{ page.data.title }}</a>
+        {% endfor %}
+        {% for member in site.members %}
+        <a href="{{ member.url }}" target="_blank">{{ member.emoji }} {{ member.name }}</a>
+        {% endfor %}
+        ☞ <a href="https://tinyletter.com/nordicaudiovisualartists">Subscribe to our newsletter</a>
+</section>

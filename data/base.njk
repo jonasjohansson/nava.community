@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+	{% include "head.njk" %}
+<body id="{{ section }}">
+
+	<div id="nav">
+		<nav>
+		{%- for nav in collections.nav | sort(attribute="date") -%}
+			<a href="{{ nav.url | url }}"{% if nav.url == page.url %} {% endif %}>
+				{{ nav.data.title }}
+			</a>
+		{%- endfor -%}
+		</nav>
+	</div>
+
+	<article>
+<section class="text-layout">
+    <h1>{{ title }}<br>{{ preamble | safe }}</h1>
+</section>
+
+{{ content | wrap | safe }}
+	</article>
+
+	{% if theme %}
+	<style>
+		body {
+			background-image: linear-gradient({{ theme.background_color }}); 
+			color: {{ theme.text_color }};
+		}
+	</style>
+	{% endif %}
+
+</body>
+</html>
