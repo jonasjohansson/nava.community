@@ -3,8 +3,10 @@ title: Reykjavik 2019
 preamble: 25–27 April
 permalink: /reykjavik-2019/
 theme:
-  background_color: "#0d275a, #090f22"
-  emoji: ⛰️
+    background_color: '#0d275a, #090f22'
+    emoji: ⛰️
+layout: page.njk
+tags: page
 ---
 
 With 124 applications sent in we are happy to announce the selected artists: [Tirador](https://www.instagram.com/tiradorstudio/) (ES), [Van Ta](http://vanta.xyz) (ES) and [Jana Spacelight](http://www.spacelight.berlin/) (DE).
@@ -23,23 +25,19 @@ Join the team and help create this years audiovisual experience in Reykjavik!
 
 ### Apply
 
-- Application deadline: 28th of February 2019, 24:00 CET
-- [Application form](https://goo.gl/forms/9GD0fc414lgy7pgK2)
+-   Application deadline: 28th of February 2019, 24:00 CET
+-   [Application form](https://goo.gl/forms/9GD0fc414lgy7pgK2)
 
 ### Compensation
 
-- Artist honorarium 250€ + Travel grant 250€
-- Festival pass
+-   Artist honorarium 250€ + Travel grant 250€
+-   Festival pass
 
 ### Schedule
 
-- 19.02.01 Open call start
-- 19.02.28 Open call end
-- 19.03.04 Invited artists announced by email (no email = not selected)
-- 19.04.25-27 Rehearsal and performance
+-   19.02.01 Open call start
+-   19.02.28 Open call end
+-   19.03.04 Invited artists announced by email (no email = not selected)
+-   19.04.25-27 Rehearsal and performance
 
-{% image "/static/img/harpa2.jpg"  %}
-
-Supported by Nordisk Kulturfond.
-
-[<img src="/static/img/logo-nordisk-kulturfond.png" height="24">](https://www.nordiskkulturfond.org/)
+{% img "harpa2.jpg"  %}

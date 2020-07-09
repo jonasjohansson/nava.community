@@ -112,6 +112,7 @@ figure:last-of-type:not(:first-of-type) figcaption {
     /*line-height: 0;*/
 }
 
+img,
 figure img,
 figure video {
     width: 100%;

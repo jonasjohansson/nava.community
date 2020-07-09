@@ -1,6 +1,9 @@
+const htmlmin = require('html-minifier')
 const CleanCSS = require('clean-css')
 const UglifyJS = require('uglify-es')
-const htmlmin = require('html-minifier')
+const Image = require('@11ty/eleventy-img')
+
+const imageFolder = 'assets/images/'
 
 module.exports = function (eleventyConfig) {
     eleventyConfig.addPairedShortcode('div', function (content, className = '') {
@@ -19,9 +22,24 @@ module.exports = function (eleventyConfig) {
         return `<figure class="video"><video src="${path}" poster="${poster}" width="960" height="540" muted autoplay loop playsinline></video><figcaption>${description}</figcaption></figure>`
     })
 
-    eleventyConfig.addShortcode('image', function (path, description = '') {
-        return `<figure class="image"><img src="${path}"><figcaption>${description}</figcaption></figure>`
+    eleventyConfig.addShortcode('img', async function (path) {
+        const props = await optimImg(path)
+        return `<img src="${props.url}">`
     })
+
+    eleventyConfig.addShortcode('fig', async function (path, caption = '') {
+        const props = await optimImg(path)
+        return `<figure><img src="${props.url}"><figcaption>${caption}</figcaption></figure>`
+    })
+
+    async function optimImg(path, outputFormat = 'jpeg') {
+        let stats = await Image('assets/images/' + path, {
+            widths: [null],
+            formats: [outputFormat],
+            outputDir: 'docs/img/'
+        })
+        return stats[outputFormat].pop()
+    }
 
     eleventyConfig.addFilter('wrap', function (string) {
         string = string.trim()
@@ -58,33 +76,6 @@ module.exports = function (eleventyConfig) {
         }
         return content
     })
-
-    // only content in the `posts/` directory
-    eleventyConfig.addCollection('posts', function (collection) {
-        return collection.getAllSorted().filter(function (item) {
-            return item.inputPath.match(/^\.\/posts\//) !== null
-        })
-    })
-
-    // Don't process folders with static assets e.g. images
-    // eleventyConfig.addPassthroughCopy('static/img')
-    // eleventyConfig.addPassthroughCopy('_includes/assets/')
-
-    /* Markdown Plugins */
-    // let markdownIt = require('markdown-it')
-    // let markdownItAnchor = require('markdown-it-anchor')
-    // let options = {
-    //     html: true,
-    //     breaks: true,
-    //     linkify: true
-    // }
-    // let opts = {
-    //     permalink: false
-    // }
-
-    // eleventyConfig.setLibrary('md', markdownIt(options).use(markdownItAnchor, opts))
-
-    // eleventyConfig.addPassthroughCopy('assets')
 
     return {
         templateFormats: ['css', 'json', 'md', 'njk', 'html', 'liquid'],
