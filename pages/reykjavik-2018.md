@@ -6,15 +6,17 @@ permalink: /reykjavik-2018/
 theme:
     background_color: '#080915, #05275b'
     emoji: 🏔️
+layout: page.njk
+tags: page
 ---
 
 With 24 applications sent in we are happy to announce the selected artists: [Freya Sif Hestnes](http://manualvisuals.com/) (DK), [Sofia-lill Jansson](https://www.instagram.com/lill.usion/) (SE), [Samuli Alapuranen](www.av-arkki.fi/en/artists/samuli-alapuranen_en/) (FI) and [Daniel Wirtberg](http://www.danielwirtberg.com/) (SE).
 
 See the [project video](https://vimeo.com/273212882).
 
-{% video "/static/img/nava2018.mp4"  %}
+{% video "/video/nava2018.mp4"  %}
 
-## Open call
+<!-- ## Open call
 
 NAVA is inviting 4 acts to perform live visuals during the festival and actively participate in the first meetup. Selected acts will be paired with sound artists / musicians for a collaborative performance.
 
@@ -43,6 +45,8 @@ Read the [FAQ](https://goo.gl/B1wG6m) for questions and leave a comment for new 
 -   18.03.15 Meet & Greet with invited artists
 -   18.03.16 Meetup NAVA
 -   18.03.16-17 Sonar Reykjavik, rehearsal and performance
--   18.03.18 Meetup NAVA wrapup
+-   18.03.18 Meetup NAVA wrapup -->
 
 {% img "harpa3.jpg"  %}
+
+Supported by Nordisk Kulturfond.

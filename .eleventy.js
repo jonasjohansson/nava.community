@@ -3,13 +3,7 @@ const CleanCSS = require('clean-css')
 const UglifyJS = require('uglify-es')
 const Image = require('@11ty/eleventy-img')
 
-const imageFolder = 'assets/images/'
-
 module.exports = function (eleventyConfig) {
-    eleventyConfig.addPairedShortcode('div', function (content, className = '') {
-        return `<div class="${className}">${content}</div>`
-    })
-
     eleventyConfig.addPairedShortcode('video2', function (content, path, poster = '') {
         return `<figure class="video"><video src="${path}" poster="${poster}" width="960" height="540" muted autoplay loop playsinline></video><figcaption>${content}</figcaption></figure>`
     })
@@ -32,13 +26,17 @@ module.exports = function (eleventyConfig) {
         return `<figure><img src="${props.url}"><figcaption>${caption}</figcaption></figure>`
     })
 
-    async function optimImg(path, outputFormat = 'jpeg') {
+    async function optimImg(path, opts = {}) {
+        const widths = opts?.widths || [null]
+        const outputFormat = opts?.outputFormat || path.split('.').pop()
+        const outputDir = 'docs/img/'
         let stats = await Image('assets/images/' + path, {
-            widths: [null],
-            formats: [outputFormat],
-            outputDir: 'docs/img/'
+            widths: widths,
+            formats: outputFormat,
+            outputDir: outputDir
         })
-        return stats[outputFormat].pop()
+        if (widths.length > 1) return stats
+        else return stats[outputFormat].pop()
     }
 
     eleventyConfig.addFilter('wrap', function (string) {

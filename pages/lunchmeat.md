@@ -9,11 +9,11 @@ layout: page.njk
 tags: page
 ---
 
+{% img "lunchmeat-face2.png"  %}
+
 [Lunchmeat Festival](https://www.lunchmeatfestival.cz/2019/) is an annual international festival dedicated to advanced electronic music and new media art based in Prague, Czech Republic. Since 2010, it brings carefully selected creators from different art spheres together on one stage, creating a truly synesthetic experience.
 
 We managed to see near every act in the lineup and had the pleasure of dancing ourselves sweaty to Octave One, being drawn into the laser scanned realms of Ryoichi Kurokawa, flowing along with the endless iterations of movements if Murcof & Sergi Palau and being terrified and mesmerised by Sote & Boris Vitázek!
-
-{% img "lunchmeat-face2.png"  %}
 
 This year Lunchmeat invited NAVA to participate in a symposium on digital arts, as well as initiating discussions on future collaborations.
 

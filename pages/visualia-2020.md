@@ -1,17 +1,17 @@
 ---
-title: AV Popup 2020
+title: Visualia 2020
 preamble: 11 September
-permalink: /av-popup-2020/
+permalink: /visualia-2020/
 theme:
-    background_color: '#00acc5, #010000'
+    background_color: '#0058c5, #010000'
     emoji: 📽️
 layout: page.njk
 tags: page
 ---
 
-## Open call
-
 [Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) announced the possibility to rent their [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) at a reduced price. NAVA is inviting both visual as electronic music artists to perform at a special outdoor location in Stockholm. Selected artists will be paired for a collaborative and unique performance.
+
+{% img "visualia.png"  %}
 
 ### Apply
 
@@ -26,7 +26,7 @@ There is no monetary compensation in this event. In return, we will provide you 
 
 -   20.07.13 Open call start
 -   20.08.03 Open call end
--   20.08.04 Invited artists announced by email (no email = not selected)
+-   20.08.04 Invited artists announced by email
 -   20.09.11 Performance
 
 ### Location

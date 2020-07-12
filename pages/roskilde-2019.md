@@ -15,9 +15,9 @@ The danish skies will be illuminated by: [Iona](http://sphericalaberration.com/)
 
 See the project video from [2016](https://vimeo.com/189804807), [2017](https://vimeo.com/260916448) and [2018](https://vimeo.com/311308885).
 
-{% video "/static/img/roskilde2018.mp4" %}
+{% video "/video/roskilde2018.mp4" %}
 
-## Open call
+<!-- ## Open call
 
 NAVA and Roskilde Festival is inviting artists resident in _Denmark, Sweden and Norway_ to perform live visuals (VJ) at the Countdown stage. Selected artists will be paired with booked music acts for a collaborative and unique performance.
 
@@ -41,6 +41,6 @@ Read the [FAQ](https://goo.gl/iY6GLT) for questions and leave a comment for new 
 -   19.04.12 Open call end
 -   19.04.19 Invited artists announced by email (no email = not selected)
 -   19.06.29-19.07.02 Countdown stage performance
--   19.07.07 Festival end
+-   19.07.07 Festival end -->
 
 {% img "countdown.jpg" %}

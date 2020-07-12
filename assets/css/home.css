@@ -1,0 +1,30 @@
+#home {
+    /* font-size: max(54px, min(7vw, 96px)); */
+    /* height: 100%; */
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+#home article > * {
+    padding: 0;
+}
+
+#home > p {
+    padding: 0 var(--base);
+    text-transform: uppercase;
+}
+
+nav a {
+    /* display: block; */
+    /* padding: 1rem; */
+    background: none !important;
+}
+
+/* nav a:hover {
+    text-decoration: underline;
+} */
+
+/* nav a span {
+    color: white;
+    mix-blend-mode: hard-light;
+} */

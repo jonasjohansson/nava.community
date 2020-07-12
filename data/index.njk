@@ -1,15 +1,19 @@
----
-layout: base.njk
-section: home
----
+{% include "head.njk" %}
 
-<section>
-    <p>{{ site.description }}</p>
-        {% for page in collections.page %}
-         <a href="{{ page.data.permalink }}">{{ page.data.theme.emoji }} {{ page.data.title }}</a>
-        {% endfor %}
-        {% for member in site.members %}
-        <a href="{{ member.url }}" target="_blank">{{ member.emoji }} {{ member.name }}</a>
-        {% endfor %}
-        ☞ <a href="https://tinyletter.com/nordicaudiovisualartists">Subscribe to our newsletter</a>
-</section>
+<nav>
+    <span>{{ site.description }}</span>
+    {% for page in collections.page %}
+    {{ page.data.theme.emoji }}
+    <a href="{{ page.data.permalink }}">
+        <span>{{ page.data.title }}</span>
+    </a>
+    {% endfor %} {% for member in site.members %}
+    {{ member.emoji }}
+    <a href="{{ member.url }}" target="_blank">{{ member.name }}</a>
+    {% endfor %}
+    <a style="background-color: #eee;" href="https://tinyletter.com/nordicaudiovisualartists">
+        ☞ Subscribe to our newsletter
+    </a>
+</nav>
+
+{% include "foot.njk" %}

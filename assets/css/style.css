@@ -1,69 +1,95 @@
+:root {
+    --base: 1rem;
+    --padding-side: 6vw;
+    --black: #0b0b0b;
+    --white: #ebebeb;
+}
+
+html {
+    font: max(28px, min(2.4vw, 56px)) / 1.25 'TT Firs Neue', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+    will-change: filter;
+    transition: filter 20ms ease-in;
+    background-color: var(--black);
+    color: var(--white);
+}
+
+html.invert {
+    filter: invert(1);
+}
+
+#home,
+h1 {
+    font-size: max(54px, min(7vw, 96px));
+}
+
 body {
-    font-family: 'Trim', system-ui;
-}
-
-body:not(#home) {
-    background-color: black;
-    color: white;
-}
-
-body#home {
-    /* max-width: 960px; */
-    /* font-size: 2.5rem; */
-    font-size: 5.5vw;
-    /* height: 80vh; */
-    height: 100%;
-    padding: 1rem;
     margin: 0 auto;
+    box-sizing: border-box;
 }
 
-body#home article > * {
-    padding: 0;
+/* basic */
+
+a {
+    color: inherit;
+    text-decoration: none;
 }
 
-/* body#home > article {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
-} */
-
-nav a span,
-p a,
-li a {
-    text-decoration: underline;
+a:not(:hover) {
+    opacity: 0.6;
 }
 
-input {
-    padding: calc(var(--base) / 2);
-    font-weight: inherit;
+h2 {
+    text-transform: uppercase;
 }
 
-input[type='text'] {
-    margin-right: var(--base);
+h2,
+h3 {
+    font-size: inherit;
+    letter-spacing: 0.01em;
 }
 
-@media (max-width: 540px) {
-    form input {
-        width: 100%;
-        float: left;
-    }
-    form input[type='text'] {
-        margin-bottom: var(--base);
-        margin-right: var(--base);
-    }
+ul {
+    list-style: square;
+    padding-left: 1em;
 }
 
-@media (max-width: 800px) {
-    body {
-        font-size: 1.2rem !important;
-    }
+p,
+article > *,
+section > *:not(:last-child) {
+    margin-bottom: calc(var(--base) * 1.5);
 }
 
-@font-face {
+article > * {
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0 calc(var(--base) * 1);
+    box-sizing: border-box;
+}
+
+section p:first-child {
+    margin-top: 0;
+}
+
+/* other */
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+/* @font-face {
     font-family: 'Trim';
     font-weight: 400;
     font-style: normal;
     src: url(/fonts/Trim-Light.woff2) format('woff2');
+    unicode-range: U+000-5FF;
+    font-display: swap;
+} */
+
+@font-face {
+    font-family: 'TT Firs Neue';
+    /* font-weight: 200; */
+    font-style: normal;
+    src: url('/fonts/TTFirsNeue-ExtraLight.woff2') format('woff2');
     unicode-range: U+000-5FF;
     font-display: swap;
 }

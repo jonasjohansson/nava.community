@@ -15,9 +15,9 @@ With the announcement of the [Sónar Reykjavik cancellation](https://sonarreykja
 
 See the [project video](https://vimeo.com/341871873).
 
-{% video "/static/img/reykjavik2019.mp4"  %}
+{% video "/video/reykjavik2019.mp4"  %}
 
-## Open call
+<!-- ## Open call
 
 NAVA is inviting artists to perform live visuals (VJ) and participate in the annual meetup. Selected artists will be paired with music acts for a collaborative and unique performance.
 
@@ -38,6 +38,8 @@ Join the team and help create this years audiovisual experience in Reykjavik!
 -   19.02.01 Open call start
 -   19.02.28 Open call end
 -   19.03.04 Invited artists announced by email (no email = not selected)
--   19.04.25-27 Rehearsal and performance
+-   19.04.25-27 Rehearsal and performance -->
 
 {% img "harpa2.jpg"  %}
+
+Supported by Nordisk Kulturfond.

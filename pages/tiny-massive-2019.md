@@ -19,7 +19,7 @@ See the [project video](https://vimeo.com/327555616).
 
 {% img "tinymassive2019.jpg"  %}
 
-## Open call
+<!-- ## Open call
 
 For the very first edition of Tiny/Massive you are invited to illuminate Harpa concert hall during Reykjavik Winter Lights Festival. We are looking for work that cultivates a meaningful connection among people or between individuals and structures. You are encouraged to draw inspiration from the architecture of Harpa and the raw nature that surrounds it. You can apply either with video content or generative / interactive / game experiences. The selected works will be displayed during the festival.
 
@@ -61,4 +61,4 @@ We will be providing controls in a sheltered location opposite Harpa for interac
 -   18.12.16 open call end (24.00 CET)
 -   18.12.22 Selected works announced
 -   19.02.07 Winter Lights Festival start
--   19.02.10 Winter Lights Festival end
+-   19.02.10 Winter Lights Festival end -->
