@@ -38,7 +38,7 @@
     ],
     "friends": [
         {
-            "name": "Aavistus",
+            "name": "Aavistus Festival",
             "url": "https://www.aavistusfestival.fi/",
             "emoji": "🇫🇮"
         },
@@ -53,9 +53,14 @@
             "emoji": "🇮🇸"
         },
         {
-            "name": "Factory",
+            "name": "Factory Light Festival",
             "url": "https://factorylightfestival.com/",
             "emoji": "🇳🇴"
+        },
+        {
+            "name": "Telepathic Studio",
+            "url": "https://www.facebook.com/telepathicstudio/",
+            "emoji": "🇸🇪"
         }
     ]
 }
