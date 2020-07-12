@@ -6,7 +6,7 @@
 }
 
 html {
-    font: max(28px, min(2.4vw, 56px)) / 1.25 'TT Firs Neue', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+    font: max(24px, min(2.4vw, 56px)) / 1.25 'TT Firs Neue', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
     will-change: filter;
     transition: filter 20ms ease-in;
     background-color: var(--black);
@@ -21,6 +21,13 @@ html.invert {
 #home,
 h1 {
     font-size: max(54px, min(6vw, 80px));
+}
+
+@media only screen and (-webkit-device-pixel-ratio: 2) and (max-device-width: 896px) {
+    #home,
+    h1 {
+        font-size: inherit !important;
+    }
 }
 
 body {
@@ -60,11 +67,21 @@ section > *:not(:last-child) {
     margin-bottom: calc(var(--base) * 1.5);
 }
 
+/* article {
+    overflow-x: hidden;
+} */
+
 article > * {
     margin-right: auto;
     margin-left: auto;
     padding: 0 calc(var(--base) * 1);
     box-sizing: border-box;
+}
+
+article > * > * {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
 }
 
 section p:first-child {

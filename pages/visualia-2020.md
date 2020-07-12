@@ -17,8 +17,8 @@ _If you are unsure whether you are right for this open call, please fill out the
 
 ### Apply
 
--   Application deadline: 3rd of August 2020, 24:00 CET
 -   [Application form](https://forms.gle/3qiiPsRXVfuezT597)
+-   Deadline: 3rd of August 2020, 24:00 CET
 
 ### Compensation
 
