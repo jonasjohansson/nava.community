@@ -22,7 +22,7 @@ Our ambitions is to create new audiovisual relationships, while providing an exc
 
 ### Compensation
 
-There is no monetary compensation in this event. In return, we will provide you with a beautiful stage, and documentation of the event and performance.
+There is no monetary compensation in this event. In return, we will provide you with a stage, and documentation of the event and performance.
 
 ### Schedule
 
