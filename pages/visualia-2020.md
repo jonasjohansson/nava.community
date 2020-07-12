@@ -33,6 +33,10 @@ There is no monetary compensation in this event. In return, we will provide you 
 
 We are looking at locations ideal for projections in Stockholm but have yet to decide on the main contender.
 
+### Important
+
+This event may be cancelled due to weather and reasons pertaining to permits.
+
 {% img "svarmorstunga-iol-4.jpg"  %}
 
 Image is from [Svärmorstunga](https://www.facebook.com/svarmorstungor/)
