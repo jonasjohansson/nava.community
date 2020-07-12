@@ -11,6 +11,7 @@ html {
     transition: filter 20ms ease-in;
     background-color: var(--black);
     color: var(--white);
+    min-height: 100vh;
 }
 
 html.invert {
@@ -19,7 +20,7 @@ html.invert {
 
 #home,
 h1 {
-    font-size: max(54px, min(7vw, 96px));
+    font-size: max(54px, min(6vw, 80px));
 }
 
 body {

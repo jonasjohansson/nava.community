@@ -2,11 +2,11 @@
     color: white;
 }
 
-#page h1 {
+/* #page h1 {
     height: min(10rem, 50vh);
     display: grid;
     align-items: center;
-}
+} */
 
 #page ul {
     font-variant-numeric: tabular-nums;
