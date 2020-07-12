@@ -9,7 +9,9 @@ layout: page.njk
 tags: page
 ---
 
-[Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) announced the possibility to rent their [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) at a reduced price. NAVA is inviting both visual as electronic music artists to perform at a special outdoor location in Stockholm. Selected artists will be paired for a collaborative and unique performance.
+[Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) announced the possibility to rent their [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) at a reduced price. NAVA is inviting visual artists and electronic music artists to perform at a special outdoor location in Stockholm. Selected artists will be paired for a collaborative and unique performance.
+
+Our ambitions is to create new audiovisual relationships, while providing an exciting venue for performing sound and pictures.
 
 {% img "visualia.png"  %}
 
