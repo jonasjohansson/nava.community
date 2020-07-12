@@ -3,7 +3,7 @@ title: Visualia 2020
 preamble: 11 September
 permalink: /visualia-2020/
 theme:
-    background_color: '#0058c5, #010000'
+    background_color: '#0058c5, #054c55, #010000'
     emoji: 📽️
 layout: page.njk
 tags: page
