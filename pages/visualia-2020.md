@@ -37,7 +37,7 @@ We are looking at locations ideal for projections in Stockholm but have yet to d
 
 ### Important
 
-This event may be cancelled due to weather and reasons pertaining to permits.
+This event may be cancelled due to weather and reasons pertaining to permits. As backup we have also rented the equipment for the 12th of September.
 
 {% img "svarmorstunga-iol-4.jpg"  %}
 
