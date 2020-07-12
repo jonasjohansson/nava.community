@@ -15,7 +15,7 @@ With the announcement of the [Sónar Reykjavik cancellation](https://sonarreykja
 
 See the [project video](https://vimeo.com/341871873).
 
-{% video "/video/reykjavik2019.mp4"  %}
+{% vid "/video/reykjavik2019.mp4"  %}
 
 <!-- ## Open call
 

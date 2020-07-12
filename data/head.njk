@@ -2,8 +2,17 @@
 <html lang="en" prefix="og: http://ogp.me/ns#">
     <head>
         <title>{{ site.title }}</title>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width,user-scalable=no" />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta property="og:url" content="{{ site.url }}" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="{{ site.title }}" />
+        <meta property="og:image" content="{{ site.url }}{% imgPath site.cover, true %}" />
+        <meta name="description" property="og:description" content="{{ site.description }}" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+        <link rel="apple-touch-icon" href="/favicon.png" />
+        <link rel="icon" href="/favicon.png" />
         <link rel="preload" as="font" href="/fonts/TTFirsNeue-ExtraLight.woff2" type="font/woff2" crossorigin="anonymous" />
 		{% set css %} 
 			{% include "assets/css/style.css" %} 

@@ -1,6 +1,8 @@
 {
     "title": "Nordic Audiovisual Artists",
-    "url": "https://nava.community/",
+    "url": "https://nava.community",
+    "cover": "tinymassive2019.jpg",
+    "locale": "en_GB",
     "description": "Nordic Audiovisual Artists is a community with the sole purpose of empowering the field of audiovisual arts.",
     "members": [
         {
@@ -36,12 +38,24 @@
     ],
     "friends": [
         {
-            "name": "Charlotte Risch",
-            "url": "https://cargocollective.com/charlotterisch"
+            "name": "Aavistus",
+            "url": "https://www.aavistusfestival.fi/",
+            "emoji": "🇫🇮"
         },
         {
-            "name": "Freya Sif Hestnes",
-            "url": "http://freyasifhestnes.com/"
+            "name": "Lunchmeat",
+            "url": "https://www.lunchmeatfestival.cz/",
+            "emoji": "🇨🇿"
+        },
+        {
+            "name": "Curated Place",
+            "url": "https://www.curatedplace.com/",
+            "emoji": "🇮🇸"
+        },
+        {
+            "name": "Factory",
+            "url": "https://factorylightfestival.com/",
+            "emoji": "🇳🇴"
         }
     ]
 }

@@ -4,21 +4,18 @@ const UglifyJS = require('uglify-es')
 const Image = require('@11ty/eleventy-img')
 
 module.exports = function (eleventyConfig) {
-    eleventyConfig.addPairedShortcode('video2', function (content, path, poster = '') {
-        return `<figure class="video"><video src="${path}" poster="${poster}" width="960" height="540" muted autoplay loop playsinline></video><figcaption>${content}</figcaption></figure>`
+    eleventyConfig.addShortcode('vid', function (path, poster = '', description = '') {
+        return `<figure class="video"><video src="${path}" poster="${poster}" width="960" height="540" autoplay loop muted playsinline></video><figcaption>${description}</figcaption></figure>`
     })
 
-    eleventyConfig.addShortcode('vimeo', function (vimeoId) {
-        return `<figure class="video vimeo"><iframe src="https://player.vimeo.com/video/${vimeoId}?loop=1&autoplay=1&muted=1&controls=0" allow="autoplay; fullscreen"  allowfullscreen></iframe></figure>`
-    })
-
-    eleventyConfig.addShortcode('video', function (path, poster = '', description = '') {
-        return `<figure class="video"><video src="${path}" poster="${poster}" width="960" height="540" muted autoplay loop playsinline></video><figcaption>${description}</figcaption></figure>`
+    eleventyConfig.addNunjucksAsyncShortcode('imgPath', async function (path) {
+        const props = await optimImg(path)
+        return props.url
     })
 
     eleventyConfig.addShortcode('img', async function (path) {
         const props = await optimImg(path)
-        return `<img src="${props.url}">`
+        return `<img src="${props.url}" alt="">`
     })
 
     eleventyConfig.addShortcode('fig', async function (path, caption = '') {

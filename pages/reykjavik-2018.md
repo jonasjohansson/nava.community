@@ -14,7 +14,7 @@ With 24 applications sent in we are happy to announce the selected artists: [Fre
 
 See the [project video](https://vimeo.com/273212882).
 
-{% video "/video/nava2018.mp4"  %}
+{% vid "/video/nava2018.mp4"  %}
 
 <!-- ## Open call
 

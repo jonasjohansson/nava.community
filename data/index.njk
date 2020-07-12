@@ -14,6 +14,10 @@
     <a style="background-color: #eee;" href="https://tinyletter.com/nordicaudiovisualartists">
         ☞ Subscribe to our newsletter
     </a>
+     {% for friend in site.friends %}
+    {{ friend.emoji }}
+    <a href="{{ friend.url }}" target="_blank">{{ friend.name }}</a>
+    {% endfor %}
 </nav>
 
 {% include "foot.njk" %}

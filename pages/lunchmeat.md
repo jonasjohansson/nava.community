@@ -6,7 +6,7 @@ theme:
     background_color: '#9fcded, #f37a12'
     emoji: 🇨🇿
 layout: page.njk
-tags: page
+# tags: page
 ---
 
 {% img "lunchmeat-face2.png"  %}

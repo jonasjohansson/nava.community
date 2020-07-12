@@ -1,5 +1,6 @@
 #page {
     color: white;
+    padding: 1rem 0;
 }
 
 /* #page h1 {
@@ -17,7 +18,8 @@
 }
 
 #page h1 {
-    /* margin: min(10rem, 20vw) auto; */
+    margin: 0;
+    margin: max(0.01px, min(10vw, 20rem)) 0;
 }
 
 @media (min-width: 801px) {
