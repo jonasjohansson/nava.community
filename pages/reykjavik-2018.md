@@ -1,7 +1,7 @@
 ---
 title: Reykjavik 2018
 preamble: 15–18 March
-file: ''
+date: 2018-03-15
 permalink: /reykjavik-2018/
 theme:
     background_color: '#080915, #05275b'

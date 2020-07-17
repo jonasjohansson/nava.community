@@ -2,7 +2,7 @@
 
 <nav>
     <span>{{ site.description }}</span>
-    {% for page in collections.page %}
+    {% for page in collections.page | reverse %}
     {{ page.data.theme.emoji }}
     <a href="{{ page.data.permalink }}">
         <span>{{ page.data.title }}</span>

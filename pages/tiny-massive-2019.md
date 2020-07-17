@@ -1,6 +1,7 @@
 ---
 title: Tiny/Massive 2019
 preamble: Reykjavik Winter Lights Festival<br>7–10th February
+date: 2019-02-07
 permalink: /tiny-massive-2019/
 theme:
     background_color: '#001423, #000529'
