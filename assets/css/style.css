@@ -94,20 +94,11 @@ section p:first-child {
     display: none;
 }
 
-/* @font-face {
-    font-family: 'Trim';
-    font-weight: 400;
-    font-style: normal;
-    src: url(/fonts/Trim-Light.woff2) format('woff2');
-    unicode-range: U+000-5FF;
-    font-display: swap;
-} */
-
 @font-face {
     font-family: 'TT Firs Neue';
     /* font-weight: 200; */
     font-style: normal;
     src: url('/fonts/TTFirsNeue-ExtraLight.woff2') format('woff2');
     unicode-range: U+000-5FF;
-    font-display: swap;
+    font-display: optional;
 }
