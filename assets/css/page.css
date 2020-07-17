@@ -35,6 +35,8 @@ figure {
     position: relative;
     margin-left: auto;
     margin-right: auto;
+    line-height: 0;
+    padding: 0;
 }
 
 figcaption {

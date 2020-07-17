@@ -13,7 +13,7 @@ tags: page
 
 _If you are unsure whether you are right for this open call, please fill out the form regardless and we will get in touch. This is open for everyone, and depending on the replies we are open for surprises._
 
-{% img "visualia.png"  %}
+{% vid "/video/visualia.mp4"  %}
 
 ### Apply
 
@@ -39,6 +39,6 @@ We are looking at locations ideal for projections in Stockholm but have yet to d
 
 This event may be cancelled due to weather, lack of participants or reasons pertaining to permits.
 
-{% img "svarmorstunga-iol-4.jpg"  %}
+{% fig "svarmorstunga-iol-4.jpg"  %}
 
 Image is from [Svärmorstunga](https://www.facebook.com/svarmorstungor/)
