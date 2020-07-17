@@ -16,7 +16,7 @@ See the [project video](https://vimeo.com/273212882).
 
 {% vid "/video/nava2018.mp4"  %}
 
-<!-- ## Open call
+## Open call
 
 NAVA is inviting 4 acts to perform live visuals during the festival and actively participate in the first meetup. Selected acts will be paired with sound artists / musicians for a collaborative performance.
 
@@ -45,7 +45,7 @@ Read the [FAQ](https://goo.gl/B1wG6m) for questions and leave a comment for new 
 -   18.03.15 Meet & Greet with invited artists
 -   18.03.16 Meetup NAVA
 -   18.03.16-17 Sonar Reykjavik, rehearsal and performance
--   18.03.18 Meetup NAVA wrapup -->
+-   18.03.18 Meetup NAVA wrapup
 
 {% img "harpa3.jpg"  %}
 

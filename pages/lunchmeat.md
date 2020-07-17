@@ -9,7 +9,7 @@ layout: page.njk
 # tags: page
 ---
 
-{% img "lunchmeat-face2.png"  %}
+{% fig "lunchmeat-face2.png"  %}
 
 [Lunchmeat Festival](https://www.lunchmeatfestival.cz/2019/) is an annual international festival dedicated to advanced electronic music and new media art based in Prague, Czech Republic. Since 2010, it brings carefully selected creators from different art spheres together on one stage, creating a truly synesthetic experience.
 
