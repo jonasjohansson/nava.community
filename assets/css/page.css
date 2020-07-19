@@ -22,6 +22,24 @@
     margin: max(0.01px, min(10vw, 20rem)) 0;
 }
 
+#btn-home {
+    position: absolute;
+    top: var(--base);
+    right: var(--base);
+    display: block;
+    width: 60px;
+    height: 60px;
+}
+
+svg {
+    width: 100%;
+    height: 100%;
+}
+
+svg path {
+    fill: var(--white);
+}
+
 @media (min-width: 801px) {
     h1,
     h2 {

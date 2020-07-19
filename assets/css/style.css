@@ -37,9 +37,12 @@ body {
 
 /* basic */
 
-a {
+a,
+a:link {
     color: inherit;
     text-decoration: none;
+    will-change: opacity;
+    transition: opacity 100ms ease-in-out;
 }
 
 a:not(:hover) {
