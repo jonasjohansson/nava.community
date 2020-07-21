@@ -20,7 +20,7 @@ html.invert {
 
 #home,
 h1 {
-    font-size: max(40px, min(4vw, 64px));
+    font-size: max(48px, min(4vw, 64px));
 }
 
 @media only screen and (-webkit-device-pixel-ratio: 2) and (max-device-width: 896px) {
