@@ -6,7 +6,7 @@
 }
 
 html {
-    font: max(28px, min(2vw, 48px)) / 1.25 'TT Firs Neue', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+    font: max(24px, min(2vw, 48px)) / 1.25 'TT Firs Neue', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
     will-change: filter;
     transition: filter 20ms ease-in;
     background-color: var(--black);

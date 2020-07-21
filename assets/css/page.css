@@ -25,10 +25,10 @@
 #btn-home {
     position: absolute;
     top: var(--base);
-    right: var(--base);
+    left: var(--base);
     display: block;
-    width: 50px;
-    height: 50px;
+    width: calc(var(--base) * 2);
+    height: calc(var(--base) * 2);
 }
 
 svg {
