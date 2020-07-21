@@ -44,7 +44,7 @@ _Presentation of project happens throughout October and November_
 
 _What is a Beamer Bike?_
 
-Not sure if that name exists, but what we mean is bike with space for projector, computer and battery. [Watch this video of VJ Suave](https://vimeo.com/141932372) to better understand.
+Not sure if that name exists, but what we mean are bikes with space for projector, computer and battery. [Watch this video of VJ Suave](https://vimeo.com/141932372) for a better understanding.
 
 _Why is the monetary compensation not higher?_
 
