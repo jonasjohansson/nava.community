@@ -21,7 +21,7 @@ Each design unit will receive a budget to build the bike. In the spirit of DIY i
 
 NAVA will provide the framework, assist with reaching out to technical partners (projectors), facilitate the work process, set up digital infrastructure and provide marketing material.
 
-{% fig "mapp_bike.jpg", "Image by MAPP MTL"  %}
+{% fig "mapp_bike.jpg", "Image by MAPP_MTL"  %}
 
 ### Apply
 
@@ -50,4 +50,4 @@ _Why is the monetary compensation not higher?_
 
 This is a pilot project, and funds are limited. We hope to make the best with what we have, and apply for a larger grant in the future. Thank you for understanding.
 
-{% fig "mapp_bike-2.jpg", "Image by MAPP MTL"  %}
+{% fig "mapp_bike-2.jpg", "Image by MAPP_MTL"  %}

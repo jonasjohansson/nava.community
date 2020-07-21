@@ -89,9 +89,9 @@ figure video {
         line-height: 0;
         padding: 0;
     }
-    figcaption {
+    /* figcaption {
         display: none;
-    }
+    } */
 
     figure:last-of-type:last-child {
         margin-bottom: 0;
