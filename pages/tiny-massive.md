@@ -1,8 +1,8 @@
 ---
-title: Tiny/Massive 2019
-preamble: Reykjavik Winter Lights Festival<br>7–10th February
+title: Tiny/Massive
+preamble: Reykjavik Winter Lights Festival<br>7–10th February, 2019
 date: 2019-02-07
-permalink: /tiny-massive-2019/
+permalink: /tiny-massive/
 theme:
     background_color: '#001423, #000529'
     emoji: 🚌

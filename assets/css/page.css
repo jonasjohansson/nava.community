@@ -1,6 +1,6 @@
 #page {
     color: white;
-    padding: 1rem 0;
+    /* padding: 1rem 0; */
 }
 
 /* #page h1 {
@@ -23,7 +23,7 @@
 }
 
 #btn-home {
-    position: absolute;
+    position: fixed;
     top: var(--base);
     right: var(--base);
     display: block;
@@ -46,7 +46,11 @@ svg path {
         text-align: center;
     }
     figure {
-        padding: 6vw 0;
+        margin: 6vw 0;
+        padding: 0;
+    }
+    figure:last-child {
+        margin-bottom: 0;
     }
 }
 
@@ -60,10 +64,15 @@ figure {
 }
 
 figcaption {
-    font-style: italic;
-    font-size: 70%;
-    text-align: center;
-    opacity: 0.7;
+    /* font-style: italic; */
+    /* font-size: 70%; */
+    /* text-align: center; */
+    /* opacity: 0.7; */
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: var(--base);
+    mix-blend-mode: difference;
 }
 
 img,

@@ -2,22 +2,31 @@
 
 <nav>
     <span>{{ site.description }}</span>
+    <br />
+    <br />
     {% for page in collections.page | reverse %}
     {{ page.data.theme.emoji }}
     <a href="{{ page.data.permalink }}">
         <span>{{ page.data.title }}</span>
     </a>
-    {% endfor %} {% for member in site.members %}
+    {% endfor %}
+    <br />
+    <br />
+    {% for member in site.members %}
     {{ member.emoji }}
     <a href="{{ member.url }}" target="_blank">{{ member.name }}</a>
     {% endfor %}
-    <a style="background-color: #eee;" href="https://tinyletter.com/nordicaudiovisualartists">
-        ☞ Subscribe to our newsletter
-    </a>
-     {% for friend in site.friends %}
+    <br />
+    <br />
+    {% for friend in site.friends %}
     {{ friend.emoji }}
     <a href="{{ friend.url }}" target="_blank">{{ friend.name }}</a>
     {% endfor %}
+    <br />
+    <br />
+    <a style="background-color: #eee;" href="https://tinyletter.com/nordicaudiovisualartists">
+        ☞ Subscribe to our newsletter
+    </a>
 </nav>
 
 {% include "foot.njk" %}

@@ -1,7 +1,7 @@
 ---
-title: Reykjavik 2019
-preamble: 25–27 April
-permalink: /reykjavik-2019/
+title: Skaðablót
+preamble: 25–27 April, 2019
+permalink: /skadablot/
 date: 2019-04-25
 theme:
     background_color: '#0d275a, #090f22'

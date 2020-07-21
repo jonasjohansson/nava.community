@@ -49,6 +49,10 @@ a:not(:hover) {
     opacity: 0.6;
 }
 
+h1 {
+    font-weight: normal;
+}
+
 h2 {
     text-transform: uppercase;
 }

@@ -1,8 +1,8 @@
 ---
-title: Visualia 2020
-preamble: 11 September
+title: Visualia
+preamble: 11 September, 2020
 date: 2020-09-11
-permalink: /visualia-2020/
+permalink: /visualia/
 theme:
     background_color: '#0058c5, #054c55, #010000'
     emoji: 📽️

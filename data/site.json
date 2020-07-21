@@ -3,7 +3,7 @@
     "url": "https://nava.community",
     "cover": "tinymassive2019.jpg",
     "locale": "en_GB",
-    "description": "Nordic Audiovisual Artists is a community with the sole purpose of empowering the field of audiovisual arts.",
+    "description": "🏳️‍🌈 Nordic Audiovisual Artists is a community with the sole purpose of empowering the field of audiovisual arts.",
     "members": [
         {
             "name": "Jonas Johansson",
@@ -43,7 +43,7 @@
             "emoji": "🇫🇮"
         },
         {
-            "name": "Lunchmeat",
+            "name": "Lunchmeat Festival",
             "url": "https://www.lunchmeatfestival.cz/",
             "emoji": "🇨🇿"
         },
@@ -61,6 +61,11 @@
             "name": "Telepathic Studio",
             "url": "https://www.facebook.com/telepathicstudio/",
             "emoji": "🇸🇪"
+        },
+        {
+            "name": "MAPP MTL",
+            "url": "https://www.facebook.com/mappmtl/",
+            "emoji": "🇨🇦"
         }
     ]
 }

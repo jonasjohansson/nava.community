@@ -1,8 +1,8 @@
 ---
-title: Roskilde 2019
-preamble: 29 June–7 July
+title: Roskilde
+preamble: 29 June–7 July, 2019
 date: 2019-06-29
-permalink: /roskilde-2019/
+permalink: /roskilde/
 theme:
     background_color: '#131d22, #112836'
     text_color: '#ff6a1e'
