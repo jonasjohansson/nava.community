@@ -42,4 +42,4 @@ This event may be cancelled due to weather, lack of participants or reasons pert
 
 {% fig "svarmorstunga-iol-4.jpg"  %}
 
-Image is from [Svärmorstunga](https://www.facebook.com/svarmorstungor/)
+Image from [Svärmorstunga](https://www.facebook.com/svarmorstungor/)
