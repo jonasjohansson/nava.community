@@ -23,7 +23,7 @@
 }
 
 #btn-home {
-    position: fixed;
+    position: absolute;
     top: var(--base);
     right: var(--base);
     display: block;
