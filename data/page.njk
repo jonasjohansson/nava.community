@@ -8,13 +8,15 @@
 
 <article>
     <section class="text-layout">
-        <h1>
-            {{ title }}
-            {% if preamble %}
-            <br />
-            {{ preamble | safe }}
-            {% endif %}
-        </h1>
+        <a href="{{ site.url }}">
+            <h1>
+                {{ title }}
+                {% if preamble %}
+                <br />
+                {{ preamble | safe }}
+                {% endif %}
+            </h1>
+        </a>
     </section>
     {{ content | wrap | safe }}
 </article>
