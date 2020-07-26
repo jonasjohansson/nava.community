@@ -10,7 +10,7 @@ layout: page.njk
 tags: page
 ---
 
-[Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) announced the possibility to rent their [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) at a reduced price. NAVA, in collaboration with [Adam Siversen Ljung](https://adamsiversenljung.com/), is inviting visual artists and electronic music artists to perform at a special outdoor location in Stockholm. Selected artists will be paired for a collaborative and unique performance.
+[Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) announced the possibility to rent their [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) at a reduced price. NAVA, in collaboration with [Adam Siversen Ljung](https://adamsiversenljung.com/), is inviting visual artists and electronic music artists to perform at a special location in Stockholm. Selected artists will be paired for a collaborative and unique performance.
 
 _If you are unsure whether you are right for this open call, please fill out the form regardless and we will get in touch. This is open for everyone, and depending on the replies we are open for surprises._
 
