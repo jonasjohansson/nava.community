@@ -27,7 +27,7 @@ module.exports = function (eleventyConfig) {
         const widths = opts?.widths || [null]
         const outputFormat = opts?.outputFormat || path.split('.').pop()
         const outputDir = 'docs/img/'
-        let stats = await Image('assets/images/' + path, {
+        let stats = await Image('assets/media/' + path, {
             widths: widths,
             formats: outputFormat,
             outputDir: outputDir
