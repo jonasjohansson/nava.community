@@ -30,6 +30,7 @@ There is no monetary compensation in this event. In return, we will provide you 
 -   20.07.13 Open call start
 -   20.08.03 Open call end
 -   20.08.04 Invited artists announced by email
+-   20.08.14 Invited artists confirm
 -   20.09.11 Performance
 
 ### Location
