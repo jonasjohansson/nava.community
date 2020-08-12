@@ -22,7 +22,7 @@ With over 30 applications we are happy to announce the selected pairings:
 -   [Glimpt](https://www.instagram.com/glimtvisuals/) / [Brenda El Rayes](https://soundcloud.com/brendaboy)
 -   Ashley Reed, Sonja Nasehi & Nils Bruzelius present MAGMA
 -   [The Ivanovich](https://www.instagram.com/theivanovich/) / [Joakim Hellgren](https://www.notion.so/Selected-works-18-20-6f33628fd91945d7942e18a20a1a89db)
--   [Spherical Abberation](http://sphericalaberration.com/) / [SASTHOR](https://www.instagram.com/sasthor_dreams)
+-   [Spherical Aberration](http://sphericalaberration.com/) / [SASTHOR](https://www.instagram.com/sasthor_dreams)
 -   [Away From People](https://soundcloud.com/away_from_people) / [Skaggis](https://vimeo.com/user10258850)
 -   [Hexagons](http://hexagons.se/) / [P A U. & YXA](https://www.instagram.com/p/B5LK0OIJMmr/)
 
