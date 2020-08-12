@@ -4,6 +4,10 @@ const UglifyJS = require('uglify-es')
 const Image = require('@11ty/eleventy-img')
 
 module.exports = function (eleventyConfig) {
+    eleventyConfig.addPairedShortcode('div', async function (content, className) {
+        return `<div class="${className}">${content}</div>`
+    })
+
     eleventyConfig.addShortcode('vid', function (path, poster = '', description = '') {
         return `<figure class="video"><video src="${path}" poster="${poster}" width="960" height="540" autoplay loop muted playsinline></video><figcaption>${description}</figcaption></figure>`
     })

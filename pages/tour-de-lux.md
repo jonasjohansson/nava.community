@@ -34,7 +34,7 @@ We are looking for designers, makers, creatives who can by themselves or (prefer
 
 ### Compensation
 
-The design teams (3-5) will share a total budget of **€2500** for production. There is no additional monetary compensation. It is up to the teams to distribute the funds, but expenses must be communicated.
+The design teams will share a total budget of **€2500** for production. There is no additional monetary compensation. It is up to the teams to distribute the funds, but expenses must be communicated.
 
 NAVA will provide the framework, assist with reaching out to technical partners (projectors), facilitate the work process, set up digital infrastructure and provide marketing material.
 

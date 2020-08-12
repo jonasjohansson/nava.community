@@ -52,6 +52,9 @@ svg path {
     figure:last-child {
         margin-bottom: 0;
     }
+    .center {
+        text-align: center;
+    }
 }
 
 /* media */
