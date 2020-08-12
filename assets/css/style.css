@@ -70,7 +70,7 @@ ul {
 
 p,
 article > *,
-section > *:not(:last-child) {
+section > *:not(:last-child):not(div) {
     margin-bottom: calc(var(--base) * 1.5);
 }
 
