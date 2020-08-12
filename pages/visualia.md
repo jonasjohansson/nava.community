@@ -15,7 +15,7 @@ With over 30 applications we are happy to announce the selected pairings:
 {% div "center"  %}
 
 -   Martin Kling / [PRO424](https://pro424.com/)
--   [Jonatan Crafoord](https://twitter.com/JonatanCrafoord) / [Björn Albihn](https://www.albihn.net/) present [Virtuoso](https://www.vrmusic.site/)
+-   [Jonatan Crafoord](https://twitter.com/JonatanCrafoord) & [Björn Albihn](https://www.albihn.net/) present [Virtuoso](https://www.vrmusic.site/)
 -   [ssusui](https://emfm.se/) / [Concat Function](https://soundcloud.com/concat_function)
 -   [Jaime Reyes](https://www.instagram.com/_jreyes79/) / [Håkan Lidbo](https://www.hakanlidbo.com/) (Rumtiden)
 -   [Petit Sapin](https://www.instagram.com/unpetitsapin/) / [Kim Persson](https://www.instagram.com/artintecht/) as [Memory Lake](https://open.spotify.com/artist/6I7HC1KITE2cQQmly7tH9x)
