@@ -7,6 +7,12 @@
         <meta property="og:url" content="{{ site.url }}" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="{{ site.title }}" />
+        {% if theme.cover %}
+        <meta property="og:image" content="{{ site.url }}{% imgPath theme.cover, true %}" />
+        {% endif %}
+        {% for cover in site.cover %}
+        <meta property="og:image" content="{{ site.url }}{% imgPath cover, true %}" />
+        {% endfor %}
         <meta property="og:description" content="{{ site.description }}" />
         <meta name="description" content="{{ site.description }}" />
         <meta name="apple-mobile-web-app-capable" content="yes" />

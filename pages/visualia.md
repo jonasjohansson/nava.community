@@ -6,6 +6,7 @@ permalink: /visualia/
 theme:
     background_color: '#0058c5, #054c55, #010000'
     emoji: 📽️
+    cover: mapp_bike.jpg
 layout: page.njk
 tags: page
 ---
