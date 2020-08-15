@@ -20,7 +20,7 @@ With over 30 applications we are happy to announce the selected pairings:
 -   [Jaime Reyes](https://www.instagram.com/_jreyes79/) & [Håkan Lidbo](https://www.hakanlidbo.com/) (Rumtiden)
 -   [Petit Sapin](https://www.instagram.com/unpetitsapin/) / [Kim Persson](https://www.instagram.com/artintecht/) as [Memory Lake](https://open.spotify.com/artist/6I7HC1KITE2cQQmly7tH9x)
 -   [Glimt](https://www.instagram.com/glimtvisuals/) / [Brenda El Rayes](https://soundcloud.com/brendaboy)
--   [The Ivanovich](https://www.instagram.com/theivanovich/) / [Joakim Hellgren](https://www.notion.so/Selected-works-18-20-6f33628fd91945d7942e18a20a1a89db)
+-   [Servando Barreiro](http://servando.teks.no/) / [Joakim Hellgren](https://www.notion.so/Selected-works-18-20-6f33628fd91945d7942e18a20a1a89db)
 -   [Spherical Aberration](http://sphericalaberration.com/) / [SASTHOR](https://www.instagram.com/sasthor_dreams)
 -   [Away From People](https://soundcloud.com/away_from_people) / [Skaggis](https://vimeo.com/user10258850)
 -   [Hexagons](http://hexagons.se/) / [P A U. & YXA](https://www.instagram.com/p/B5LK0OIJMmr/)
@@ -32,9 +32,9 @@ With over 30 applications we are happy to announce the selected pairings:
 
 A [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-lasers/products/clubmax-3000-fb4) is provided by [Laserboy](http://www.laserboy.se/) to those teams that wish to use it. The event will take place in [Reaktorhallen](https://www.r1.kth.se/). More information TBD.
 
-## Open call (closed)
+## Open call
 
-[Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) announced the possibility to rent their [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) at a reduced price. NAVA, in collaboration with [Adam Siversen Ljung](https://adamsiversenljung.com/), invites visual artists and electronic music artists to perform at a special location in Stockholm. Selected artists will be paired for a collaborative and unique performance.
+[Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) announced the possibility to rent their [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) at a reduced price. NAVA, in collaboration with [Adam Siversen Ljung](https://adamsiversenljung.com/), invites visual artists and electronic music artists to perform at Reaktorhallen, Stockholm. Selected artists will be paired for a collaborative and unique performance.
 
 Each pair will then prepare a ~15 minute AV set, which will be presented on the 11th of September in Stockholm.
 

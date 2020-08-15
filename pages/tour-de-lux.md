@@ -12,7 +12,7 @@ tags: page
 
 Tour de Lux is a rolling parade of projections, where custom built Beamer Bikes (off-grid bikes for projections) provide the canvas for audiovisual performances and more.
 
-With support from [Nordisk Kulturfond](https://www.nordiskkulturfond.org/) and the [Opstart fund](https://nordiskkulturfond.org/opstart-info/) NAVA is hosting an open call for building the bike (and again later on for content). Our motivation is to:
+With support from [Nordisk Kulturfond](https://www.nordiskkulturfond.org/) and [Opstart](https://nordiskkulturfond.org/opstart-info/) NAVA is hosting an open call for building bikes. The motivation is to:
 
 -   **Connect** nordic countries through a creative challenge
 -   **Create** great open source projection bike designs
@@ -23,7 +23,7 @@ Each design unit will receive a budget to build the bike. In the spirit of DIY i
 
 {% fig "mapp_bike.jpg", "Image by MAPP_MTL"  %}
 
-## How does it work
+## Open Call
 
 ### Apply
 

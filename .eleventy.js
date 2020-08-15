@@ -2,6 +2,7 @@ const htmlmin = require('html-minifier')
 const CleanCSS = require('clean-css')
 const UglifyJS = require('uglify-es')
 const Image = require('@11ty/eleventy-img')
+const fs = require('fs')
 
 module.exports = function (eleventyConfig) {
     eleventyConfig.addPairedShortcode('div', async function (content, className) {
@@ -50,12 +51,14 @@ module.exports = function (eleventyConfig) {
 
     // Minify CSS
     eleventyConfig.addFilter('cssmin', function (code) {
-        return new CleanCSS({}).minify(code).styles
-        // fs.writeFile('docs/style.css', output, function (err) {
-        //     if (err) {
-        //         console.log(err)
-        //     }
-        // })
+        const output = new CleanCSS({}).minify(code).styles
+        fs.writeFile('docs/style.css', output, function (err) {
+            if (err) {
+                console.log(err)
+            }
+        })
+        return output
+        // return new CleanCSS({}).minify(code).styles
     })
 
     // Minify JS
