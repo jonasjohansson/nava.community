@@ -39,10 +39,3 @@ There is no monetary compensation. In return, we will provide you with a stage, 
 -   20.09.11 Performance
 
 [Join our Discord](https://discord.gg/tDpFaVj) for further coordination and communication.
-
-This event is made by:
-
--   [Jonas Johansson](https://jonasjohansson.se/)
--   [Adam Siversen Ljung](https://adamsiversenljung.com/)
--   Moa Forsberg
--   Gunilla Östblom

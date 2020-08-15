@@ -13,10 +13,10 @@ tags: page
 
 Tour de Lux is a rolling parade of projections, where bikes with projectors provide the canvas. With support from [Nordisk Kulturfond](https://www.nordiskkulturfond.org/) and [Opstart](https://nordiskkulturfond.org/opstart-info/) NAVA is building three bikes, with the motivation to:
 
--   **Connect** nordic countries through a creative challenge
--   **Create** great open source projection bike designs
--   **Present** mezmerising experiences outside of black and white boxes
--   **Inspire** those that are not normally exposed to audiovisual culture
+1.  Connect nordic countries through a creative challenge
+2.  Create great open source projection bike designs
+3.  Present mezmerising experiences outside of black and white boxes
+4.  Inspire those that are not normally exposed to audiovisual culture
 
 Each design unit will receive a budget to build the bike. In the spirit of DIY it is encouraged to upcycle, collaborate and reuse/rent/borrow rather then purchase new. Through an open call, the following teams have been selected:
 
@@ -60,8 +60,3 @@ _What happens when the bike is built?_
 Together we will share a common vision regarding the content to be presented, a discussion which all design teams are welcome to participate in. We will then host an open call for content to be screened. Content can come from many places, from collaborations with schools to short films. It can be games, or live audiovisual content. We decide.
 
 {% fig "mapp_bike-2.jpg", "Image by MAPP_MTL"  %}
-
-This event is made by:
-
--   [Jonas Johansson](https://jonasjohansson.se/)
--   [Katrín Hauksdottír](https://www.katrinhauksdottir.com/)
