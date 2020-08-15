@@ -11,7 +11,7 @@ layout: page.njk
 tags: page
 ---
 
-[Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) announced the possibility to rent their [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf). NAVA, in collaboration with [Adam Siversen Ljung](https://adamsiversenljung.com/), invites visual and electronic music artists to perform at [Reaktorhallen](https://www.r1.kth.se/). Through our open call, the following artists have been selected for a unique ~15 min AV performance:
+[Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) announced the possibility to rent their [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf). NAVA, in collaboration with [Adam Siversen Ljung](https://adamsiversenljung.com/), invites visual and electronic music artists to perform at [Reaktorhallen](https://www.r1.kth.se/). Through an open call, the following artists have been selected for a unique ~15 min AV performance:
 
 {% div "center"  %}
 
