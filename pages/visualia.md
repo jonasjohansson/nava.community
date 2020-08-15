@@ -60,10 +60,6 @@ There is no monetary compensation. In return, we will provide you with a stage, 
 
 [Join our Discord](https://discord.gg/tDpFaVj) for coordination and communication.
 
-### Important
-
-This event may be cancelled due to weather, lack of participants or reasons pertaining to permits.
-
 {% fig "svarmorstunga-iol-4.jpg"  %}
 
 Image from [Svärmorstunga](https://www.facebook.com/svarmorstungor/)
