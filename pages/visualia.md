@@ -28,24 +28,24 @@ With over 30 applications we are happy to announce the selected pairings:
 
 {% enddiv %}
 
-{% vid "/video/visualia.mp4"  %}
+A [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-lasers/products/clubmax-3000-fb4) is provided by [Laserboy](http://www.laserboy.se/) to those teams that wish to use it.
 
-A [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-lasers/products/clubmax-3000-fb4) is provided by [Laserboy](http://www.laserboy.se/) to those teams that wish to use it. The event will take place in [Reaktorhallen](https://www.r1.kth.se/). More information TBD.
+{% vid "/video/visualia.mp4"  %}
 
 ## Open call
 
-[Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) announced the possibility to rent their [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) at a reduced price. NAVA, in collaboration with [Adam Siversen Ljung](https://adamsiversenljung.com/), invites visual artists and electronic music artists to perform at Reaktorhallen, Stockholm. Selected artists will be paired for a collaborative and unique performance.
-
-Each pair will then prepare a ~15 minute AV set, which will be presented on the 11th of September in Stockholm.
+[Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) announced the possibility to rent their [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) at a reduced price. NAVA, in collaboration with [Adam Siversen Ljung](https://adamsiversenljung.com/), invites visual artists and electronic music artists to perform at [Reaktorhallen](https://www.r1.kth.se/). Selected artists will be paired for a collaborative ~15 min AV performance.
 
 ### Apply
 
 -   [Application form](https://forms.gle/3qiiPsRXVfuezT597)
 -   Deadline: 3rd of August 2020, 24:00 CET
 
+_The open call has been extended for **Installations**, and applications will be looked at as they come in._
+
 ### Compensation
 
-There is no monetary compensation in this event. In return, we will provide you with a stage, and documentation of the event and performance.
+There is no monetary compensation. In return, we will provide you with a stage, and documentation of the event and performance.
 
 ### Schedule
 
@@ -53,12 +53,10 @@ There is no monetary compensation in this event. In return, we will provide you 
 -   20.08.03 Open call end
 -   20.08.04 Invited artists announced by email
 -   20.08.14 Invited artists confirm
--   20.08.17 Check-in
+-   20.08.17-18 Check-in
 -   20.09.11 Performance
 
-### Location
-
-We are looking at locations ideal for projections in Stockholm but have yet to decide on the main contender.
+[Join our Discord](https://discord.gg/tDpFaVj) for coordination and communication.
 
 ### Important
 

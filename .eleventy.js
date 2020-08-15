@@ -52,12 +52,13 @@ module.exports = function (eleventyConfig) {
     // Minify CSS
     eleventyConfig.addFilter('cssmin', function (code) {
         const output = new CleanCSS({}).minify(code).styles
-        fs.writeFile('docs/style.css', output, function (err) {
+        const css = 'styles.css'
+        fs.writeFile(`docs/${css}`, output, function (err) {
             if (err) {
                 console.log(err)
             }
         })
-        return output
+        return `@import "/${css}"`
         // return new CleanCSS({}).minify(code).styles
     })
 
