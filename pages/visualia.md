@@ -11,7 +11,7 @@ layout: page.njk
 tags: page
 ---
 
-With over 30 applications we are happy to announce the selected pairings:
+[Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) announced the possibility to rent their [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf). NAVA, in collaboration with [Adam Siversen Ljung](https://adamsiversenljung.com/), invites visual and electronic music artists to perform at [Reaktorhallen](https://www.r1.kth.se/). Through our open call, the following artists have been selected for a unique ~15 min AV performance:
 
 {% div "center"  %}
 
@@ -29,17 +29,11 @@ With over 30 applications we are happy to announce the selected pairings:
 
 {% enddiv %}
 
-A [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-lasers/products/clubmax-3000-fb4) is provided by [Laserboy](http://www.laserboy.se/) to those that wish to use it.
+In addition, we are opening up the possibility to present AV Installations by using the [Application form](https://forms.gle/3qiiPsRXVfuezT597). There is no deadline, applications will be reviewed as they arrive. A [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-lasers/products/clubmax-3000-fb4) is provided by [Laserboy](http://www.laserboy.se/) to those that wish to use it.
 
 {% vid "/video/visualia.mp4"  %}
 
-## Installations
-
-We are opening up the possibility to show **AV Installations** by using the [Application form](https://forms.gle/3qiiPsRXVfuezT597). There is no deadline, applications will be reviewed as they arrive.
-
-## Open call
-
-[Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) announced the possibility to rent their [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) at a reduced price. NAVA, in collaboration with [Adam Siversen Ljung](https://adamsiversenljung.com/), invites visual artists and electronic music artists to perform at [Reaktorhallen](https://www.r1.kth.se/). Selected artists will be paired for a collaborative ~15 min AV performance.
+## Open call (closed)
 
 ### Apply
 
@@ -56,10 +50,9 @@ There is no monetary compensation. In return, we will provide you with a stage, 
 -   20.08.03 Open call end
 -   20.08.04 Invited artists announced by email
 -   20.08.14 Invited artists confirm
--   20.08.17-18 Check-in
 -   20.09.11 Performance
 
-[Join our Discord](https://discord.gg/tDpFaVj) for coordination and communication.
+[Join our Discord](https://discord.gg/tDpFaVj) for further coordination and communication.
 
 {% fig "svarmorstunga-iol-4.jpg"  %}
 

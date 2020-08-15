@@ -24,6 +24,8 @@ Each design unit will receive a budget to build the bike. In the spirit of DIY i
 
 {% fig "mapp_bike.jpg", "Image by MAPP_MTL"  %}
 
+## Builders
+
 ## Open Call
 
 ### Apply
