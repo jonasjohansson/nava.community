@@ -34,7 +34,7 @@ A [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-las
 
 ## Installations
 
-Due to the unique location we are opening up the possibility to also present **AV Installations**. Use the [Application form](https://forms.gle/3qiiPsRXVfuezT597) and tick Installation. There is no deadline, applications will be reviewed as they arrive.
+We are opening up the possibility to show **AV Installations** by using the [Application form](https://forms.gle/3qiiPsRXVfuezT597). There is no deadline, applications will be reviewed as they arrive.
 
 ## Open call
 
