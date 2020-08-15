@@ -11,7 +11,7 @@ layout: page.njk
 tags: page
 ---
 
-The danish skies will be illuminated by: [Iona](http://sphericalaberration.com/) (RO), [Giovanni Muzio](https://kesson.io) (IT) and [Sasha Smirnova](https://vimeo.com/aliaksandrasmirnova) (BY). Get your [ticket to the festival](https://www.roskilde-festival.dk/en/) and arrive early to catch the acts.
+The danish skies will be illuminated by: [Spherical Aberration](http://sphericalaberration.com/) (RO), [Giovanni Muzio](https://kesson.io) (IT) and [Sasha Smirnova](https://vimeo.com/aliaksandrasmirnova) (BY). Get your [ticket to the festival](https://www.roskilde-festival.dk/en/) and arrive early to catch the acts.
 
 See the project video from [2016](https://vimeo.com/189804807), [2017](https://vimeo.com/260916448) and [2018](https://vimeo.com/311308885).
 
