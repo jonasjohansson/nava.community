@@ -6,6 +6,7 @@ permalink: /tour-de-lux/
 theme:
     background_color: '#0f160e, #b45944, #0f1606'
     emoji: 🚲
+    cover: mapp_bike.jpg
 layout: page.njk
 tags: page
 ---
