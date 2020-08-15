@@ -19,9 +19,11 @@ html.invert {
 }
 
 body {
+    margin: 0 auto;
     font-size: max(3rem, min(2vw, 4.8rem));
     font-weight: 300;
     line-height: 1.25;
+    box-sizing: border-box;
 }
 
 #home,
@@ -37,11 +39,6 @@ h1 {
     h1 {
         font-size: inherit !important;
     }
-}
-
-body {
-    margin: 0 auto;
-    box-sizing: border-box;
 }
 
 /* basic */
