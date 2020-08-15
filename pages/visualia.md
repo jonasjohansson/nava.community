@@ -4,36 +4,22 @@ preamble: 11 September, 2020
 date: 2020-09-11
 permalink: /visualia/
 theme:
-    background_color: '#0058c5, #054c55, #010000'
+    background_color: '#003b84, #054c55, #010000'
     emoji: 📽️
     cover: svarmorstunga-iol-4.jpg
 layout: page.njk
 tags: page
 ---
 
-[Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) announced the possibility to rent their [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf). NAVA in collaboration with [Adam Siversen Ljung](https://adamsiversenljung.com/), invites visual and electronic music artists to perform at [Reaktorhallen](https://www.r1.kth.se/). Through an open call, the following artists have been selected for a unique ~15 min AV performance:
+25 metres below the surface [Reaktorhallen](https://www.r1.kth.se/) will again become an experimental test facility as Martin Kling (SE) / [PRO424](https://pro424.com/) (SE), [Virtuoso](https://www.vrmusic.site/) (SE), [ssusui](https://emfm.se/) (HK) / [Concat Function](https://soundcloud.com/concat_function) (IT), Rumtiden [Jaime Reyes](https://www.instagram.com/_jreyes79/) (VE) & [Håkan Lidbo](https://www.hakanlidbo.com/) (SE), [Petit Sapin](https://www.instagram.com/unpetitsapin/) (FR) / [Memory Lake](https://open.spotify.com/artist/6I7HC1KITE2cQQmly7tH9x) (SE), [Glimt](https://www.instagram.com/glimtvisuals/) (SE) / [Brenda El Rayes](https://soundcloud.com/brendaboy) (SE), [Servando Barreiro](http://servando.teks.no/) (ES) / [Joakim Hellgren](https://www.notion.so/Selected-works-18-20-6f33628fd91945d7942e18a20a1a89db) (SE), [Spherical Aberration](http://sphericalaberration.com/) (RO) / [SASTHOR](https://www.instagram.com/sasthor_dreams) (SE), [Away From People](https://soundcloud.com/away_from_people) (SE) / [Skaggis](https://vimeo.com/user10258850) (SE), [Hexagons](http://hexagons.se/) (SE) / [P A U. & YXA](https://www.instagram.com/p/B5LK0OIJMmr/) (SE) and MAGMA (SE) present 11 unique AV performances.
 
-{% div "center"  %}
+In addition, we are opening up the possibility to present AV Installations by using the [application form](https://forms.gle/3qiiPsRXVfuezT597). There is no deadline, applications will be reviewed as they arrive. A [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-lasers/products/clubmax-3000-fb4) is provided by [Laserboy](http://www.laserboy.se/) to those that wish to use it.
 
--   Martin Kling / [PRO424](https://pro424.com/)
--   [Jonatan Crafoord](https://twitter.com/JonatanCrafoord) & [Björn Albihn](https://www.albihn.net/) present [Virtuoso](https://www.vrmusic.site/)
--   [ssusui](https://emfm.se/) / [Concat Function](https://soundcloud.com/concat_function)
--   [Jaime Reyes](https://www.instagram.com/_jreyes79/) & [Håkan Lidbo](https://www.hakanlidbo.com/) (Rumtiden)
--   [Petit Sapin](https://www.instagram.com/unpetitsapin/) / [Kim Persson](https://www.instagram.com/artintecht/) as [Memory Lake](https://open.spotify.com/artist/6I7HC1KITE2cQQmly7tH9x)
--   [Glimt](https://www.instagram.com/glimtvisuals/) / [Brenda El Rayes](https://soundcloud.com/brendaboy)
--   [Servando Barreiro](http://servando.teks.no/) / [Joakim Hellgren](https://www.notion.so/Selected-works-18-20-6f33628fd91945d7942e18a20a1a89db)
--   [Spherical Aberration](http://sphericalaberration.com/) / [SASTHOR](https://www.instagram.com/sasthor_dreams)
--   [Away From People](https://soundcloud.com/away_from_people) / [Skaggis](https://vimeo.com/user10258850)
--   [Hexagons](http://hexagons.se/) / [P A U. & YXA](https://www.instagram.com/p/B5LK0OIJMmr/)
--   V / MAGMA
-
-{% enddiv %}
-
-In addition, we are opening up the possibility to present AV Installations by using the [Application form](https://forms.gle/3qiiPsRXVfuezT597). There is no deadline, applications will be reviewed as they arrive. A [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-lasers/products/clubmax-3000-fb4) is provided by [Laserboy](http://www.laserboy.se/) to those that wish to use it.
-
-{% vid "/video/visualia.mp4"  %}
+{% img "visualia.png"  %}
 
 ## Open call (closed)
+
+[Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) announced the possibility to rent their [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf). NAVA in collaboration with [Adam Siversen Ljung](https://adamsiversenljung.com/), invites visual and electronic music artists to perform.
 
 ### Apply
 
@@ -54,13 +40,9 @@ There is no monetary compensation. In return, we will provide you with a stage, 
 
 [Join our Discord](https://discord.gg/tDpFaVj) for further coordination and communication.
 
-{% fig "svarmorstunga-iol-4.jpg"  %}
-
-Image from [Svärmorstunga](https://www.facebook.com/svarmorstungor/)
-
 This event is made by:
 
 -   [Jonas Johansson](https://jonasjohansson.se/)
 -   [Adam Siversen Ljung](https://adamsiversenljung.com/)
--   [Moa Forsberg]()
--   [Gunilla Östblom](https://adamsiversenljung.com/)
+-   Moa Forsberg
+-   Gunilla Östblom

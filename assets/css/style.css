@@ -6,7 +6,7 @@
 }
 
 html {
-    font: max(24px, min(2vw, 48px)) / 1.25 'TT Firs Neue', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+    font: max(32px, min(2vw, 48px)) / 1.25 'TT Firs Neue', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
     will-change: filter;
     transition: filter 20ms ease-in;
     background-color: var(--black);
@@ -20,7 +20,7 @@ html.invert {
 
 #home,
 h1 {
-    font-size: max(48px, min(4vw, 64px));
+    font-size: max(56px, min(4vw, 64px));
 }
 
 @media only screen and (-webkit-device-pixel-ratio: 2) and (max-device-width: 896px) {
