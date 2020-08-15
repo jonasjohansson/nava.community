@@ -21,8 +21,7 @@
 }
 
 #page h1 {
-    margin: 0;
-    padding: max(0.01px, min(10vw, 20rem)) 0;
+    margin: max(0.01px, min(14vw, 30rem)) 0;
 }
 
 #btn-home {
