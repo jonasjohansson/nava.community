@@ -29,7 +29,7 @@ With over 30 applications we are happy to announce the selected pairings:
 
 {% enddiv %}
 
-A [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-lasers/products/clubmax-3000-fb4) is provided by [Laserboy](http://www.laserboy.se/) to those teams that wish to use it.
+A [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-lasers/products/clubmax-3000-fb4) is provided by [Laserboy](http://www.laserboy.se/) to those that wish to use it.
 
 {% vid "/video/visualia.mp4"  %}
 
