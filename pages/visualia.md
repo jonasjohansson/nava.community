@@ -32,6 +32,10 @@ A [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-las
 
 {% vid "/video/visualia.mp4"  %}
 
+## Installations
+
+Due to the unique location we are opening up the possibility to also present **AV Installations**. Use the [Application form](https://forms.gle/3qiiPsRXVfuezT597) and tick Installation. There is no deadline, applications will be reviewed as they arrive.
+
 ## Open call
 
 [Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) announced the possibility to rent their [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) at a reduced price. NAVA, in collaboration with [Adam Siversen Ljung](https://adamsiversenljung.com/), invites visual artists and electronic music artists to perform at [Reaktorhallen](https://www.r1.kth.se/). Selected artists will be paired for a collaborative ~15 min AV performance.
@@ -40,8 +44,6 @@ A [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-las
 
 -   [Application form](https://forms.gle/3qiiPsRXVfuezT597)
 -   Deadline: 3rd of August 2020, 24:00 CET
-
-_The open call has been extended for **Installations**, and applications will be looked at as they come in._
 
 ### Compensation
 
