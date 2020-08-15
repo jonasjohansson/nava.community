@@ -60,3 +60,8 @@ _What happens when the bike is built?_
 Together we will share a common vision regarding the content to be presented, a discussion which all design teams are welcome to participate in. We will then host an open call for content to be screened. Content can come from many places, from collaborations with schools to short films. It can be games, or live audiovisual content. We decide.
 
 {% fig "mapp_bike-2.jpg", "Image by MAPP_MTL"  %}
+
+This event is made by:
+
+-   [Jonas Johansson](https://jonasjohansson.se/)
+-   [Katrín Hauksdottír](https://www.katrinhauksdottir.com/)
