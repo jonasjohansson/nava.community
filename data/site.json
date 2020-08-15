@@ -1,7 +1,7 @@
 {
     "title": "Nordic Audiovisual Artists",
     "url": "https://nava.community",
-    "cover": "tinymassive2019.jpg",
+    "cover": ["tinymassive2019.jpg", "workshop.jpg", "harpa2.jpg", "countdown.jpg", "mapp_bike.jpg"],
     "locale": "en_GB",
     "description": "🏳️‍🌈 Nordic Audiovisual Artists is a community with the sole purpose of empowering the field of audiovisual arts.",
     "members": [
