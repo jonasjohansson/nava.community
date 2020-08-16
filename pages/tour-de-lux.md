@@ -11,9 +11,7 @@ layout: page.njk
 tags: page
 ---
 
-Tour de Lux is a rolling parade of projections, where bikes with projectors provide the canvas. With support from [Nordisk Kulturfond](https://www.nordiskkulturfond.org/) and [Opstart](https://nordiskkulturfond.org/opstart-info/) NAVA is building three bikes.
-
-Each design unit will receive a budget to build the bike. In the spirit of DIY it is encouraged to upcycle, collaborate and reuse/rent/borrow rather then purchase new. Through an open call, the following teams have been selected:
+Tour de Lux is a rolling parade of projections, where "Beamer Bikes" are built in order to present urban audiovisual screenings. With support from [Nordisk Kulturfond](https://www.nordiskkulturfond.org/) and [Opstart](https://nordiskkulturfond.org/opstart-info/) NAVA is building three bikes, where each Nordic design teams receive a budget. Through an open call, the following teams have been selected:
 
 -   Reykjavik: [Owen Hindley](http://www.owenhindley.co.uk/), [Huldufugl](http://huldufugl.is/), [Isle of Games](https://www.facebook.com/isleofgamesfestival/)
 -   Oslo: [Rasmus Stride](http://rasmusstride-portfolio.glitch.me/)
