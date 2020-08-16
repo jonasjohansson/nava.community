@@ -40,7 +40,7 @@ NAVA will provide the framework, assist with reaching out to technical partners 
 -   20.08.17 Open call end
 -   20.08.24 Bike build begin
 
-_Presentation of project happens during autumn/winter 2020_
+_Presentation of project happens during spring 2021. Rest of schedule TBC_
 
 ### FAQ
 
