@@ -40,10 +40,14 @@ h1 {
     font-size: max(4.8rem, min(4vw, 7rem));
 }
 
-@media only screen and (-webkit-device-pixel-ratio: 2) and (max-device-width: 896px) {
-    /* html {
+@media only screen and (-webkit-device-pixel-ratio: 2) and (max-device-width: 1366px) {
+    html {
         font-size: 50%;
-    } */
+    }
+    #home,
+    h1 {
+        /* font-size: inherit; */
+    }
 }
 
 /* basic */
