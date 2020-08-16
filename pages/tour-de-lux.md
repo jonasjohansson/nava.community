@@ -46,10 +46,10 @@ _Presentation of project happens during spring 2021. Rest of schedule TBC_
 
 _What is a Beamer Bike?_
 
-Not sure if that name exists, but what we mean are bikes with space for projector, computer and battery. [Watch this video of VJ Suave](https://vimeo.com/141932372) for a better understanding.
+Not sure if this is something we made up, but what we mean are bikes with space for projector, computer and battery. [Watch this video of VJ Suave](https://vimeo.com/141932372) for a better understanding.
 
 _What happens when the bike is built?_
 
-Together we will share a common vision regarding the content to be presented, a discussion which all design teams are welcome to participate in. We will then host an open call for content to be screened. Content can come from many places, from collaborations with schools to short films. It can be games, or live audiovisual content. We decide.
+Together we will share a common vision regarding the content to be presented, a discussion which all design teams are welcome to participate in. We will then host an open call for content to be screened. Content can come from many places, from collaborations with schools to short films. It can be games, or live audiovisual content. The point is to activate young creatives, and shake up the more seasoned ones.
 
 {% fig "mapp_bike-2.jpg", "Image by MAPP_MTL"  %}
