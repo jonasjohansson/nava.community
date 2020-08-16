@@ -1,3 +1,7 @@
+window.addEventListener('load', () => {
+    document.body.classList.remove('loading')
+})
+
 document.addEventListener('DOMContentLoaded', () => {
     let oldX = 0
     let oldY = 0
