@@ -24,22 +24,11 @@
     margin: max(0.01px, min(14vw, 30rem)) 0;
 }
 
-#btn-home {
-    position: absolute;
-    top: var(--base);
-    left: var(--base);
-    display: block;
-    width: calc(var(--base) * 2);
-    height: calc(var(--base) * 2);
-}
-
-svg {
-    width: 100%;
-    height: 100%;
-}
-
-svg path {
-    fill: var(--white);
+.highlight {
+    color: var(--black);
+    background-color: var(--white);
+    padding: var(--base);
+    border-radius: var(--base);
 }
 
 @media (min-width: 801px) {

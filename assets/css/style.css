@@ -44,10 +44,6 @@ h1 {
     html {
         font-size: 50%;
     }
-    #home,
-    h1 {
-        /* font-size: inherit; */
-    }
 }
 
 /* basic */
@@ -93,7 +89,7 @@ ul {
     list-style: square;
 }
 
-p,
+p:not(:only-child),
 article > *,
 section > *:not(:last-child) {
     margin-bottom: calc(var(--base) * 2);
