@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="{{ site.title }}" />
+        <meta property="og:title" content="{% if title %} {{ title }} - {% endif %} {{ site.title }}" />
         {% if theme.cover %}
         <meta property="og:image" content="{{ site.url }}{% imgPath theme.cover, true %}" />
         {% endif %}
