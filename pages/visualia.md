@@ -24,7 +24,7 @@ We are using this [Tech-kit](https://smartkreativstad.com/wp-content/uploads/202
 ### Schedule
 
 -   10:00 Doors open
--   12-16 Rehearsals / Setting up
+-   12:00 Rehearsals / Setting up
 -   19:00 Acts 1-3
 -   19:45 Break
 -   20:15 Acts 4-6
@@ -32,7 +32,7 @@ We are using this [Tech-kit](https://smartkreativstad.com/wp-content/uploads/202
 -   21:30 Acts 7-11
 -   22:30 Wrapping up
 
-[Join our Discord](https://discord.gg/tDpFaVj) for updates.
+Please arrive early so that we may coordinate on location. [Join our Discord](https://discord.gg/tDpFaVj) for updates.
 
 {% img "visualia.png"  %}
 
