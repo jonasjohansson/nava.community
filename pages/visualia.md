@@ -23,6 +23,7 @@ We are using this [Tech-kit](https://smartkreativstad.com/wp-content/uploads/202
 
 ### Schedule
 
+-   09:00 Pickup equipment
 -   10:00 Doors open
 -   12:00 Rehearsals / Setting up
 -   18:00 Acts 1-3
