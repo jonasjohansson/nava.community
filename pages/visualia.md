@@ -15,22 +15,22 @@ tags: page
 
 {% div "highlight" %}
 
-In addition, we are opening up the possibility to present AV Installations by using the [application form](https://forms.gle/3qiiPsRXVfuezT597). There is no deadline, applications will be reviewed as they come.
+We are opening up the possibility to present AV Installations by using the [Application form](https://forms.gle/3qiiPsRXVfuezT597). **Deadline 1st of September.** Applications will be reviewed as they come.
 
 {% enddiv %}
 
-This [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) is rented from [Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/). A [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-lasers/products/clubmax-3000-fb4) is provided by [Laserboy](http://www.laserboy.se/) to those that wish to use it.
+We are using this [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) from [Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) and a [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-lasers/products/clubmax-3000-fb4) is provided by [Laserboy](http://www.laserboy.se/) to those that wish to use it.
 
 ### Schedule
 
--   10.00 Doors open
+-   10:00 Doors open
 -   12-16 Rehearsals / Setting up
--   18.00 Acts 1-3
--   18.45 Break
--   19.15 Acts 4-6
--   20.00 Break
--   20.30 Acts 7-11
--   21.30 Wrapping up / After-party
+-   19:00 Acts 1-3
+-   19:45 Break
+-   20:15 Acts 4-6
+-   21:00 Break
+-   21:30 Acts 7-11
+-   22:30 Wrapping up
 
 [Join our Discord](https://discord.gg/tDpFaVj) for updates.
 
