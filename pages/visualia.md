@@ -15,7 +15,7 @@ tags: page
 
 {% div "highlight" %}
 
-In addition, we are opening up the possibility to present AV Installations by using the [application form](https://forms.gle/3qiiPsRXVfuezT597). There is no deadline, applications will be reviewed as they arrive.
+In addition, we are opening up the possibility to present AV Installations by using the [application form](https://forms.gle/3qiiPsRXVfuezT597). There is no deadline, applications will be reviewed as they come.
 
 {% enddiv %}
 
@@ -24,7 +24,7 @@ This [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_te
 ### Schedule
 
 -   10.00 Doors open
--   12.00 Rehearsals / Setting up
+-   12-16 Rehearsals / Setting up
 -   18.00 Acts 1-3
 -   18.45 Break
 -   19.15 Acts 4-6
@@ -32,7 +32,7 @@ This [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_te
 -   20.30 Acts 7-11
 -   21.30 Wrapping up / After-party
 
-[Join our Discord](https://discord.gg/tDpFaVj) for communication.
+[Join our Discord](https://discord.gg/tDpFaVj) for updates.
 
 {% img "visualia.png"  %}
 
@@ -52,5 +52,4 @@ There is no monetary compensation. In return, we will provide you with a stage, 
 -   20.07.13 Open call start
 -   20.08.03 Open call end
 -   20.08.04 Invited artists announced by email
--   20.08.14 Invited artists confirm
 -   20.09.11 Performance
