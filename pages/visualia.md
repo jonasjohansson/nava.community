@@ -11,11 +11,13 @@ layout: page.njk
 tags: page
 ---
 
-25 metres below the surface [Reaktorhallen](https://www.r1.kth.se/) will again become an experimental test facility as Martin Kling (SE) / [PRO424](https://pro424.com/) (SE), [Virtuoso](https://www.vrmusic.site/) (SE), [ssusui](https://emfm.se/) (HK) / [Concat Function](https://soundcloud.com/concat_function) (IT), [Jaime Reyes](https://www.instagram.com/_jreyes79/) & [Håkan Lidbo](https://www.hakanlidbo.com/) (Rumtiden, SE), [petit sapin](https://www.instagram.com/unpetitsapin/) (UK) / [Memory Lake](https://open.spotify.com/artist/6I7HC1KITE2cQQmly7tH9x) (SE), [Niklas Alriksson](https://www.instagram.com/glimtvisuals/) (Glimt, SE) / [Brenda El Rayes](https://soundcloud.com/brendaboy) (SE), [Servando Barreiro](http://servando.teks.no/) (ES) / [Joakim Hellgren](https://www.notion.so/Selected-works-18-20-6f33628fd91945d7942e18a20a1a89db) (SE), [Spherical Aberration](http://sphericalaberration.com/) (RO) / [SASTHOR](https://www.instagram.com/sasthor_dreams) (SE), [Away From People](https://soundcloud.com/away_from_people) (RU) / [Skaggis](https://vimeo.com/user10258850) (SE), [Hexagons](http://hexagons.se/) (SE) / [P A U. & YXA](https://www.instagram.com/p/B5LK0OIJMmr/) (SE) and MAGMA (SE) present 11 unique AV performances.
+25 metres below the surface [Reaktorhallen](https://www.r1.kth.se/) will again become an experimental test facility as Martin Kling / [PRO424](https://pro424.com/), [Virtuoso](https://www.vrmusic.site/), [ssusui](https://emfm.se/) / [Concat Function](https://soundcloud.com/concat_function), [Jaime Reyes](https://www.instagram.com/_jreyes79/) & [Håkan Lidbo](https://www.hakanlidbo.com/) (Rumtiden), [petit sapin](https://www.instagram.com/unpetitsapin/) / [Memory Lake](https://open.spotify.com/artist/6I7HC1KITE2cQQmly7tH9x) , [Niklas Alriksson](https://www.instagram.com/glimtvisuals/) (Glimt) / [Brenda El Rayes](https://soundcloud.com/brendaboy), [Servando Barreiro](http://servando.teks.no/) / [Joakim Hellgren](https://www.notion.so/Selected-works-18-20-6f33628fd91945d7942e18a20a1a89db), [Spherical Aberration](http://sphericalaberration.com/) / [SASTHOR](https://www.instagram.com/sasthor_dreams), [Away From People](https://soundcloud.com/away_from_people) / [Skaggis](https://vimeo.com/user10258850), [Hexagons](http://hexagons.se/) / [P A U. & YXA](https://www.instagram.com/p/B5LK0OIJMmr/) and MAGMA present 11 unique AV performances.
+
+Installations by Torbjörn Fernström and David Carjaval.
 
 {% div "highlight" %}
 
-We are opening up the possibility to present AV Installations by using the [Application form](https://forms.gle/3qiiPsRXVfuezT597). **Deadline 1st of September.** Applications will be reviewed as they come.
+We are opening up the possibility to present AV Installations by using the [Application form](https://forms.gle/3qiiPsRXVfuezT597). **Deadline 31st of August.** Applications will be reviewed as they come.
 
 {% enddiv %}
 
@@ -24,8 +26,8 @@ We are using this [Tech-kit](https://smartkreativstad.com/wp-content/uploads/202
 ### Schedule
 
 -   09:00 Pickup equipment
--   10:00 Doors open
--   12:00 Rehearsals / Setting up
+-   10:00 Doors open / Setting up
+-   12:00 Rehearsals
 -   18:00 Acts 1-3
 -   19.00 Break
 -   19:20 Acts 4-6
