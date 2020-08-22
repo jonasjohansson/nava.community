@@ -40,7 +40,7 @@ module.exports = function (eleventyConfig) {
         const widths = opts?.widths || [null]
         const outputFormat = opts?.outputFormat || path.split('.').pop()
         const outputDir = 'docs/img/'
-        let stats = await Image('assets/media/' + path, {
+        let stats = await Image('assets/image/' + path, {
             widths: widths,
             formats: outputFormat,
             outputDir: outputDir
@@ -92,6 +92,8 @@ module.exports = function (eleventyConfig) {
         }
         return content
     })
+
+    eleventyConfig.addPassthroughCopy({ 'assets/fonts': 'fonts' })
 
     return {
         templateFormats: ['css', 'json', 'md', 'njk', 'html', 'liquid'],
