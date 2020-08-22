@@ -41,6 +41,10 @@ h1 {
     font-size: max(4.8rem, min(4vw, 7rem));
 }
 
+a {
+    cursor: pointer;
+}
+
 @media only screen and (-webkit-device-pixel-ratio: 2) and (max-device-width: 1366px) {
     html {
         font-size: 50%;
