@@ -4,7 +4,7 @@ preamble: 11 September, 2020
 date: 2020-09-11
 permalink: /visualia/
 theme:
-    background_color: '#003b84, #054c55, #010000'
+    background_color: '#020963, #b6ae9e, #08080a'
     emoji: 📽️
     cover: svarmorstunga-iol-4.jpg
 layout: page.njk
