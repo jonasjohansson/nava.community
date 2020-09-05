@@ -6,16 +6,20 @@ permalink: /visualia/
 theme:
     background_color: '#020963, #b6ae9e, #08080a'
     emoji: 📽️
-    cover: svarmorstunga-iol-4.jpg
+    cover: svarmorstunga_iol.jpg
 layout: page.njk
 tags: page
 ---
 
-25 metres below the surface [Reaktorhallen](https://www.r1.kth.se/) will again become an experimental test facility as audiovisual performances and installations take space. Visualia is a single-day evening event co-created by and for artists.
+25 metres below the surface [Reaktorhallen](https://www.r1.kth.se/) will again become an experimental test facility as audiovisual performances and installations take space. Visualia is an event co-created by and for artists, exploring club culture to its fullest.
 
 Performances will be made by Martin Kling / [PRO424](https://pro424.com/), [Virtuoso](https://www.vrmusic.site/), [ssusui](https://emfm.se/) / [Concat Function](https://soundcloud.com/concat_function), [Jaime Reyes](https://www.instagram.com/_jreyes79/) & [Håkan Lidbo](https://www.hakanlidbo.com/) (Rumtiden), [petit sapin](https://www.instagram.com/unpetitsapin/) / [Memory Lake](https://open.spotify.com/artist/6I7HC1KITE2cQQmly7tH9x) , [Niklas Alriksson](https://www.instagram.com/glimtvisuals/) (Glimt) / [Brenda El Rayes](https://soundcloud.com/brendaboy), [Servando Barreiro](http://servando.teks.no/) / [Joakim Hellgren](https://www.notion.so/Selected-works-18-20-6f33628fd91945d7942e18a20a1a89db), [Spherical Aberration](http://sphericalaberration.com/) / [SASTHOR](https://www.instagram.com/sasthor_dreams), [Away From People](https://soundcloud.com/away_from_people) / [Skaggis](https://vimeo.com/user10258850), [Hexagons](http://hexagons.se/) / [P A U. & YXA](https://www.instagram.com/p/B5LK0OIJMmr/) and MAGMA.
 
-Installations by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifesto/), [David Carjaval](https://cargocollective.com/DavidCarvajal/TORN), [EBO](https://www.instagram.com/__ebo._/), Telepathic, [Mindlab Space Art Collective](https://mindlab.space) and [re|thread](https://rethread.art/). There will also be a MUTEK LIVE Lounge.
+Installations by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifesto/), [David Carjaval](https://cargocollective.com/DavidCarvajal/TORN), [EBO](https://www.instagram.com/__ebo._/), Telepathic, [Mindlab Space Art Collective](https://mindlab.space) and [re|thread](https://rethread.art/).
+
+Midnight Stage by [Annie Tådne](https://tadne.se/), [Folded Visuals](https://www.instagram.com/merlemoi/), [IAKDS](https://www.creative-commission.com/users/iakds) and [EBO](https://www.instagram.com/__ebo._/).
+
+There will also be a MUTEK LIVE Lounge!
 
 We are using this [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) from [Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) and a [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-lasers/products/clubmax-3000-fb4) is provided by [Laserboy](http://www.laserboy.se/) to those that wish to use it.
 
@@ -44,5 +48,7 @@ There is no monetary compensation. In return, we will provide you with a stage, 
 The experimental reactor R1 was in active use until 1970, and disassembled 1982. Measurements were made for any remaining radiation, which left a visible grid system. Supposedly, there's more radiation on the surface.
 
 {% img "reaktorhallen-3.jpg"  %}
+
+### Credits
 
 Thanks to Leif Handberg for having us, and [VR Sci Fest](https://www.vrscifest.com/) for sharing the space with us for a few days.

@@ -52,4 +52,4 @@ _What happens when the bike is built?_
 
 Together we will share a common vision regarding the content to be presented, a discussion which all design teams are welcome to participate in. We will then host an open call for content to be screened. Content can come from many places, from collaborations with schools to short films. It can be games, or live audiovisual content. The point is to activate young creatives, and shake up the more seasoned ones.
 
-{% fig "mapp_bike-2.jpg", "Image by MAPP_MTL"  %}
+{% fig "mapp_wall.jpg", "Image by MAPP_MTL"  %}

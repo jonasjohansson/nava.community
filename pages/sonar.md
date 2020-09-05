@@ -47,6 +47,6 @@ Read the [FAQ](https://goo.gl/B1wG6m) for questions and leave a comment for new 
 -   18.03.16-17 Sonar Reykjavik, rehearsal and performance
 -   18.03.18 Meetup NAVA wrapup
 
-{% img "harpa3.jpg"  %}
+{% img "nava_harpa.jpg"  %}
 
 Supported by Nordisk Kulturfond.

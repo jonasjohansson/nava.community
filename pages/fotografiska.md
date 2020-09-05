@@ -6,7 +6,7 @@ permalink: /fotografiska/
 theme:
     background_color: '#2a1f35, #372b27, #4d2525'
     emoji: 🛋️
-    cover: svarmorstunga-iol-4.jpg
+    cover: svarmorstunga_iol.jpg
 layout: page.njk
 tags: page
 ---

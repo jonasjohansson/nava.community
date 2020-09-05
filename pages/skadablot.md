@@ -41,6 +41,6 @@ Join the team and help create this years audiovisual experience in Reykjavik!
 -   19.03.04 Invited artists announced by email (no email = not selected)
 -   19.04.25-27 Rehearsal and performance
 
-{% fig "harpa2.jpg"  %}
+{% fig "nava_harpa.jpg"  %}
 
 Supported by Nordisk Kulturfond.

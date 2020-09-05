@@ -18,7 +18,7 @@ This was an incredible project for us to lead and be a part of. We spent a consi
 
 See the [project video](https://vimeo.com/327555616).
 
-{% fig "tinymassive2019.jpg" %}
+{% fig "nava_tinymassive.jpg" %}
 
 ## Open call
 

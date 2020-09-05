@@ -43,4 +43,4 @@ Read the [FAQ](https://goo.gl/iY6GLT) for questions and leave a comment for new 
 -   19.06.29-19.07.02 Countdown stage performance
 -   19.07.07 Festival end
 
-{% fig "countdown.jpg" %}
+{% fig "nava_countdown.jpg" %}
