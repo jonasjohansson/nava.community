@@ -17,7 +17,7 @@ Performances will be made by Martin Kling / [PRO424](https://pro424.com/), [Virt
 
 Installations by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifesto/), [David Carjaval](https://cargocollective.com/DavidCarvajal/TORN), [EBO](https://www.instagram.com/__ebo._/), Telepathic, [Mindlab Space Art Collective](https://mindlab.space) and [re|thread](https://rethread.art/).
 
-Midnight Stage by [Annie Tådne](https://tadne.se/), [Folded Visuals](https://www.instagram.com/merlemoi/), [IAKDS](https://www.creative-commission.com/users/iakds) and [EBO](https://www.instagram.com/__ebo._/).
+Midnight Open Stage by [Annie Tådne](https://tadne.se/), [Folded Visuals](https://www.instagram.com/merlemoi/), [IAKDS](https://www.creative-commission.com/users/iakds) and [EBO](https://www.instagram.com/__ebo._/).
 
 There will also be a MUTEK LIVE Lounge!
 
@@ -48,7 +48,5 @@ There is no monetary compensation. In return, we will provide you with a stage, 
 The experimental reactor R1 was in active use until 1970, and disassembled 1982. Measurements were made for any remaining radiation, which left a visible grid system. Supposedly, there's more radiation on the surface.
 
 {% img "reaktorhallen-3.jpg"  %}
-
-### Credits
 
 Thanks to Leif Handberg for having us, and [VR Sci Fest](https://www.vrscifest.com/) for sharing the space with us for a few days.
