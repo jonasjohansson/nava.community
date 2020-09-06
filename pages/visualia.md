@@ -23,8 +23,6 @@ We are using this [Tech-kit](https://smartkreativstad.com/wp-content/uploads/202
 
 {% fig "visualia.png"  %}
 
-Visualia is made by [Jonas Johansson](http://jonasjohansson.se/), [Adam Siversen Ljung](https://adamsiversenljung.com/), [Moa Forsberg](https://moaforsberg.com/) and Gunilla Östblom.
-
 ## Open call (closed)
 
 ### Apply
@@ -48,5 +46,7 @@ There is no monetary compensation. In return, we will provide you with a stage, 
 The experimental reactor R1 was in active use until 1970, and disassembled 1982. Measurements were made for any remaining radiation, which left a visible grid system. Supposedly, there's more radiation on the surface.
 
 {% fig "reaktorhallen-3.jpg"  %}
+
+Visualia is made by [Jonas Johansson](http://jonasjohansson.se/), [Adam Siversen Ljung](https://adamsiversenljung.com/), [Moa Forsberg](https://moaforsberg.com/) and Gunilla Östblom.
 
 Thanks to Leif Handberg for having us, and [VR Sci Fest](https://www.vrscifest.com/) for sharing the space with us for a few days.
