@@ -19,11 +19,11 @@ Installations by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifes
 
 Midnight Open Stage by [Annie Tådne](https://tadne.se/), [Folded Visuals](https://www.instagram.com/merlemoi/), [IAKDS](https://www.creative-commission.com/users/iakds) and [EBO](https://www.instagram.com/__ebo._/).
 
-There will also be a MUTEK LIVE Lounge!
+We are using this [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) from [Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) and a [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-lasers/products/clubmax-3000-fb4) provided by [Laserboy](http://www.laserboy.se/) to those that wish to use it.
 
-We are using this [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) from [Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) and a [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-lasers/products/clubmax-3000-fb4) is provided by [Laserboy](http://www.laserboy.se/) to those that wish to use it.
+{% fig "visualia.png"  %}
 
-{% img "visualia.png"  %}
+Visualia is made by [Jonas Johansson](http://jonasjohansson.se/), [Adam Siversen Ljung](https://adamsiversenljung.com/), [Moa Forsberg](https://moaforsberg.com/) and Gunilla Östblom.
 
 ## Open call (closed)
 
@@ -47,6 +47,6 @@ There is no monetary compensation. In return, we will provide you with a stage, 
 
 The experimental reactor R1 was in active use until 1970, and disassembled 1982. Measurements were made for any remaining radiation, which left a visible grid system. Supposedly, there's more radiation on the surface.
 
-{% img "reaktorhallen-3.jpg"  %}
+{% fig "reaktorhallen-3.jpg"  %}
 
 Thanks to Leif Handberg for having us, and [VR Sci Fest](https://www.vrscifest.com/) for sharing the space with us for a few days.
