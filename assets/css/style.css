@@ -38,7 +38,7 @@ body.loading > * {
 
 #home,
 h1 {
-	font-size: max(4.8rem, min(4vw, 7rem));
+	font-size: max(4rem, min(4vw, 7rem));
 }
 
 a {
