@@ -17,7 +17,7 @@ Performances will be made by Martin Kling / [PRO424](https://pro424.com/), [Virt
 
 Installations by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifesto/), [David Carjaval](https://cargocollective.com/DavidCarvajal/TORN), [EBO](https://www.instagram.com/__ebo._/), Telepathic, [Mindlab Space Art Collective](https://mindlab.space) and [re|thread](https://rethread.art/).
 
-Midnight Open Stage by [Annie Tådne](https://tadne.se/) (remote), [Folded Visuals](https://www.instagram.com/merlemoi/) (remote), [IAKDS](https://www.creative-commission.com/users/iakds) and [EBO](https://www.instagram.com/__ebo._/).
+Midnight Open Stage by [Annie Tådne](https://tadne.se/) (remote) / [Tom Waldton](https://blavalen.com/), [Folded Visuals](https://www.instagram.com/merlemoi/) (remote), [IAKDS](https://www.creative-commission.com/users/iakds) and [EBO](https://www.instagram.com/__ebo._/).
 
 We are using this [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) from [Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) and a [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-lasers/products/clubmax-3000-fb4) provided by [Laserboy](http://www.laserboy.se/) to those that wish to use it.
 
