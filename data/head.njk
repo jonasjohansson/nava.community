@@ -8,10 +8,10 @@
         <meta property="og:type" content="website" />
         <meta property="og:title" content="{% if title %} {{ title }} - {% endif %} {{ site.title }}" />
         {% if theme.cover %}
-        <meta property="og:image" content="{{ site.url }}{% imgPath theme.cover, true %}" />
+        <meta property="og:image" content="{{ site.url }}{% img theme.cover, true %}" />
         {% endif %}
         {% for cover in site.cover %}
-        <meta property="og:image" content="{{ site.url }}{% imgPath cover, true %}" />
+        <meta property="og:image" content="{{ site.url }}{% img cover, true %}" />
         {% endfor %}
         <meta property="og:description" content="{{ site.description }}" />
         <meta name="description" content="{{ site.description }}" />

@@ -4,9 +4,9 @@ preamble: 29 June–7 July, 2019
 date: 2019-06-29
 permalink: /roskilde/
 theme:
-    background_color: '#131d22, #112836'
-    text_color: '#ff6a1e'
-    emoji: ⛺
+  background_color: '#131d22, #112836'
+  text_color: '#ff6a1e'
+  emoji: ⛺
 layout: page.njk
 tags: page
 ---
@@ -15,7 +15,7 @@ The danish skies will be illuminated by: [Spherical Aberration](http://spherical
 
 See the project video from [2016](https://vimeo.com/189804807), [2017](https://vimeo.com/260916448) and [2018](https://vimeo.com/311308885).
 
-{% vid "/video/roskilde2018.mp4" %}
+{% video "/video/roskilde2018.mp4" %}
 
 ## Open call
 
@@ -25,22 +25,22 @@ Join the team and help co-create this years audiovisual experience in Roskilde!
 
 ### Apply
 
--   Application deadline: 12th of April 2019, 24:00 CET
--   [Application form](https://goo.gl/forms/qvNzNXriHKtXuraC3)
+- Application deadline: 12th of April 2019, 24:00 CET
+- [Application form](https://goo.gl/forms/qvNzNXriHKtXuraC3)
 
 Read the [FAQ](https://goo.gl/iY6GLT) for questions and leave a comment for new inquiries.
 
 ### Compensation
 
--   Artist honorarium 2050 DKK
--   Festival pass
+- Artist honorarium 2050 DKK
+- Festival pass
 
 ### Schedule
 
--   19.03.18 Open call start
--   19.04.12 Open call end
--   19.04.19 Invited artists announced by email (no email = not selected)
--   19.06.29-19.07.02 Countdown stage performance
--   19.07.07 Festival end
+- 19.03.18 Open call start
+- 19.04.12 Open call end
+- 19.04.19 Invited artists announced by email (no email = not selected)
+- 19.06.29-19.07.02 Countdown stage performance
+- 19.07.07 Festival end
 
 {% fig "nava_countdown.jpg" %}

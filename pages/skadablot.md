@@ -4,8 +4,8 @@ preamble: 25–27 April, 2019
 permalink: /skadablot/
 date: 2019-04-25
 theme:
-    background_color: '#0d275a, #090f22'
-    emoji: ⛰️
+  background_color: '#0d275a, #090f22'
+  emoji: ⛰️
 layout: page.njk
 tags: page
 ---
@@ -16,7 +16,7 @@ With the announcement of the [Sónar Reykjavik cancellation](https://sonarreykja
 
 See the [project video](https://vimeo.com/341871873).
 
-{% vid "/video/reykjavik2019.mp4"  %}
+{% video "reykjavik2019.mp4"  %}
 
 ## Open call
 
@@ -26,20 +26,20 @@ Join the team and help create this years audiovisual experience in Reykjavik!
 
 ### Apply
 
--   Application deadline: 28th of February 2019, 24:00 CET
--   [Application form](https://goo.gl/forms/9GD0fc414lgy7pgK2)
+- Application deadline: 28th of February 2019, 24:00 CET
+- [Application form](https://goo.gl/forms/9GD0fc414lgy7pgK2)
 
 ### Compensation
 
--   Artist honorarium 250€ + Travel grant 250€
--   Festival pass
+- Artist honorarium 250€ + Travel grant 250€
+- Festival pass
 
 ### Schedule
 
--   19.02.01 Open call start
--   19.02.28 Open call end
--   19.03.04 Invited artists announced by email (no email = not selected)
--   19.04.25-27 Rehearsal and performance
+- 19.02.01 Open call start
+- 19.02.28 Open call end
+- 19.03.04 Invited artists announced by email (no email = not selected)
+- 19.04.25-27 Rehearsal and performance
 
 {% fig "nava_harpa.jpg"  %}
 
