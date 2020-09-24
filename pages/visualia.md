@@ -4,9 +4,9 @@ preamble: 11 September, 2020
 date: 2020-09-11
 permalink: /visualia/
 theme:
-    background_color: '#020963, #b6ae9e, #08080a'
-    emoji: 📽️
-    cover: svarmorstunga_iol.jpg
+  background_color: '#020963, #b6ae9e, #08080a'
+  emoji: 📽️
+  cover: svarmorstunga_iol.jpg
 layout: page.njk
 tags: page
 ---
@@ -17,7 +17,7 @@ Performances by Martin Kling / [PRO424](https://pro424.com/), [Virtuoso](https:/
 
 Installations from [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifesto/), [David Carjaval](https://cargocollective.com/DavidCarvajal/TORN), [EBO](https://www.instagram.com/__ebo._/), Telepathic, [Mindlab Space Art Collective](https://mindlab.space), [Per-Olov Jernberg](https://www.possan.se/) (Svartljus, Rumtiden) and [re|thread/KMH](https://rethread.art/).
 
-Open Stage width [Annie Tådne](https://tadne.se/) (remote) / [Tom Waldton](https://blavalen.com/), [Folded Visuals](https://www.instagram.com/merlemoi/) (remote), [IAKDS](https://www.creative-commission.com/users/iakds) and [EBO](https://www.instagram.com/__ebo._/).
+Open Stage width [Annie Tådne](https://tadne.se/) (remote) / [Tom Waldton](https://blavalen.com/), [Folded Visuals](https://www.instagram.com/merlemoi/) (remote), [IAKDS](https://www.creative-commission.com/users/iakds), Volta and [EBO](https://www.instagram.com/__ebo._/).
 
 We are using this [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) from [Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) and a [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-lasers/products/clubmax-3000-fb4) provided by [Laserboy](http://www.laserboy.se/) to those that wish to use it.
 
@@ -27,8 +27,8 @@ We are using this [Tech-kit](https://smartkreativstad.com/wp-content/uploads/202
 
 ### Apply
 
--   [Application form](https://forms.gle/3qiiPsRXVfuezT597)
--   Deadline: 3rd of August 2020, 24:00 CET
+- [Application form](https://forms.gle/3qiiPsRXVfuezT597)
+- Deadline: 3rd of August 2020, 24:00 CET
 
 ### Compensation
 
@@ -36,10 +36,10 @@ There is no monetary compensation. In return, we will provide you with a stage, 
 
 ### Schedule
 
--   20.07.13 Open call start
--   20.08.03 Open call end
--   20.08.04 Invited artists announced by email
--   20.09.11 Performance
+- 20.07.13 Open call start
+- 20.08.03 Open call end
+- 20.08.04 Invited artists announced by email
+- 20.09.11 Performance
 
 ### Location
 
