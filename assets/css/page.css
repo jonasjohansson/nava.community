@@ -1,7 +1,8 @@
 #page {
   color: white;
   /* padding: 1rem 0; */
-  margin: 10vw 0;
+  /* margin: 10vw 0; */
+  margin-top: 10vw;
 }
 
 /* #page h1 {
@@ -37,7 +38,7 @@
     text-align: center;
   }
   figure {
-    margin: 6vw 0 !important;
+    margin: 6vw 0;
     padding: 0;
   }
   figure:last-child {
