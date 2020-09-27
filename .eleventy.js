@@ -17,6 +17,10 @@ module.exports = function(eleventyConfig) {
     return `<figure class="video"><video src="/assets/video/${path}" poster="${poster}" width="960" height="540" autoplay loop muted playsinline></video><figcaption>${description}</figcaption></figure>`
   })
 
+  eleventyConfig.addShortcode('vimeo', function(id) {
+    return `<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/${id}?autoplay=0&loop=1&color=ffffff&title=0&byline=0&portrait=0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>`
+  })
+
   eleventyConfig.addShortcode('favicon', function(emoji) {
     if (emoji) {
       return `data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>${emoji}</text></svg>`

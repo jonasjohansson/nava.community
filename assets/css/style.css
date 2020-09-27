@@ -1,8 +1,8 @@
 :root {
   --base: 1.6rem;
   --padding-side: 6vw;
-  --black: #0b0b0b;
-  --white: #ebebeb;
+  --black: #ebebeb;
+  --white: #0b0b0b;
 }
 
 html {

@@ -15,7 +15,7 @@ The danish skies will be illuminated by: [Spherical Aberration](http://spherical
 
 See the project video from [2016](https://vimeo.com/189804807), [2017](https://vimeo.com/260916448) and [2018](https://vimeo.com/311308885).
 
-{% video "/video/roskilde2018.mp4" %}
+{% video "roskilde2018.mp4" %}
 
 ## Open call
 
