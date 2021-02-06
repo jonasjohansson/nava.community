@@ -17,17 +17,17 @@ For the launch of the CCTV headquarters 5-7th of March, Martin has put together 
 
 ### Program (draft)
 
-15-17 [Annie Tådne](https://tadne.se/) / Damm aka Joel Mull
-17-18 Video Kling LIVE / [PRO424](https://pro424.com/)Pro424
-18-19 [Jaime Reyes](https://www.instagram.com/_jreyes79/) / Maya Lourenco
-19-20 TBD / Stefan Kits
-20-21 [Jonas Johansson](https://jonasjohansson.se/) / Dorisburg LIVE
-21-22 TBD / Nicolai Zellmani
-22-23 TBD / Art Alfie
-23-24 TBD / Jessie Granqvist
-24-01 [Folded Visuals](https://www.instagram.com/merlemoi/) (remote) / Jesper Dahlbäck
-01-02 TBD / Alexi Delano
-02-03 TBD / Bella Sarris
+- 15-17 [Annie Tådne](https://tadne.se/) / Damm aka Joel Mull
+- 17-18 Video Kling LIVE / [PRO424](https://pro424.com/)Pro424
+- 18-19 [Jaime Reyes](https://www.instagram.com/_jreyes79/) / Maya Lourenco
+- 19-20 [ssusui](https://emfm.se/) / Stefan Kits
+- 20-21 [Jonas Johansson](https://jonasjohansson.se/) / Dorisburg LIVE
+- 21-22 TBD / Nicolai Zellmani
+- 22-23 TBD / Art Alfie
+- 23-24 TBD / Jessie Granqvist
+- 24-01 [Folded Visuals](https://www.instagram.com/merlemoi/) (remote) / Jesper Dahlbäck
+- 01-02 TBD / Alexi Delano
+- 02-03 TBD / Bella Sarris
 
 {% fig "cctv-2.jpg", "Image by Martin Kling"  %}
 
