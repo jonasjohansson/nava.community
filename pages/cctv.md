@@ -19,7 +19,7 @@ For the launch of the CCTV headquarters 5-7th of March, Martin has put together 
 
 - [Jonas Johansson](https://jonasjohansson.se/) (NAVA)
 - [Annie Tådne](https://tadne.se/) (NAVA)
-- [Jaime Reyes](https://www.instagram.com/_jreyes79/)
+- [Jaime Reyes](https://www.instagram.com/_jreyes79/) (Rumtiden)
 - [Folded Visuals](https://www.instagram.com/merlemoi/) (remote)
 - [ssusui](https://emfm.se/) (remote)
 - You?
