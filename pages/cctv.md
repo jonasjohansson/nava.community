@@ -15,19 +15,28 @@ tags: page
 
 For the launch of the CCTV headquarters 5-7th of March, Martin has put together an impressive lineup of artists. NAVA and Visualia have been given the opportunity to curate the **Saturday** experience and live stream, and transform Martins beautiful AV dungeon into a weird and extraordinary experience.
 
-## Program (draft)
+## Program
 
-- 15-17 [Annie Tådne](https://tadne.se/) / [DAMM](https://www.astrangelyisolatedplace.com/artists-damm) aka Joel Mull
-- 17-18 Video Kling LIVE / [PRO424](https://pro424.com/)
-- 18-19 [Jaime Reyes](https://www.instagram.com/_jreyes79/) / [Maya Lourenco](https://soundcloud.com/parallaxdeep/)
-- 19-20 [ssusui](https://emfm.se/) / [Stefan Kits](https://soundcloud.com/ultrasnurr/ultrasnurr-mix-3)
-- 20-21 [Jonas Johansson](https://jonasjohansson.se/) / Dorisburg LIVE
+- 15-17 TBD / [DAMM](https://www.astrangelyisolatedplace.com/artists-damm) aka Joel Mull
+- 17-18 Video Kling / [PRO424](https://pro424.com/)
+- 18-19 TBD / [Maya Lourenco](https://soundcloud.com/parallaxdeep/)
+- 19-20 TBD / [Stefan Kits](https://soundcloud.com/ultrasnurr/ultrasnurr-mix-3)
+- 20-21 TBD / Dorisburg
 - 21-22 TBD / [Nicolai Zellmani](https://soundcloud.com/SOLKYSS)
 - 22-23 TBD / [Art Alfie](https://soundcloud.com/art-alfie)
 - 23-24 TBD / [Jessie Granqvist](https://soundcloud.com/jessiegranqvist)
-- 24-01 [Folded Visuals](https://www.instagram.com/merlemoi/) (remote) / Jesper Dahlbäck
+- 24-01 TBD / Jesper Dahlbäck
 - 01-02 TBD / [Alexi Delano](https://soundcloud.com/alexidelano)
 - 02-03 TBD / [Bella Sarris](https://soundcloud.com/bellasarris)
+
+## Visual artists
+
+- [Jonas Johansson](https://jonasjohansson.se/)
+- [Annie Tådne](https://tadne.se/)
+- [Jaime Reyes](https://www.instagram.com/_jreyes79/)
+- [Folded Visuals](https://www.instagram.com/merlemoi/) (remote)
+- [ssusui](https://emfm.se/) (remote)
+- You?
 
 [Join the Carbon Copy group](https://www.facebook.com/groups/17847551687/) and look out for the stream!
 
