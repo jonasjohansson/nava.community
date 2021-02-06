@@ -11,7 +11,9 @@ layout: page.njk
 tags: page
 ---
 
-[Carbon Copy TV](https://www.facebook.com/carboncopytv) by [Martin Kling](https://www.instagram.com/mmmmmartinkling/) is an audiovisual concept documenting and developing the cultural scene in Stockholm. In his own words "Hearing and seeing is equally important in CC experiences. Its coherence is space and time. What is seen shall be as enjoyable as what is heard." For the launch of the CCTV headquarters 5-7th of March, NAVA with artists from Visualia will perform and bring light to Martins beautiful AV dungeon.
+[Carbon Copy TV](https://www.facebook.com/carboncopytv) by [Martin Kling](https://www.instagram.com/mmmmmartinkling/) is an audiovisual concept documenting and developing the cultural scene in Stockholm. In his own words "Hearing and seeing is equally important in CC experiences. Its coherence is space and time. What is seen shall be as enjoyable as what is heard."
+
+For the launch of the CCTV headquarters 5-7th of March, NAVA with artists from Visualia will perform in Martins beautiful AV dungeon.
 
 ### Program
 
