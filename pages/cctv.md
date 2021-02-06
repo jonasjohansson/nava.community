@@ -20,7 +20,7 @@ For the launch of the CCTV headquarters 5-7th of March, Martin has put together 
 - 15-17 [Annie Tådne](https://tadne.se/) / [DAMM](https://www.astrangelyisolatedplace.com/artists-damm) aka Joel Mull
 - 17-18 Video Kling LIVE / [PRO424](https://pro424.com/)
 - 18-19 [Jaime Reyes](https://www.instagram.com/_jreyes79/) / [Maya Lourenco](https://soundcloud.com/parallaxdeep/)
-- 19-20 [ssusui](https://emfm.se/) / Stefan Kits
+- 19-20 [ssusui](https://emfm.se/) / [Stefan Kits](https://soundcloud.com/ultrasnurr/ultrasnurr-mix-3)
 - 20-21 [Jonas Johansson](https://jonasjohansson.se/) / Dorisburg LIVE
 - 21-22 TBD / [Nicolai Zellmani](https://soundcloud.com/SOLKYSS)
 - 22-23 TBD / [Art Alfie](https://soundcloud.com/art-alfie)
