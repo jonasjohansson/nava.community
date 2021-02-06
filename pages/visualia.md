@@ -5,7 +5,7 @@ date: 2020-09-11
 permalink: /visualia/
 theme:
   background_color: '#020963, #b6ae9e, #08080a'
-  emoji: 📽️
+  emoji: 🪨
   cover: svarmorstunga_iol.jpg
 layout: page.njk
 tags: page
