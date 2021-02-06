@@ -13,7 +13,16 @@ tags: page
 
 [Carbon Copy TV](https://www.facebook.com/carboncopytv) by [Martin Kling](https://www.instagram.com/mmmmmartinkling/) is an audiovisual concept documenting and developing the cultural scene in Stockholm. In his own words "Hearing and seeing is equally important in CC experiences. Its coherence is space and time. What is seen shall be as enjoyable as what is heard."
 
-For the launch of the CCTV headquarters 5-7th of March, Martin has put together an impressive lineup of artists. Our own [Jonas Johansson](https://jonasjohansson.se) is invited to perform and curate the **Saturday** visual experience, and will be reunite artists from [Visualia](https://nava.community/visualia/) into a 1-day rollercoaster of visual weirdness.
+For the launch of the CCTV headquarters 5-7th of March, Martin has put together an impressive lineup of artists and invited [Jonas Johansson](https://jonasjohansson.se) to perform and curate the **Saturday** visual experience, and will be reunite artists from [Visualia](https://nava.community/visualia/) into a 1-day rollercoaster of visual weirdness.
+
+## Visual artists
+
+- [Jonas Johansson](https://jonasjohansson.se/) (NAVA)
+- [Annie Tådne](https://tadne.se/) (NAVA)
+- [Jaime Reyes](https://www.instagram.com/_jreyes79/)
+- [Folded Visuals](https://www.instagram.com/merlemoi/) (remote)
+- [ssusui](https://emfm.se/) (remote)
+- You?
 
 ## Program
 
@@ -28,15 +37,6 @@ For the launch of the CCTV headquarters 5-7th of March, Martin has put together 
 - 24-01 TBD / [Jesper Dahlbäck](https://soundcloud.com/jesperdahlback)
 - 01-02 TBD / [Alexi Delano](https://soundcloud.com/alexidelano)
 - 02-03 TBD / [Bella Sarris](https://soundcloud.com/bellasarris)
-
-## Visual artists
-
-- [Jonas Johansson](https://jonasjohansson.se/)
-- [Annie Tådne](https://tadne.se/)
-- [Jaime Reyes](https://www.instagram.com/_jreyes79/)
-- [Folded Visuals](https://www.instagram.com/merlemoi/) (remote)
-- [ssusui](https://emfm.se/) (remote)
-- You?
 
 [Join the Carbon Copy group](https://www.facebook.com/groups/17847551687/) and look out for the stream!
 
