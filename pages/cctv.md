@@ -29,7 +29,7 @@ For the launch of the CCTV headquarters 5-7th of March, Martin has put together 
 - 01-02 TBD / [Alexi Delano](https://soundcloud.com/alexidelano)
 - 02-03 TBD / [Bella Sarris](https://soundcloud.com/bellasarris)
 
-Sunday
+[Join the Carbon Copy group](https://www.facebook.com/groups/17847551687/) and look out for the stream!
 
 {% fig "cctv-2.jpg", "Image by Martin Kling"  %}
 
