@@ -17,12 +17,13 @@ For the launch of the CCTV headquarters [Jonas Johansson](https://jonasjohansson
 
 ## Visual artists
 
-- [Jonas Johansson](https://jonasjohansson.se/) (NAVA)
-- [Annie Tådne](https://tadne.se/) (NAVA)
-- [Jaime Reyes](https://www.instagram.com/_jreyes79/) (Rumtiden)
+- [Jonas Johansson](https://jonasjohansson.se/)
+- [Annie Tådne](https://tadne.se/)
+- [Jaime Reyes](https://www.instagram.com/_jreyes79/)
 - [Folded Visuals](https://www.instagram.com/merlemoi/) (remote)
 - [ssusui](https://emfm.se/) (remote)
 - [EBO](https://www.instagram.com/__ebo._/)
+- [Skaggis](https://vimeo.com/user10258850) (remote)
 - [Away From People](https://soundcloud.com/away_from_people)
 - You?
 
