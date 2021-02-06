@@ -17,7 +17,7 @@ Performances by Martin Kling / [PRO424](https://pro424.com/), [Virtuoso](https:/
 
 Installations from [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifesto/), [David Carjaval](https://cargocollective.com/DavidCarvajal/TORN), [EBO](https://www.instagram.com/__ebo._/), Telepathic, [Mindlab Space Art Collective](https://mindlab.space), [Per-Olov Jernberg](https://www.possan.se/) (Svartljus, Rumtiden) and [re|thread/KMH](https://rethread.art/).
 
-Open Stage width [Annie Tådne](https://tadne.se/) (remote) / [Tom Waldton](https://blavalen.com/), [Folded Visuals](https://www.instagram.com/merlemoi/) (remote), [IAKDS](https://www.creative-commission.com/users/iakds), Volta and [EBO](https://www.instagram.com/__ebo._/).
+Open Stage width [Annie Tådne](https://tadne.se/) (remote) / [Tom Waldton](https://blavalen.com/), [Folded Visuals](https://www.instagram.com/merlemoi/) (remote), [IAKDS](https://www.creative-commission.com/users/iakds), [Allenheimer](https://soundcloud.com/allenheimer) (remote), Volta and [EBO](https://www.instagram.com/__ebo._/).
 
 We are using this [Tech-kit](https://smartkreativstad.com/wp-content/uploads/2020/06/Popup_teknikkit.pdf) from [Smart Kreativ Stad](https://smartkreativstad.com/arrangera-en-egen-popupbiovisning-i-sommar/) and a [Kvant FB4 Laser](https://www.kvantlasers.sk/collections/kvant-clubmax-fb4-lasers/products/clubmax-3000-fb4) provided by [Laserboy](http://www.laserboy.se/) to those that wish to use it.
 
