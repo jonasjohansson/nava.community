@@ -13,7 +13,7 @@ tags: page
 
 [Carbon Copy TV](https://www.facebook.com/carboncopytv) by [Martin Kling](https://www.instagram.com/mmmmmartinkling/) is an audiovisual concept documenting and developing the cultural scene in Stockholm. In his own words "Hearing and seeing is equally important in CC experiences. Its coherence is space and time. What is seen shall be as enjoyable as what is heard."
 
-For the launch of the CCTV headquarters [Jonas Johansson](https://jonasjohansson.se) is invited to perform and curate the **Saturday** visual experience. Expect to see some [Visualia](https://nava.community/visualia/) superstars in this 1-day rollercoaster of visual weirdness!
+For the launch of the CCTV headquarters [NAVA](https://nava.community) will curate the **Saturday** visual experience. Expect to see some [Visualia](https://nava.community/visualia/) superstars in this 1-day rollercoaster of visual weirdness!
 
 ## Visual artists
 
