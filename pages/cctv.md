@@ -22,7 +22,7 @@ For the launch of the CCTV headquarters [NAVA](https://nava.community) will cura
 - 18-19 [Skaggis](https://vimeo.com/user10258850) (remote) / [Maya Lourenco](https://soundcloud.com/parallaxdeep/)
 - 19-20 Ida, Lova & Stephanie / [Stefan Kits](https://soundcloud.com/ultrasnurr/ultrasnurr-mix-3)
 - 20-21 [Annie Tådne](https://tadne.se/) / [Dorisburg](https://soundcloud.com/papayaplayaprojectulum/dorisburg-liveambient-ppp)
-- 21-22 [Spherical Aberration](http://sphericalaberration.com/) / [Nicolai Zellmani](https://soundcloud.com/SOLKYSS)
+- 21-22 [Spherical Aberration](http://sphericalaberration.com/) (remote) / [Nicolai Zellmani](https://soundcloud.com/SOLKYSS)
 - 22-23 [Jaime Reyes](https://www.instagram.com/_jreyes79/) / [Art Alfie](https://soundcloud.com/art-alfie)
 - 23-24 [EBO](https://www.instagram.com/__ebo._/) / [Jessie Granqvist](https://soundcloud.com/jessiegranqvist)
 - 24-01 [Away From People](https://soundcloud.com/away_from_people) / [Jesper Dahlbäck](https://soundcloud.com/jesperdahlback)
