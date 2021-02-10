@@ -15,31 +15,19 @@ tags: page
 
 For the launch of the CCTV headquarters [NAVA](https://nava.community) will curate the **Saturday** visual experience. Expect to see some [Visualia](https://nava.community/visualia/) superstars in this 1-day rollercoaster of visual weirdness!
 
-## Visual artists
-
-- [Jonas Johansson](https://jonasjohansson.se/)
-- [Annie Tådne](https://tadne.se/)
-- [Jaime Reyes](https://www.instagram.com/_jreyes79/)
-- [Folded Visuals](https://www.instagram.com/merlemoi/) (remote)
-- [ssusui](https://emfm.se/) (remote)
-- [EBO](https://www.instagram.com/__ebo._/)
-- [Skaggis](https://vimeo.com/user10258850) (remote)
-- [Away From People](https://soundcloud.com/away_from_people)
-- You?
-
 ## Program
 
-- 15-17 TBD / [DAMM](https://www.astrangelyisolatedplace.com/artists-damm) aka Joel Mull
+- 15-17 [Jonas Johansson](https://jonasjohansson.se/) / [DAMM](https://www.astrangelyisolatedplace.com/artists-damm) aka Joel Mull
 - 17-18 Video Kling / [PRO424](https://pro424.com/)
-- 18-19 TBD / [Maya Lourenco](https://soundcloud.com/parallaxdeep/)
-- 19-20 TBD / [Stefan Kits](https://soundcloud.com/ultrasnurr/ultrasnurr-mix-3)
-- 20-21 TBD / [Dorisburg](https://soundcloud.com/papayaplayaprojectulum/dorisburg-liveambient-ppp)
-- 21-22 TBD / [Nicolai Zellmani](https://soundcloud.com/SOLKYSS)
-- 22-23 TBD / [Art Alfie](https://soundcloud.com/art-alfie)
-- 23-24 TBD / [Jessie Granqvist](https://soundcloud.com/jessiegranqvist)
-- 24-01 TBD / [Jesper Dahlbäck](https://soundcloud.com/jesperdahlback)
-- 01-02 TBD / [Alexi Delano](https://soundcloud.com/alexidelano)
-- 02-03 TBD / [Bella Sarris](https://soundcloud.com/bellasarris)
+- 18-19 [Skaggis](https://vimeo.com/user10258850) (remote) / [Maya Lourenco](https://soundcloud.com/parallaxdeep/)
+- 19-20 Ida, Lova & Stephanie / [Stefan Kits](https://soundcloud.com/ultrasnurr/ultrasnurr-mix-3)
+- 20-21 [Annie Tådne](https://tadne.se/) / [Dorisburg](https://soundcloud.com/papayaplayaprojectulum/dorisburg-liveambient-ppp)
+- 21-22 [Spherical Aberration](http://sphericalaberration.com/) / [Nicolai Zellmani](https://soundcloud.com/SOLKYSS)
+- 22-23 [Jaime Reyes](https://www.instagram.com/_jreyes79/) / [Art Alfie](https://soundcloud.com/art-alfie)
+- 23-24 [EBO](https://www.instagram.com/__ebo._/) / [Jessie Granqvist](https://soundcloud.com/jessiegranqvist)
+- 24-01 [Away From People](https://soundcloud.com/away_from_people) / [Jesper Dahlbäck](https://soundcloud.com/jesperdahlback)
+- 01-02 [Folded Visuals](https://www.instagram.com/merlemoi/) b2b Anni Laser (remote) / [Alexi Delano](https://soundcloud.com/alexidelano)
+- 02-03 [ssusui](https://emfm.se/) (remote) / [Bella Sarris](https://soundcloud.com/bellasarris)
 
 [Join the Carbon Copy group](https://www.facebook.com/groups/17847551687/) and look out for the stream!
 
