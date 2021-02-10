@@ -29,6 +29,8 @@ For the launch of the CCTV headquarters [NAVA](https://nava.community) will cura
 - 01-02 [Folded Visuals](https://www.instagram.com/merlemoi/) b2b Anni Laser (remote) / [Alexi Delano](https://soundcloud.com/alexidelano)
 - 02-03 [ssusui](https://emfm.se/) (remote) / [Bella Sarris](https://soundcloud.com/bellasarris)
 
+Installations by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifesto/) and [David Carjaval](https://cargocollective.com/DavidCarvajal/).
+
 [Join the Carbon Copy group](https://www.facebook.com/groups/17847551687/) and look out for the stream!
 
 {% fig "cctv-2.jpg", "Image by Martin Kling"  %}
