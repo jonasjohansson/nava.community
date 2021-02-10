@@ -4,7 +4,7 @@ preamble: 6 March, 2021
 date: 2021-03-06
 permalink: /cctv/
 theme:
-  background_color: '#b083e2, #f27f70, #471658'
+  background_color: '#1c1722, #f27f70, #471658'
   emoji: 📼
   cover: cctv-2.jpg
 layout: page.njk
@@ -25,7 +25,7 @@ For the launch of the CCTV headquarters [NAVA](https://nava.community) will cura
 - 21-22 [Spherical Aberration](http://sphericalaberration.com/) (remote) / [Nicolai Zellmani](https://soundcloud.com/SOLKYSS)
 - 22-23 [Jaime Reyes](https://www.instagram.com/_jreyes79/) / [Art Alfie](https://soundcloud.com/art-alfie)
 - 23-24 [EBO](https://www.instagram.com/__ebo._/) / [Jessie Granqvist](https://soundcloud.com/jessiegranqvist)
-- 24-01 [Away From People](https://soundcloud.com/away_from_people) / [Jesper Dahlbäck](https://soundcloud.com/jesperdahlback)
+- 24-01 [Away From People](https://www.instagram.com/away_from_people/) / [Jesper Dahlbäck](https://soundcloud.com/jesperdahlback)
 - 01-02 [Folded Visuals](https://www.instagram.com/merlemoi/) b2b Anni Laser (remote) / [Alexi Delano](https://soundcloud.com/alexidelano)
 - 02-03 [ssusui](https://emfm.se/) (remote) / [Bella Sarris](https://soundcloud.com/bellasarris)
 
