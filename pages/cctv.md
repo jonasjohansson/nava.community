@@ -20,7 +20,7 @@ For the launch of the CCTV headquarters [NAVA](https://nava.community) will cura
 - 15-17 [Jonas Johansson](https://jonasjohansson.se/) / [DAMM](https://www.astrangelyisolatedplace.com/artists-damm) aka Joel Mull
 - 17-18 Video Kling / [PRO424](https://pro424.com/)
 - 18-19 [Skaggis](https://vimeo.com/user10258850) (remote) / [Maya Lourenco](https://soundcloud.com/parallaxdeep/)
-- 19-20 Stephanie & Lova / [Stefan Kits](https://soundcloud.com/ultrasnurr/ultrasnurr-mix-3)
+- 19-20 UnhingedTigerFist / [Stefan Kits](https://soundcloud.com/ultrasnurr/ultrasnurr-mix-3)
 - 20-21 [Annie Tådne](https://tadne.se/) / [Dorisburg](https://soundcloud.com/papayaplayaprojectulum/dorisburg-liveambient-ppp)
 - 21-22 [Spherical Aberration](http://sphericalaberration.com/) (remote) / [Nicolai Zellmani](https://soundcloud.com/SOLKYSS)
 - 22-23 [Jaime Reyes](https://www.instagram.com/_jreyes79/) / [Art Alfie](https://soundcloud.com/art-alfie)
