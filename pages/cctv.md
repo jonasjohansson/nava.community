@@ -31,7 +31,7 @@ For the launch of the CCTV headquarters [NAVA](https://nava.community) will cura
 
 Installations by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifesto/) and [David Carjaval](https://cargocollective.com/DavidCarvajal/).
 
-[Attend the event](https://www.facebook.com/events/4933252146711912), [join the Carbon Copy group](https://www.facebook.com/groups/17847551687/) and experience the show on Twitch (link will be shared in the event)!
+[Attend the event](https://www.facebook.com/events/351092805950996), [join the Carbon Copy group](https://www.facebook.com/groups/17847551687/) and experience the show on Twitch (link will be shared in the event)!
 
 {% fig "cctv-2.jpg", "Image by Martin Kling"  %}
 
