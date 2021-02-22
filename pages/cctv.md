@@ -18,16 +18,17 @@ For the launch of the CCTV headquarters [NAVA](https://nava.community) will cura
 ## Program
 
 - 15-17 [Jonas Johansson](https://jonasjohansson.se/) / [DAMM](https://www.astrangelyisolatedplace.com/artists-damm) aka Joel Mull
-- 17-18 Video Kling / [PRO424](https://pro424.com/)
-- 18-19 [Skaggis](https://vimeo.com/user10258850) (remote) / [Parallax Deep](https://soundcloud.com/parallaxdeep/)
-- 19-20 TigerFistUnhinged / [Stefan Kits](https://soundcloud.com/ultrasnurr/ultrasnurr-mix-3)
-- 20-21 [Annie Tådne](https://tadne.se/) / [Dorisburg](https://soundcloud.com/papayaplayaprojectulum/dorisburg-liveambient-ppp)
+- 17-18 Video Kling LIVE / [PRO424](https://pro424.com/)
+- 18-19 TBA / [Samo DJ](https://soundcloud.com/samo_dj)
+- 19-20 [EBO](https://www.instagram.com/__ebo._/) / [Marble](https://soundcloud.com/marblesthlm)
+- 20-21 [Annie Tådne](https://tadne.se/) / [Dorisburg](https://soundcloud.com/papayaplayaprojectulum/dorisburg-liveambient-ppp) LIVE
 - 21-22 [Spherical Aberration](http://sphericalaberration.com/) (remote) / [Nicolai Zellmani](https://soundcloud.com/SOLKYSS)
-- 22-23 [Jaime Reyes](https://www.instagram.com/_jreyes79/) / [Art Alfie](https://soundcloud.com/art-alfie)
-- 23-24 [EBO](https://www.instagram.com/__ebo._/) / [Jessie Granqvist](https://soundcloud.com/jessiegranqvist)
-- 24-01 [Away From People](https://www.instagram.com/away_from_people/) / [Jesper Dahlbäck](https://soundcloud.com/jesperdahlback)
-- 01-02 [Folded Visuals](https://www.instagram.com/merlemoi/) b2b Anni Laser (remote) / [Alexi Delano](https://soundcloud.com/alexidelano)
-- 02-03 [ssusui](https://emfm.se/) (remote) / [Bella Sarris](https://soundcloud.com/bellasarris)
+- 22-23 [Away From People](https://www.instagram.com/away_from_people/) / [Jesper Dahlbäck](https://soundcloud.com/jesperdahlback)
+- 23-24 [Folded Visuals](https://www.instagram.com/merlemoi/) b2b Anni Laser (remote) / [Alexi Delano](https://soundcloud.com/alexidelano)
+- 24-01 [Skaggis](https://vimeo.com/user10258850) (remote) / [Parallax Deep](https://soundcloud.com/parallaxdeep/)
+- 01-02 [ssusui](https://emfm.se/) (remote) / [Bella Sarris](https://soundcloud.com/bellasarris)
+- 02-03 [Jaime Reyes](https://www.instagram.com/_jreyes79/) / [Art Alfie](https://soundcloud.com/art-alfie)
+- 03-04 TigerFistUnhinged / [Stefan Kits](https://soundcloud.com/ultrasnurr/ultrasnurr-mix-3)
 
 Installations by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifesto/) and [David Carjaval](https://cargocollective.com/DavidCarvajal/).
 
