@@ -24,7 +24,7 @@ For the launch of the CCTV headquarters [NAVA](https://nava.community) will cura
 - 20-21 [Annie Tådne](https://tadne.se/) / [Dorisburg](https://soundcloud.com/papayaplayaprojectulum/dorisburg-liveambient-ppp) LIVE
 - 21-22 [Spherical Aberration](http://sphericalaberration.com/) (remote) / [Nicolai Zellmani](https://soundcloud.com/SOLKYSS)
 - 22-23 [Away From People](https://www.instagram.com/away_from_people/) / [Jesper Dahlbäck](https://soundcloud.com/jesperdahlback)
-- 23-24 [Folded Visuals](https://www.instagram.com/merlemoi/) b2b Anni Laser (remote) / [Alexi Delano](https://soundcloud.com/alexidelano)
+- 23-24 [Folded Visuals](https://www.instagram.com/merlemoi/) (remote) / [Alexi Delano](https://soundcloud.com/alexidelano)
 - 24-01 [Skaggis](https://vimeo.com/user10258850) (remote) / [Parallax Deep](https://soundcloud.com/parallaxdeep/)
 - 01-02 [ssusui](https://emfm.se/) (remote) / [Bella Sarris](https://soundcloud.com/bellasarris)
 - 02-03 [Jaime Reyes](https://www.instagram.com/_jreyes79/) / [Art Alfie](https://soundcloud.com/art-alfie)
