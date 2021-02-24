@@ -22,7 +22,7 @@ For the launch of the CCTV headquarters [NAVA](https://nava.community) will cura
 - 18-19 TBA / [Samo DJ](https://soundcloud.com/samo_dj)
 - 19-20 [Jaime Reyes](https://www.instagram.com/_jreyes79/) / [Art Alfie](https://soundcloud.com/art-alfie)
 - 20-21 [Annie Tådne](https://tadne.se/) / [Dorisburg](https://soundcloud.com/papayaplayaprojectulum/dorisburg-liveambient-ppp) LIVE
-- 21-22 [Spherical Aberration](http://sphericalaberration.com/) (remote) / [Nicolai Zellmani](https://soundcloud.com/SOLKYSS)
+- 21-22 [Spherical Aberration](https://www.instagram.com/spherical.aberration/) (remote) / [Nicolai Zellmani](https://soundcloud.com/SOLKYSS)
 - 22-23 [Away From People](https://www.instagram.com/away_from_people/) / [Jesper Dahlbäck](https://soundcloud.com/jesperdahlback)
 - 23-24 [Folded Visuals](https://www.instagram.com/merlemoi/) (remote) / [Alexi Delano](https://soundcloud.com/alexidelano)
 - 24-01 [Skaggis](https://vimeo.com/user10258850) (remote) / [Parallax Deep](https://soundcloud.com/parallaxdeep/)
@@ -32,7 +32,9 @@ For the launch of the CCTV headquarters [NAVA](https://nava.community) will cura
 
 Installations by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifesto/) and [David Carjaval](https://cargocollective.com/DavidCarvajal/).
 
-[Attend the event](https://www.facebook.com/events/351092805950996), [join the Carbon Copy group](https://www.facebook.com/groups/17847551687/) and experience the show on Twitch (link will be shared in the event)!
+- [Event on Resident Advisor](https://ra.co/events/1437597)
+- [Facebook Event](https://www.facebook.com/events/351092805950996)
+- [Carbon Copy Facebook group](https://www.facebook.com/groups/17847551687/)
 
 {% fig "cctv-2.jpg", "Image by Martin Kling"  %}
 
