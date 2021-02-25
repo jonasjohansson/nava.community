@@ -18,7 +18,7 @@
 }
 
 #page article > *:not(figure) {
-	max-width: 70vw;
+	max-width: max(80vw, 800px);
 }
 
 #page h1 {

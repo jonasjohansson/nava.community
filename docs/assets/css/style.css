@@ -88,11 +88,18 @@ h3 {
 
 ul,
 ol {
-	padding-left: 1em;
+	/* padding-left: 1em; */
 }
 
 ul {
 	list-style: square;
+}
+
+li {
+	list-style-position: inside;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
 }
 
 p:not(:only-child),
