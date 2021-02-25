@@ -4,18 +4,18 @@ preamble:
 date: 2020-12-01
 permalink: /tour-de-lux/
 theme:
-    background_color: '#0f160e, #b45944, #0f1606'
-    emoji: 🚲
-    cover: mapp_bike.jpg
+  background_color: '#0f160e, #b45944, #0f1606'
+  emoji: 🚲
+  cover: mapp_bike.jpg
 layout: page.njk
 tags: page
 ---
 
 Tour de Lux is a rolling parade of projections, where "Beamer Bikes" are built in order to present urban audiovisual screenings. With support from [Nordisk Kulturfond](https://www.nordiskkulturfond.org/) and [Opstart](https://nordiskkulturfond.org/opstart-info/) NAVA is building three bikes, where each Nordic design teams receive a budget. Through an open call, the following teams have been selected:
 
--   Reykjavik: [Owen Hindley](http://www.owenhindley.co.uk/), [Huldufugl](http://huldufugl.is/), [Isle of Games](https://www.facebook.com/isleofgamesfestival/)
--   Oslo: [Rasmus Stride](http://rasmusstride-portfolio.glitch.me/)
--   Stockholm: [Sebastian Jansson](), [Cyclocar](https://www.facebook.com/cyclocar), [Blivande](https://www.blivande.com/)
+- Helsinki: Jan-Erik Lindroos and [Pyöräpaja](https://www.facebook.com/pyorapaja/), [Huldufugl](http://huldufugl.is/)
+- Oslo: [Rasmus Stride](http://rasmusstride-portfolio.glitch.me/)
+- Stockholm: Carl Edwin Waerner, [Cyclocar](https://www.facebook.com/cyclocar), [Blivande](https://www.blivande.com/) and friends.
 
 {% fig "mapp_bike.jpg", "Image by MAPP_MTL"  %}
 
@@ -23,8 +23,8 @@ Tour de Lux is a rolling parade of projections, where "Beamer Bikes" are built i
 
 ### Apply
 
--   [Application form](https://forms.gle/2XvdTabLoxXWZw2D9)
--   Deadline: 17th of August 2020, 24:00 CET
+- [Application form](https://forms.gle/2XvdTabLoxXWZw2D9)
+- Deadline: 17th of August 2020, 24:00 CET
 
 We are looking for designers, makers, creatives who can by themselves or (preferably) in a small team produce a bicycle capable of mobile outdoor projections.
 
@@ -36,9 +36,9 @@ NAVA will provide the framework, assist with reaching out to technical partners 
 
 ### Schedule
 
--   20.07.27 Open call start
--   20.08.17 Open call end
--   20.08.24 Bike build begin
+- 20.07.27 Open call start
+- 20.08.17 Open call end
+- 20.08.24 Bike build begin
 
 _Presentation of project happens during spring 2021. Rest of schedule TBC_
 
