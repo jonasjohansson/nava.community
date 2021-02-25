@@ -4,7 +4,7 @@ preamble: 6 March, 2021
 date: 2021-03-06
 permalink: /cctv/
 theme:
-  background_color: '#1c1722, #f27f70, #471658'
+  background_color: '#0d0a11, #b54435, #69490e'
   emoji: 📼
   cover: cctv-2.jpg
 layout: page.njk
@@ -34,6 +34,8 @@ Installations by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifes
 
 - [Event on Resident Advisor](https://ra.co/events/1437597) and [Facebook](https://www.facebook.com/events/351092805950996)
 - [Carbon Copy Facebook group](https://www.facebook.com/groups/17847551687/)
+
+{% fig "cctv-collage.jpg", "Image by Martin Kling"  %}
 
 {% fig "cctv-2.jpg", "Image by Martin Kling"  %}
 

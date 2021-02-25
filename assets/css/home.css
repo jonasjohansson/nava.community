@@ -4,6 +4,7 @@
 	height: 100vh;
 	padding: calc(var(--base) * 2);
 	/* background-image: linear-gradient(#0f160e, #6e4eb9, #0f1606); */
+	max-width: max(80vw, 800px);
 }
 
 @media (min-height: 960px) {
