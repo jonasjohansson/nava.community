@@ -30,7 +30,7 @@ For the launch of the CCTV headquarters [NAVA](https://nava.community) will cura
 - 02-03 [EBO](https://www.instagram.com/__ebo._/) / [Marble](https://soundcloud.com/marblesthlm)
 - 03-04 TigerFistUnhinged / [Stefan Kits](https://soundcloud.com/ultrasnurr/ultrasnurr-mix-3)
 
-Installations by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifesto/) and [David Carjaval](https://cargocollective.com/DavidCarvajal/).
+Installations by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifesto/) and [David Carvajal](https://cargocollective.com/DavidCarvajal/).
 
 - [Event on Resident Advisor](https://ra.co/events/1437597) and [Facebook](https://www.facebook.com/events/351092805950996)
 - [Carbon Copy Facebook group](https://www.facebook.com/groups/17847551687/)
