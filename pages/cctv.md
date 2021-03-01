@@ -19,18 +19,18 @@ For the launch of the CCTV headquarters [NAVA](https://nava.community) will cura
 
 - 15-17 [Jonas Johansson](https://jonasjohansson.se/) / [DAMM](https://www.astrangelyisolatedplace.com/artists-damm) aka Joel Mull
 - 17-18 Video Kling LIVE / [PRO424](https://pro424.com/)
-- 18-19 [Skaggis](https://vimeo.com/user10258850) (remote) / [Parallax Deep](https://soundcloud.com/parallaxdeep/)
+- 18-19 [Skaggis](https://vimeo.com/user10258850) / [Parallax Deep](https://soundcloud.com/parallaxdeep/)
 - 19-20 [Jaime Reyes](https://www.instagram.com/_jreyes79/) / [Art Alfie](https://soundcloud.com/art-alfie)
 - 20-21 [Annie Tådne](https://tadne.se/) / [Dorisburg](https://soundcloud.com/papayaplayaprojectulum/dorisburg-liveambient-ppp) LIVE
-- 21-22 [Spherical Aberration](https://www.instagram.com/spherical.aberration/) (remote) / [Nicolai Zellmani](https://soundcloud.com/SOLKYSS)
+- 21-22 [Spherical Aberration](https://www.instagram.com/spherical.aberration/) / [Nicolai Zellmani](https://soundcloud.com/SOLKYSS)
 - 22-23 [Away From People](https://www.instagram.com/away_from_people/) / [Jesper Dahlbäck](https://soundcloud.com/jesperdahlback)
-- 23-24 [Folded Visuals](https://www.instagram.com/merlemoi/) (remote) / [Alexi Delano](https://soundcloud.com/alexidelano)
+- 23-24 [Folded Visuals](https://www.instagram.com/merlemoi/) / [Alexi Delano](https://soundcloud.com/alexidelano)
 - 24-01 [Jenny Forsgren](https://www.are.na/jenny-forsgren) / [Martin Kling](https://soundcloud.com/lize-records/lizecast-35-by-martin-kling)
-- 01-02 [ssusui](https://emfm.se/) (remote) / [Bella Sarris](https://soundcloud.com/bellasarris)
+- 01-02 [ssusui](https://emfm.se/) / [Bella Sarris](https://soundcloud.com/bellasarris)
 - 02-03 [EBO](https://www.instagram.com/__ebo._/) / [Marble](https://soundcloud.com/marblesthlm)
 - 03-04 TigerFistUnhinged / [Stefan Kits](https://soundcloud.com/ultrasnurr/ultrasnurr-mix-3)
 
-Installations by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifesto/) and [David Carvajal](https://cargocollective.com/DavidCarvajal/).
+Installation by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifesto/).
 
 - [Event on Resident Advisor](https://ra.co/events/1437597) and [Facebook](https://www.facebook.com/events/351092805950996)
 - [Carbon Copy Facebook group](https://www.facebook.com/groups/17847551687/)
