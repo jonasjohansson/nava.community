@@ -1,11 +1,11 @@
 ---
 title: CCTV
-preamble: 6 March, 2021
+preamble: 5-7 March, 2021
 date: 2021-03-06
 permalink: /cctv/
 theme:
   background_color: '#0d0a11, #b54435, #69490e'
-  emoji: 📼
+  emoji: 🎥
   cover: cctv-2.jpg
 layout: page.njk
 tags: page
@@ -13,7 +13,7 @@ tags: page
 
 [Carbon Copy TV](https://www.facebook.com/carboncopytv) by [Martin Kling](https://www.instagram.com/mmmmmartinkling/) is an audiovisual concept, documenting and developing the cultural scene in Stockholm. In his own words "Hearing and seeing is equally important in CC experiences. Its coherence is space and time. What is seen shall be as enjoyable as what is heard."
 
-For the launch of the CCTV headquarters [NAVA](https://nava.community) will curate the **Saturday** visual experience. Expect to see some [Visualia](https://nava.community/visualia/) superstars in this 1-day rollercoaster of visual weirdness!
+For the launch of the CCTV headquarters, Martin is bringing together some of the best in the electronic music scene, while inviting [NAVA](https://nava.community) to curate the **Saturday** visual experience. Expect to see some [Visualia](https://nava.community/visualia/) superstars in this adventure of visual weirdness!
 
 ## Program
 
