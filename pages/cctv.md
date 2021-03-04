@@ -4,7 +4,7 @@ preamble: 5-7 March, 2021
 date: 2021-03-06
 permalink: /cctv/
 theme:
-  background_color: '#0d0a11, #b54435, #69490e'
+  background_color: '#0d0a11, #461326, #69490e'
   emoji: 🎥
   cover: cctv-2.jpg
 layout: page.njk
