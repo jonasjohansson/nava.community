@@ -1,18 +1,21 @@
-{% include "head.njk" %} 
+{% include "head.njk" %}
 
 <article>
+    <header>
         <h1>
             <a href="/">
                 {{ title }}
                 {% if preamble %}
-                <br />
-                {{ preamble | safe }}
+                    <br/>
+                    {{ preamble | safe }}
                 {% endif %}
             </a>
         </h1>
-    <section class="text-layout">
-    </section>
-    {{ content | wrap | safe }}
+        {% if theme.cover %}<img class="cover" src="{% img2 theme.cover %}">{% endif %}
+    </header>
+    <main>
+        {{ content | wrap | safe }}
+    </main>
 </article>
 
 {% include "foot.njk" %}

@@ -3,21 +3,15 @@
 	--padding-side: 6vw;
 	--black: #0b0b0b;
 	--white: #ebebeb;
+	--padding: calc(var(--base) * 2);
 }
 
 html {
-	will-change: filter;
-	transition: filter 20ms ease-in;
-	font-family: 'TT Firs Neue', -apple-system, BlinkMacSystemFont, Roboto,
-		sans-serif;
+	font-family: 'TT Firs Neue', sans-serif;
 	min-height: 100vh;
 	background-color: var(--black);
 	color: var(--white);
 }
-
-/* html.invert {
-  filter: invert(1);
-} */
 
 body {
 	margin: 0 auto;
@@ -37,9 +31,8 @@ body.loading > * {
 	opacity: 0;
 }
 
-#home,
-h1 {
-	font-size: max(3.6rem, min(3vw, 7rem));
+#home {
+	font-size: max(3.8rem, min(3.2vw, 7rem));
 }
 
 a {
@@ -86,40 +79,27 @@ h3 {
 	letter-spacing: 0.01em;
 }
 
-ul,
-ol {
-	/* padding-left: 1em; */
-}
-
-ul {
-	list-style: square;
-}
-
 li {
-	list-style-position: inside;
 	white-space: nowrap;
 	overflow: hidden;
 	text-overflow: ellipsis;
 }
 
 p:not(:only-child),
-article > *,
+main > *,
 section > *:not(:last-child) {
-	margin-bottom: calc(var(--base) * 2);
+	margin-bottom: var(--padding);
 }
 
-/* article {
-    overflow-x: hidden;
-} */
-
-article > * {
+header > *:not(img),
+main > * {
 	margin-right: auto;
 	margin-left: auto;
-	padding: 0 calc(var(--base) * 2);
 	box-sizing: border-box;
+	padding: 0 var(--padding);
 }
 
-article > * > *:not(ol) {
+main > * > *:not(ol) {
 	overflow-x: scroll;
 	overflow-y: hidden;
 	-webkit-overflow-scrolling: touch;

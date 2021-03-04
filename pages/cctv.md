@@ -30,12 +30,11 @@ For the launch of the CCTV headquarters, Martin is bringing together some of the
 - 02-03 [EBO](https://www.instagram.com/__ebo._/) / [Marble](https://soundcloud.com/marblesthlm)
 - 03-04 TigerFistUnhinged / [Stefan Kits](https://soundcloud.com/ultrasnurr/ultrasnurr-mix-3)
 
-- [Event on Resident Advisor](https://ra.co/events/1437597) and [Facebook](https://www.facebook.com/events/351092805950996)
-- [Carbon Copy Facebook group](https://www.facebook.com/groups/17847551687/)
+Read more about the event on [Resident Advisor](https://ra.co/events/1437597) and [Facebook](https://www.facebook.com/events/351092805950996).
 
-{% fig "cctv-collage.jpg", "Image by Martin Kling"  %}
+<!-- {% fig "cctv-collage.jpg", "Image by Martin Kling"  %} -->
 
-{% fig "cctv-2.jpg", "Image by Martin Kling"  %}
+<!-- {% fig "cctv-2.jpg", "Image by Martin Kling"  %} -->
 
 As the stage remain closed during 2021, creating momentary blitzes of otherwordly experiences is both increasingly challenging and exciting. We see this as an opportunity for a micro-residency of sorts, and look forward to experimenting our way into spring.
 
