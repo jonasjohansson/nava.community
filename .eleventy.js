@@ -27,6 +27,10 @@ module.exports = function (eleventyConfig) {
 			return '/favicon.png';
 		}
 	});
+	eleventyConfig.addNunjucksAsyncShortcode('img2', async function (path) {
+		const props = await optimImg(path);
+		return props.url;
+	});
 
 	eleventyConfig.addShortcode('img', async function (path, pathOnly = false) {
 		const props = await optimImg(path);

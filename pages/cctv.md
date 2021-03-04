@@ -17,7 +17,7 @@ For the launch of the CCTV headquarters, Martin is bringing together some of the
 
 ## Program
 
-- 15-17 [Jonas Johansson](https://jonasjohansson.se/) / [DAMM](https://www.astrangelyisolatedplace.com/artists-damm) aka Joel Mull
+- 15-17 [Jonas Johansson](https://jonasjohansson.se/) / [DAMM](https://www.astrangelyisolatedplace.com/artists-damm)
 - 17-18 Video Kling LIVE / [PRO424](https://pro424.com/)
 - 18-19 [Skaggis](https://vimeo.com/user10258850) / [Parallax Deep](https://soundcloud.com/parallaxdeep/)
 - 19-20 [Jaime Reyes](https://www.instagram.com/_jreyes79/) / [Art Alfie](https://soundcloud.com/art-alfie)
@@ -29,8 +29,6 @@ For the launch of the CCTV headquarters, Martin is bringing together some of the
 - 01-02 [ssusui](https://emfm.se/) / [Bella Sarris](https://soundcloud.com/bellasarris)
 - 02-03 [EBO](https://www.instagram.com/__ebo._/) / [Marble](https://soundcloud.com/marblesthlm)
 - 03-04 TigerFistUnhinged / [Stefan Kits](https://soundcloud.com/ultrasnurr/ultrasnurr-mix-3)
-
-Installation by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifesto/).
 
 - [Event on Resident Advisor](https://ra.co/events/1437597) and [Facebook](https://www.facebook.com/events/351092805950996)
 - [Carbon Copy Facebook group](https://www.facebook.com/groups/17847551687/)

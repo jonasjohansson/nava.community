@@ -1,7 +1,7 @@
 {% include "head.njk" %} 
 
 <article>
-    <section class="text-layout">
+        <img src="{% img2 theme.cover %}">
         <h1>
             <a href="/">
                 {{ title }}
@@ -11,6 +11,7 @@
                 {% endif %}
             </a>
         </h1>
+    <section class="text-layout">
     </section>
     {{ content | wrap | safe }}
 </article>
