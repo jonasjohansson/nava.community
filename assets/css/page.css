@@ -9,6 +9,10 @@
 	margin-left: auto;
 }
 
+#page main > *:last-child:not(figure) {
+	margin-bottom: 6vw;
+}
+
 #page h1 {
 	font-size: max(5rem, min(5vw, 7rem));
 }
