@@ -17,7 +17,7 @@ For the launch of the CCTV headquarters, Martin is bringing together some of the
 
 ## Program
 
-- 15-17 [Jonas Johansson](https://jonasjohansson.se/) / [DAMM](https://www.astrangelyisolatedplace.com/artists-damm)
+- 15-17 [Jonas Johansson](https://jonasjohansson.se/) / [Damm](https://www.astrangelyisolatedplace.com/artists-damm)
 - 17-18 Video Kling LIVE / [PRO424](https://pro424.com/)
 - 18-19 [Skaggis](https://vimeo.com/user10258850) / [Parallax Deep](https://soundcloud.com/parallaxdeep/)
 - 19-20 [Jaime Reyes](https://www.instagram.com/_jreyes79/) / [Art Alfie](https://soundcloud.com/art-alfie)
