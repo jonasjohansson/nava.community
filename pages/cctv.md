@@ -15,7 +15,7 @@ tags: page
 
 ---
 
-## Open Call
+## Spring (April, May)
 
 With a succesful opening in the back, we are preparing for 5 events during spring, each event will host 4 visual artists. This open call is aimed to fill at least 1 of those spots per occasion.
 
@@ -26,7 +26,7 @@ With a succesful opening in the back, we are preparing for 5 events during sprin
 
 ---
 
-## Opening
+## Opening (March)
 
 For the launch of CCTV, Martin and his team are bringing together some of the best in the electronic music scene, while inviting [NAVA](https://nava.community) to curate the **Saturday** visual experience. Expect to see some [Visualia](https://nava.community/visualia/) superstars in this adventure of visual weirdness!
 
@@ -52,6 +52,8 @@ Read more about the event on [Resident Advisor](https://ra.co/events/1437597) an
 <!-- {% fig "cctv-collage.jpg", "Image by Martin Kling"  %} -->
 
 <!-- {% fig "cctv-2.jpg", "Image by Martin Kling"  %} -->
+
+---
 
 As the stage remain closed during 2021, creating momentary blitzes of otherwordly experiences is both increasingly challenging and exciting. We see this as an opportunity for a micro-residency of sorts, and look forward to experimenting our way into spring.
 

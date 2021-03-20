@@ -4,7 +4,7 @@
 
 #page main > *:not(figure),
 #page h1 {
-	max-width: max(80vw, 800px);
+	max-width: max(60vw, 800px);
 	margin-right: auto;
 	margin-left: auto;
 }
@@ -14,7 +14,7 @@
 }
 
 #page h1 {
-	font-size: max(5rem, min(5vw, 7rem));
+	font-size: max(5rem, min(5vw, 6rem));
 }
 
 #page header {
