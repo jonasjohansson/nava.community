@@ -6,7 +6,7 @@ permalink: /cctv/
 theme:
   background_color: '#0d0a11, #461326, #69490e'
   emoji: 🎥
-  cover: cctv-2.jpg
+  cover: cctv-4.jpg
 layout: page.njk
 tags: page
 ---
