@@ -19,6 +19,11 @@ tags: page
 
 With a succesful opening in the back, we are preparing for 5 events during spring, each event will host 4 visual artists. This open call is aimed to fill at least 1 of those spots per occasion.
 
+- [Ida Davidsson](https://www.instagram.com/iakds/) / TBD
+- Visual Artist #2 / TBD
+- Visual Artist #3 / TBD
+- Visual Artist #4 / TBD
+
 ### Apply
 
 - Application deadline: 1st of April 2021, 24:00 CET
