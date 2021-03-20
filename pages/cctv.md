@@ -1,6 +1,6 @@
 ---
 title: CCTV
-preamble: 5-7 March, 2021
+preamble: Spring, 2021
 date: 2021-03-06
 permalink: /cctv/
 theme:
@@ -11,11 +11,26 @@ layout: page.njk
 tags: page
 ---
 
-[Carbon Copy TV](https://www.facebook.com/carboncopytv) by [Martin Kling](https://www.instagram.com/mmmmmartinkling/) is an audiovisual concept, documenting and developing the cultural scene in Stockholm. In his own words "Hearing and seeing is equally important in CC experiences. Its coherence is space and time. What is seen shall be as enjoyable as what is heard."
+[CCTV](https://www.facebook.com/groups/17847551687/) by Martin Kling is an audiovisual concept, documenting and developing the cultural scene in Stockholm. In his own words "Hearing and seeing is equally important in CC experiences. Its coherence is space and time. What is seen shall be as enjoyable as what is heard."
 
-For the launch of the CCTV headquarters, Martin is bringing together some of the best in the electronic music scene, while inviting [NAVA](https://nava.community) to curate the **Saturday** visual experience. Expect to see some [Visualia](https://nava.community/visualia/) superstars in this adventure of visual weirdness!
+---
 
-## Program
+## Open Call
+
+With a succesful opening in the back, we are preparing for 5 events during spring, each event will host 4 visual artists. This open call is aimed to fill at least 1 of those spots per occasion.
+
+### Apply
+
+- Application deadline: 1st of April 2021, 24:00 CET
+- [Application form](https://forms.gle/QVJ1jFc1ZgfHYNqKA)
+
+---
+
+## Opening
+
+For the launch of CCTV, Martin and his team are bringing together some of the best in the electronic music scene, while inviting [NAVA](https://nava.community) to curate the **Saturday** visual experience. Expect to see some [Visualia](https://nava.community/visualia/) superstars in this adventure of visual weirdness!
+
+### Program
 
 - 15-17 [Jonas Johansson](https://jonasjohansson.se/) / [Damm](https://www.astrangelyisolatedplace.com/artists-damm)
 - 17-18 Video Kling LIVE / [PRO424](https://pro424.com/)
@@ -32,11 +47,7 @@ For the launch of the CCTV headquarters, Martin is bringing together some of the
 
 Read more about the event on [Resident Advisor](https://ra.co/events/1437597) and [Facebook](https://www.facebook.com/events/351092805950996). And watch the stream on the [CCTV Vimeo](https://vimeo.com/event/762827).
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/519921368?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/519940653?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/519944690?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 <!-- {% fig "cctv-collage.jpg", "Image by Martin Kling"  %} -->
 
