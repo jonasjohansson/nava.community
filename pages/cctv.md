@@ -21,12 +21,12 @@ As the stage remain closed during 2021, creating momentary blitzes of otherwordl
 
 ## Spring (April, May)
 
-With a succesful opening in the back, we are preparing for 5 events during spring, each event will host 4 visual artists. This open call is aimed to fill at least 1 of those spots per occasion.
+With a succesful opening in the back, we are preparing for 4 events during spring, each event will host 4 visual artists. This open call is aimed to fill at least 1 of those spots per occasion.
 
 - Application deadline: 1st of April 2021, 24:00 CET
 - [Application form](https://forms.gle/QVJ1jFc1ZgfHYNqKA)
 
-### April 3
+### April 17
 
 - [Ida Davidsson](https://www.instagram.com/iakds/) / TBA
 - [petit sapin](https://www.instagram.com/unpetitsapin/) / TBA
