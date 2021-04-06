@@ -30,9 +30,9 @@ With a succesful opening in the back, we are preparing for 4 events during sprin
 
 There was a mortal blow, but not fatal, which hit us as the break-in caused a lot of valuable gear to disappear. We have now moved, and breath fresh audiovisual air at Värmeverket. Celebrating this, we are re-booting the franchise, and doing it in style with a TBA exclusive.
 
-- 18-19 [Ida Davidsson](https://www.instagram.com/iakds/) / TBA
-- 19-20 [petit sapin](https://www.instagram.com/unpetitsapin/) / TBA
-- 20-21 TBA
+- 19-20 Obay LIVE
+- 22-24 [Ida Davidsson](https://www.instagram.com/iakds/) / [Anthony Linell](https://soundcloud.com/anthonylinell)
+- 20-22 [petit sapin](https://www.instagram.com/unpetitsapin/) / [Evigt Mörker](https://soundcloud.com/evigtmorker)
 
 Attend the [Facebook event](https://www.facebook.com/events/1003754903365358) and [watch the stream](https://vimeo.com/cctvsthlm).
 
