@@ -17,18 +17,18 @@ As the stage remain closed during 2021, creating momentary blitzes of otherwordl
 
 {% fig "cctv-2.jpg", "Image by Martin Kling"  %}
 
-## Spring (April, May)
+<!-- ## Spring (April, May)
 
 With a succesful opening in the back, we are preparing for 4 events during spring, each event will host 4 visual artists.
 
 - Application deadline: 1st of April 2021, 24:00 CET
 - [Application form](https://forms.gle/QVJ1jFc1ZgfHYNqKA)
 
----
+--- -->
 
 ## 0417 A new beginning
 
-There was a mortal blow, but not fatal, which hit us as the break-in caused a lot of valuable gear to disappear. We have now moved, and breath fresh audiovisual air at Värmeverket. Celebrating this, we are re-booting the franchise, and doing it in style with a TBA exclusive.
+Shortly after the opening there was a break-in where a lot of valuable gear was stolen. It was a mortal blow, but not fatal, and we have moved on. Mentally, as well as physically. We are now at [Värmeverket](https://varmeverket.com/), in a fantastic venue! Celebrating this, we are re-booting, and doing it in style.
 
 - 19-20 [Obay LIVE](https://khanelrouh.bandcamp.com/album/sandbox)
 - 22-24 [Ida Davidsson](https://www.instagram.com/iakds/) / [Anthony Linell](https://soundcloud.com/anthonylinell)
