@@ -17,27 +17,30 @@ As the stage remain closed during 2021, creating momentary blitzes of otherwordl
 
 {% fig "cctv-2.jpg", "Image by Martin Kling"  %}
 
----
-
 ## Spring (April, May)
 
-With a succesful opening in the back, we are preparing for 4 events during spring, each event will host 4 visual artists. This open call is aimed to fill at least 1 of those spots per occasion.
+With a succesful opening in the back, we are preparing for 4 events during spring, each event will host 4 visual artists.
 
 - Application deadline: 1st of April 2021, 24:00 CET
 - [Application form](https://forms.gle/QVJ1jFc1ZgfHYNqKA)
 
-### April 17
+---
 
-- [Ida Davidsson](https://www.instagram.com/iakds/) / TBA
-- [petit sapin](https://www.instagram.com/unpetitsapin/) / TBA
+## 0417 A new beginning
+
+There was a mortal blow, but not fatal, which hit us as the break-in caused a lot of valuable gear to disappear. We have now moved, and breath fresh audiovisual air at Värmeverket. Celebrating this, we are re-booting the franchise, and doing it in style with a TBA exclusive.
+
+- 18-19 [Ida Davidsson](https://www.instagram.com/iakds/) / TBA
+- 19-20 [petit sapin](https://www.instagram.com/unpetitsapin/) / TBA
+- 20-21 TBA
+
+Attend the [Facebook event](https://www.facebook.com/events/1003754903365358) and [watch the stream](https://vimeo.com/cctvsthlm).
 
 ---
 
-## CCTV opening
+## 0306 Opening
 
 For the launch of CCTV, Martin and his team are bringing together some of the best in the electronic music scene, while inviting [NAVA](https://nava.community) to curate the **Saturday** visual experience. Expect to see some [Visualia](https://nava.community/visualia/) superstars in this adventure of visual weirdness!
-
-### Program
 
 - 15-17 [Jonas Johansson](https://jonasjohansson.se/) / [Damm](https://www.astrangelyisolatedplace.com/artists-damm)
 - 17-18 Video Kling LIVE / [PRO424](https://pro424.com/)
