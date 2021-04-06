@@ -31,8 +31,8 @@ With a succesful opening in the back, we are preparing for 4 events during sprin
 Shortly after the opening there was a break-in where a lot of valuable gear was stolen. It was a mortal blow, but not fatal, and we have moved on. Mentally, as well as physically. We are now at [Värmeverket](https://varmeverket.com/), in a fantastic venue! Celebrating this, we are re-booting, and doing it in style.
 
 - 19-20 [Obay LIVE](https://khanelrouh.bandcamp.com/album/sandbox)
-- 22-24 [Ida Davidsson](https://www.instagram.com/iakds/) / [Anthony Linell](https://soundcloud.com/anthonylinell)
 - 20-22 [petit sapin](https://www.instagram.com/unpetitsapin/) / [Evigt Mörker](https://soundcloud.com/evigtmorker)
+- 22-24 [Ida Davidsson](https://www.instagram.com/iakds/) / [Anthony Linell](https://soundcloud.com/anthonylinell)
 
 Attend the [Facebook event](https://www.facebook.com/events/1003754903365358) and [watch the stream](https://vimeo.com/cctvsthlm).
 
