@@ -34,7 +34,7 @@ Shortly after the opening there was a break-in where a lot of valuable gear was 
 - 20-22 [petit sapin](https://www.instagram.com/unpetitsapin/) / [Evigt Mörker](https://soundcloud.com/evigtmorker)
 - 22-24 [Ida Davidsson](https://www.instagram.com/iakds/) / [Anthony Linell](https://soundcloud.com/anthonylinell)
 
-Attend the [Facebook event](https://www.facebook.com/events/1003754903365358) and [watch the stream](https://vimeo.com/cctvsthlm).
+Attend the [Facebook event](https://www.facebook.com/events/284368839865926) and [watch the stream](https://vimeo.com/cctvsthlm).
 
 ---
 
