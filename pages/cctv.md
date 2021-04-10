@@ -4,7 +4,7 @@ preamble: Spring, 2021
 date: 2021-03-06
 permalink: /cctv/
 theme:
-  background_color: '#0d0a11, #461326, #69490e'
+  background_color: '#0d0a11, #1d3341, #000e11, #140907, #b21b20'
   emoji: 🎥
   cover: cctv-4.jpg
 layout: page.njk
@@ -15,7 +15,7 @@ tags: page
 
 As the stage remain closed during 2021, creating momentary blitzes of otherwordly experiences is both increasingly challenging and exciting. We see this as an opportunity for a micro-residency of sorts, and look forward to experimenting our way into summer.
 
-{% fig "cctv-2.jpg", "Image by Martin Kling"  %}
+{% fig "cctv-5.jpeg", "Image by Martin Kling"  %}
 
 <!-- ## Spring (April, May)
 
@@ -57,7 +57,7 @@ For the launch of CCTV, Martin and his team are bringing together some of the be
 
 Read more about the event on [Resident Advisor](https://ra.co/events/1437597) and [Facebook](https://www.facebook.com/events/351092805950996). And watch the stream on the [CCTV Vimeo](https://vimeo.com/event/762827).
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/519940653?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<!-- <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/519940653?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> -->
 
 <!-- {% fig "cctv-collage.jpg", "Image by Martin Kling"  %} -->
 
