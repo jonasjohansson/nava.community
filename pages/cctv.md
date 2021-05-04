@@ -11,7 +11,7 @@ layout: page.njk
 tags: page
 ---
 
-[CCTV](https://www.facebook.com/groups/17847551687/) by Martin Kling is an audiovisual concept, documenting and developing the cultural scene in Stockholm. In his own words "Hearing and seeing is equally important in CC experiences. Its coherence is space and time. What is seen shall be as enjoyable as what is heard."
+[CCTV](https://cctvsthlm.se/) by Martin Kling is an audiovisual community, documenting and developing the cultural scene in Stockholm. In his own words "Hearing and seeing is equally important in CC experiences. Its coherence is space and time. What is seen shall be as enjoyable as what is heard."
 
 As the stage remain closed during 2021, creating momentary blitzes of otherwordly experiences is both increasingly challenging and exciting. We see this as an opportunity for a micro-residency of sorts, and look forward to experimenting our way into summer.
 
@@ -26,7 +26,22 @@ With a succesful opening in the back, we are preparing for 4 events during sprin
 
 --- -->
 
-## 0417 A new beginning
+## 0530 CCTV Live
+
+Lineup TBD.
+
+## 0509 S((o))un((d))ay
+
+On certain Sundays, [Curt Lundgren](https://www.mixcloud.com/culman/) seizes the reigns, inviting experimental music and sound artists into the vision of CCTV.
+
+- 15-16 [culmannen](https://www.mixcloud.com/culman/)
+- 16-17 [Chris Speed Visuals](https://chrisspeedvisuals.com/) / [Acid Sussi](https://soundcloud.com/acidsussi)
+- 17-18 [Marcus Wrangö](http://www.marcuswrango.com/)
+- 18-19 Scenic Route / [Linda Pistol](https://soundcloud.com/linda-pistol)
+- 19-19.30 [Sasha Smirnova](https://vimeo.com/ssshasmirnova) / [Tilliander](https://soundcloud.com/tilliander)
+- 20.30-22 [Daniel Wirtberg](https://danielwirtberg.com/) / pME nEXT
+
+## 0417 CCTV Live
 
 Shortly after the opening there was a break-in where a lot of valuable gear was stolen. It was a mortal blow, but not fatal, and we have moved on. Mentally, as well as physically. We are now at [Värmeverket](https://varmeverket.com/), in a fantastic venue! Celebrating this, we are re-booting, and doing it in style.
 
@@ -38,7 +53,7 @@ Attend the [Facebook event](https://www.facebook.com/events/284368839865926) and
 
 ---
 
-## 0306 Opening
+## 0306 CCTV Live
 
 For the launch of CCTV, Martin and his team are bringing together some of the best in the electronic music scene, while inviting [NAVA](https://nava.community) to curate the **Saturday** visual experience. Expect to see some [Visualia](https://nava.community/visualia/) superstars in this adventure of visual weirdness!
 
