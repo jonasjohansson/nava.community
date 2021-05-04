@@ -36,7 +36,7 @@ On certain Sundays, [Curt Lundgren](https://www.mixcloud.com/culman/) seizes the
 
 - 15-16 [culmannen](https://www.mixcloud.com/culman/)
 - 16-17 [Chris Speed Visuals](https://chrisspeedvisuals.com/) / [Acid Sussi](https://soundcloud.com/acidsussi)
-- 17-18 [Marcus Wrangö](http://www.marcuswrango.com/)
+- 17-18 [Marcus Wrangö LIVE](http://www.marcuswrango.com/)
 - 18-19 Scenic Route / [Linda Pistol](https://soundcloud.com/linda-pistol)
 - 19-19.30 [Sasha Smirnova](https://vimeo.com/ssshasmirnova) / [Tilliander](https://soundcloud.com/tilliander)
 - 20.30-22 [Daniel Wirtberg](https://danielwirtberg.com/) / pME nEXT
