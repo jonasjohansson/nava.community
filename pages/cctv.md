@@ -32,7 +32,7 @@ Lineup TBD.
 
 ## 0509 S((o))un((d))ay
 
-On certain Sundays, [Curt Lundgren](https://www.mixcloud.com/culman/) seizes the reigns, inviting experimental music and sound artists into the vision of CCTV.
+On certain Sundays, [Curt Lundberg](https://www.mixcloud.com/culman/) seizes the reigns, inviting experimental music and sound artists into the vision of CCTV.
 
 - 15-16 [culmannen](https://www.mixcloud.com/culman/)
 - 16-17 [Chris Speed Visuals](https://chrisspeedvisuals.com/) / [Acid Sussi](https://soundcloud.com/acidsussi)
