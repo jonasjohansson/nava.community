@@ -28,6 +28,8 @@ With a succesful opening in the back, we are preparing for 4 events during sprin
 
 Lineup TBD.
 
+---
+
 ## 0509 S((o))un((d))ay
 
 On certain Sundays, [Curt Lundberg](https://www.mixcloud.com/culman/) seizes the reigns, inviting experimental music and sound artists into the vision of CCTV.
@@ -40,6 +42,8 @@ On certain Sundays, [Curt Lundberg](https://www.mixcloud.com/culman/) seizes the
 - 20.30-22 [Daniel Wirtberg](https://danielwirtberg.com/) / pME nEXT
 
 Attend the [Facebook event](https://www.facebook.com/events/195055962440112) and [watch the stream](https://vimeo.com/cctvsthlm).
+
+---
 
 ## 0417 CCTV Live
 
