@@ -26,8 +26,6 @@ With a succesful opening in the back, we are preparing for 4 events during sprin
 
 --- -->
 
-## 0530 CCTV Live
-
 Lineup TBD.
 
 ## 0509 S((o))un((d))ay
