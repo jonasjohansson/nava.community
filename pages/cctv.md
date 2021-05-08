@@ -15,7 +15,7 @@ tags: page
 
 As the stage remain closed during 2021, creating momentary blitzes of otherwordly experiences is both increasingly challenging and exciting. We see this as an opportunity for a micro-residency of sorts, and look forward to experimenting our way into summer.
 
-{% fig "cctv-5.jpeg", "Image by Martin Kling"  %}
+{% fig "cctv-6.jpeg", "Image by Martin Kling"  %}
 
 <!-- ## Spring (April, May)
 
@@ -24,13 +24,13 @@ With a succesful opening in the back, we are preparing for 4 events during sprin
 - Application deadline: 1st of April 2021, 24:00 CET
 - [Application form](https://forms.gle/QVJ1jFc1ZgfHYNqKA)
 
---- -->
-
 Lineup TBD.
+
+--- -->
 
 ---
 
-## 0509 S((o))un((d))ay
+## 0509 S((o))un((d))ays
 
 On certain Sundays, [Curt Lundberg](https://www.mixcloud.com/culman/) seizes the reigns, inviting experimental music and sound artists into the vision of CCTV.
 
