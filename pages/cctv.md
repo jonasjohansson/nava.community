@@ -38,8 +38,8 @@ On certain Sundays, [Curt Lundberg](https://www.mixcloud.com/culman/) seizes the
 - 16-17 [Chris Speed Visuals](https://chrisspeedvisuals.com/) / [Acid Sussi](https://soundcloud.com/acidsussi)
 - 17-18 [Katt Hernandez LIVE](https://konstmusiksystrar.se/medlem/katt-hernandez/)
 - 18-19 Scenic Route / [Linda Pistol](https://soundcloud.com/linda-pistol)
-- 19-19.30 [Sasha Smirnova](https://vimeo.com/ssshasmirnova) / [Tilliander](https://soundcloud.com/tilliander)
-- 20.30-22 [Daniel Wirtberg](https://danielwirtberg.com/) / [LFO2](https://soundcloud.com/lovefrankotto)
+- 19-20 [Sasha Smirnova](https://vimeo.com/ssshasmirnova) / [Tilliander](https://soundcloud.com/tilliander)
+- 20-21 [Daniel Wirtberg](https://danielwirtberg.com/) / [LFO2](https://soundcloud.com/lovefrankotto)
 
 Attend the [Facebook event](https://www.facebook.com/events/195055962440112) and [watch the stream](https://vimeo.com/cctvsthlm).
 
