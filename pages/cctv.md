@@ -17,64 +17,39 @@ As the stage remain closed during 2021, creating momentary blitzes of otherwordl
 
 {% fig "cctv-6.jpeg", "Image by Martin Kling"  %}
 
-<!-- ## Spring (April, May)
+## 0530 CCTV Live
 
-With a succesful opening in the back, we are preparing for 4 events during spring, each event will host 4 visual artists.
+<!-- In late 2020 we organised [Visualia](https://nava.community/visualia/), a one-day audiovisual festival with unique collaborations between musicians and visual performers, and never seen-before light and installations. Join for a different kind of Sunday where we play and experiment to our hearts content. -->
 
-- Application deadline: 1st of April 2021, 24:00 CET
-- [Application form](https://forms.gle/QVJ1jFc1ZgfHYNqKA)
+[Abstract Dissection](https://www.instagram.com/abstract_dissection/) / [Alexander Wallin](https://soundcloud.com/alexander_wallin), [Servando Barreiro](http://servando.teks.no/), [Sol Sarratea](https://solquemal.com/) / [Brenda El Rayes](htts://soundcloud.com/brendaboy), [Murilo Polese](http://www.murilopolese.com/) & Paulo Barcelos / [Hara Alonso](https://haraalonso.com/), David Åhrström / [Away From People](https://soundcloud.com/away_from_people), [YXA](https://soundcloud.com/yxamusik)
 
-Lineup TBD.
-
---- -->
+Installation by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifesto/)
 
 ---
 
 ## 0509 S((o))un((d))ays
 
-On certain Sundays, [Curt Lundberg](https://www.mixcloud.com/culman/) seizes the reigns, inviting experimental music and sound artists into the vision of CCTV.
+<!-- On certain Sundays, [Curt Lundberg](https://www.mixcloud.com/culman/) seizes the reigns, inviting experimental music and sound artists into the vision of CCTV. -->
 
-- 15-16 [culmannen](https://www.mixcloud.com/culman/)
-- 16-17 [Chris Speed Visuals](https://chrisspeedvisuals.com/) / [Acid Sussi](https://soundcloud.com/acidsussi)
-- 17-18 [Katt Hernandez LIVE](https://konstmusiksystrar.se/medlem/katt-hernandez/)
-- 18-19 Scenic Route / [Linda Pistol](https://soundcloud.com/linda-pistol)
-- 19-20 [Sasha Smirnova](https://vimeo.com/ssshasmirnova) / [Tilliander](https://soundcloud.com/tilliander)
-- 20-21 [Daniel Wirtberg](https://danielwirtberg.com/) / [LFO2](https://soundcloud.com/lovefrankotto)
-
-Attend the [Facebook event](https://www.facebook.com/events/195055962440112) and [watch the stream](https://vimeo.com/cctvsthlm).
+[Culmannen](https://www.mixcloud.com/culman/), [Chris Speed Visuals](https://chrisspeedvisuals.com/) / [Acid Sussi](https://soundcloud.com/acidsussi), Scenic Route / [Linda Pistol](https://soundcloud.com/linda-pistol), [Sasha Smirnova](https://vimeo.com/ssshasmirnova) / [Tilliander](https://soundcloud.com/tilliander), [Daniel Wirtberg](https://danielwirtberg.com/) / [LFO2](https://soundcloud.com/lovefrankotto)
 
 ---
 
 ## 0417 CCTV Live
 
-Shortly after the opening there was a break-in where a lot of valuable gear was stolen. It was a mortal blow, but not fatal, and we have moved on. Mentally, as well as physically. We are now at [Värmeverket](https://varmeverket.com/), in a fantastic venue! Celebrating this, we are re-booting, and doing it in style.
+<!-- Shortly after the opening there was a break-in where a lot of valuable gear was stolen. It was a mortal blow, but not fatal, and we have moved on. Mentally, as well as physically. We are now at [Värmeverket](https://varmeverket.com/), in a fantastic venue! Celebrating this, we are re-booting, and doing it in style. -->
 
-- 19-20 [Obay LIVE](https://khanelrouh.bandcamp.com/album/sandbox)
-- 20-22 [petit sapin](https://www.instagram.com/unpetitsapin/) / [Evigt Mörker](https://soundcloud.com/evigtmorker)
-- 22-24 [Ida Davidsson](https://www.instagram.com/iakds/) / [Anthony Linell](https://soundcloud.com/anthonylinell)
-
-Attend the [Facebook event](https://www.facebook.com/events/284368839865926) and [watch the stream](https://vimeo.com/cctvsthlm).
+[Obay LIVE](https://khanelrouh.bandcamp.com/album/sandbox), [petit sapin](https://www.instagram.com/unpetitsapin/) / [Evigt Mörker](https://soundcloud.com/evigtmorker), [Ida Davidsson](https://www.instagram.com/iakds/) / [Anthony Linell](https://soundcloud.com/anthonylinell)
 
 ---
 
 ## 0306 CCTV Live
 
-For the launch of CCTV, Martin and his team are bringing together some of the best in the electronic music scene, while inviting [NAVA](https://nava.community) to curate the **Saturday** visual experience. Expect to see some [Visualia](https://nava.community/visualia/) superstars in this adventure of visual weirdness!
+<!-- For the launch of CCTV, Martin and his team are bringing together some of the best in the electronic music scene, while inviting [NAVA](https://nava.community) to curate the **Saturday** visual experience. Expect to see some [Visualia](https://nava.community/visualia/) superstars in this adventure of visual weirdness! -->
 
-- 15-17 [Jonas Johansson](https://jonasjohansson.se/) / [Damm](https://www.astrangelyisolatedplace.com/artists-damm)
-- 17-18 Video Kling LIVE / [PRO424](https://pro424.com/)
-- 18-19 [Skaggis](https://vimeo.com/user10258850) / [Parallax Deep](https://soundcloud.com/parallaxdeep/)
-- 19-20 [Jaime Reyes](https://www.instagram.com/_jreyes79/) / [Art Alfie](https://soundcloud.com/art-alfie)
-- 20-21 [Annie Tådne](https://tadne.se/) / [Dorisburg](https://soundcloud.com/papayaplayaprojectulum/dorisburg-liveambient-ppp) LIVE
-- 21-22 [Spherical Aberration](https://www.instagram.com/spherical.aberration/) / [Nicolai Zellmani](https://soundcloud.com/SOLKYSS)
-- 22-23 [Away From People](https://www.instagram.com/away_from_people/) / [Jesper Dahlbäck](https://soundcloud.com/jesperdahlback)
-- 23-24 [Folded Visuals](https://www.instagram.com/merlemoi/) / [Alexi Delano](https://soundcloud.com/alexidelano)
-- 24-01 [Jenny Forsgren](https://www.are.na/jenny-forsgren) / [Martin Kling](https://soundcloud.com/lize-records/lizecast-35-by-martin-kling)
-- 01-02 [ssusui](https://emfm.se/) / [Bella Sarris](https://soundcloud.com/bellasarris)
-- 02-03 [EBO](https://www.instagram.com/__ebo._/) / [Marble](https://soundcloud.com/marblesthlm)
-- 03-04 TigerFistUnhinged / [Stefan Kits](https://soundcloud.com/ultrasnurr/ultrasnurr-mix-3)
-
-Read more about the event on [Resident Advisor](https://ra.co/events/1437597) and [Facebook](https://www.facebook.com/events/351092805950996). And watch the stream on the [CCTV Vimeo](https://vimeo.com/event/762827).
+[Jonas Johansson](https://jonasjohansson.se/) / [Damm](https://www.astrangelyisolatedplace.com/artists-damm), Video Kling LIVE / [PRO424](https://pro424.com/), [Skaggis](https://vimeo.com/user10258850) / [Parallax Deep](https://soundcloud.com/parallaxdeep/), [Jaime Reyes](https://www.instagram.com/_jreyes79/) / [Art Alfie](https://soundcloud.com/art-alfie), [Annie Tådne](https://tadne.se/) / [Dorisburg](https://soundcloud.com/papayaplayaprojectulum/dorisburg-liveambient-ppp) LIVE, [Spherical Aberration](https://www.instagram.com/spherical.aberration/) / [Nicolai Zellmani](https://soundcloud.com/SOLKYSS), [Away From People](https://www.instagram.com/away_from_people/) / [Jesper Dahlbäck](https://soundcloud.com/jesperdahlback), [Folded Visuals](https://www.instagram.com/merlemoi/) / [Alexi Delano](https://soundcloud.com/alexidelano),
+[Jenny Forsgren](https://www.are.na/jenny-forsgren) / [Martin Kling](https://soundcloud.com/lize-records/lizecast-35-by-martin-kling),
+[ssusui](https://emfm.se/) / [Bella Sarris](https://soundcloud.com/bellasarris), [EBO](https://www.instagram.com/__ebo._/) / [Marble](https://soundcloud.com/marblesthlm), TigerFistUnhinged / [Stefan Kits](https://soundcloud.com/ultrasnurr/ultrasnurr-mix-3)
 
 <!-- <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/519940653?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> -->
 
