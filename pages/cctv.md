@@ -4,9 +4,10 @@ preamble: Spring, 2021
 date: 2021-03-06
 permalink: /cctv/
 theme:
-  background_color: '#0d0a11, #1d3341, #000e11, #140907, #b21b20'
+  background_color: '#0d0a11, #0d1c2f, #323778, #744851, #112026'
+  color: '#fbccd2'
   emoji: 🎥
-  cover: cctv-4.jpg
+  cover: cctv-6.jpeg
 layout: page.njk
 tags: page
 ---
@@ -15,7 +16,7 @@ tags: page
 
 As the stage remain closed during 2021, creating momentary blitzes of otherwordly experiences is both increasingly challenging and exciting. We see this as an opportunity for a micro-residency of sorts, and look forward to experimenting our way into summer.
 
-{% fig "cctv-6.jpeg", "Image by Martin Kling"  %}
+<!-- {% fig "cctv-6.jpeg", "Image by Martin Kling"  %} -->
 
 ## 0530 CCTV Live
 
@@ -57,4 +58,4 @@ Installation by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifest
 
 <!-- {% fig "cctv-2.jpg", "Image by Martin Kling"  %} -->
 
-{% fig "cctv-1.jpg", "Image by Martin Kling"  %}
+<!-- {% fig "cctv-1.jpg", "Image by Martin Kling"  %} -->
