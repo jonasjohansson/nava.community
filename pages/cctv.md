@@ -22,7 +22,7 @@ As the stage remain closed during 2021, creating momentary blitzes of otherwordl
 
 <!-- In late 2020 we organised [Visualia](https://nava.community/visualia/), a one-day audiovisual festival with unique collaborations between musicians and visual performers, and never seen-before light and installations. Join for a different kind of Sunday where we play and experiment to our hearts content. -->
 
-[Abstract Dissection](https://www.instagram.com/abstract_dissection/) / [Alexander Wallin](https://soundcloud.com/alexander_wallin), [Servando Barreiro](http://servando.teks.no/), [Sol Sarratea](https://solquemal.com/) / [Brenda El Rayes](htts://soundcloud.com/brendaboy), [Murilo Polese](http://www.murilopolese.com/) & Paulo Barcelos / [Hara Alonso](https://haraalonso.com/), David Åhrström / [Away From People](https://soundcloud.com/away_from_people), [YXA](https://soundcloud.com/yxamusik)
+[Daniel M. Karlsson](https://danielmkarlsson.com/), [Flor White](https://www.instagram.com/abstract_dissection/) / [Alexander Wallin](https://soundcloud.com/alexander_wallin), [Srvnd](http://servando.teks.no/), [Sol Sarratea](https://solquemal.com/) / [Brenda El Rayes](htts://soundcloud.com/brendaboy), [Murilo Polese](http://www.murilopolese.com/) & Paulo Barcelos / [Hara Alonso](https://haraalonso.com/), David Åhrström / [Away From People](https://soundcloud.com/away_from_people), [Xana](https://vimeo.com/alisajavits) / [YXA](https://soundcloud.com/yxamusik)
 
 Installation by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifesto/)
 
