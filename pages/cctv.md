@@ -32,7 +32,7 @@ Installation by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifest
 
 <!-- On certain Sundays, [Curt Lundberg](https://www.mixcloud.com/culman/) seizes the reigns, inviting experimental music and sound artists into the vision of CCTV. -->
 
-[Culmannen](https://www.mixcloud.com/culman/), [Chris Speed Visuals](https://chrisspeedvisuals.com/) / [Acid Sussi](https://soundcloud.com/acidsussi), Scenic Route / [Linda Pistol](https://soundcloud.com/linda-pistol), [Sasha Smirnova](https://vimeo.com/ssshasmirnova) / [Tilliander](https://soundcloud.com/tilliander), [Daniel Wirtberg](https://danielwirtberg.com/) / [LFO2](https://soundcloud.com/lovefrankotto)
+[Culmannen](https://www.mixcloud.com/culman/) · [Chris Speed Visuals](https://chrisspeedvisuals.com/) / [Acid Sussi](https://soundcloud.com/acidsussi) · Scenic Route / [Linda Pistol](https://soundcloud.com/linda-pistol) · [Sasha Smirnova](https://vimeo.com/ssshasmirnova) / [Tilliander](https://soundcloud.com/tilliander) · [Daniel Wirtberg](https://danielwirtberg.com/) / [LFO2](https://soundcloud.com/lovefrankotto)
 
 ---
 
@@ -40,7 +40,7 @@ Installation by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifest
 
 <!-- Shortly after the opening there was a break-in where a lot of valuable gear was stolen. It was a mortal blow, but not fatal, and we have moved on. Mentally, as well as physically. We are now at [Värmeverket](https://varmeverket.com/), in a fantastic venue! Celebrating this, we are re-booting, and doing it in style. -->
 
-[Obay LIVE](https://khanelrouh.bandcamp.com/album/sandbox), [petit sapin](https://www.instagram.com/unpetitsapin/) / [Evigt Mörker](https://soundcloud.com/evigtmorker), [Ida Davidsson](https://www.instagram.com/iakds/) / [Anthony Linell](https://soundcloud.com/anthonylinell)
+[Obay LIVE](https://khanelrouh.bandcamp.com/album/sandbox) · [petit sapin](https://www.instagram.com/unpetitsapin/) / [Evigt Mörker](https://soundcloud.com/evigtmorker) · [Ida Davidsson](https://www.instagram.com/iakds/) / [Anthony Linell](https://soundcloud.com/anthonylinell)
 
 ---
 
@@ -48,9 +48,9 @@ Installation by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifest
 
 <!-- For the launch of CCTV, Martin and his team are bringing together some of the best in the electronic music scene, while inviting [NAVA](https://nava.community) to curate the **Saturday** visual experience. Expect to see some [Visualia](https://nava.community/visualia/) superstars in this adventure of visual weirdness! -->
 
-[Jonas Johansson](https://jonasjohansson.se/) / [Damm](https://www.astrangelyisolatedplace.com/artists-damm), Video Kling LIVE / [PRO424](https://pro424.com/), [Skaggis](https://vimeo.com/user10258850) / [Parallax Deep](https://soundcloud.com/parallaxdeep/), [Jaime Reyes](https://www.instagram.com/_jreyes79/) / [Art Alfie](https://soundcloud.com/art-alfie), [Annie Tådne](https://tadne.se/) / [Dorisburg](https://soundcloud.com/papayaplayaprojectulum/dorisburg-liveambient-ppp) LIVE, [Spherical Aberration](https://www.instagram.com/spherical.aberration/) / [Nicolai Zellmani](https://soundcloud.com/SOLKYSS), [Away From People](https://www.instagram.com/away_from_people/) / [Jesper Dahlbäck](https://soundcloud.com/jesperdahlback), [Folded Visuals](https://www.instagram.com/merlemoi/) / [Alexi Delano](https://soundcloud.com/alexidelano),
-[Jenny Forsgren](https://www.are.na/jenny-forsgren) / [Martin Kling](https://soundcloud.com/lize-records/lizecast-35-by-martin-kling),
-[ssusui](https://emfm.se/) / [Bella Sarris](https://soundcloud.com/bellasarris), [EBO](https://www.instagram.com/__ebo._/) / [Marble](https://soundcloud.com/marblesthlm), TigerFistUnhinged / [Stefan Kits](https://soundcloud.com/ultrasnurr/ultrasnurr-mix-3)
+[Jonas Johansson](https://jonasjohansson.se/) / [Damm](https://www.astrangelyisolatedplace.com/artists-damm) · Video Kling LIVE / [PRO424](https://pro424.com/) · [Skaggis](https://vimeo.com/user10258850) / [Parallax Deep](https://soundcloud.com/parallaxdeep/) · [Jaime Reyes](https://www.instagram.com/_jreyes79/) / [Art Alfie](https://soundcloud.com/art-alfie) · [Annie Tådne](https://tadne.se/) / [Dorisburg](https://soundcloud.com/papayaplayaprojectulum/dorisburg-liveambient-ppp) LIVE · [Spherical Aberration](https://www.instagram.com/spherical.aberration/) / [Nicolai Zellmani](https://soundcloud.com/SOLKYSS) · [Away From People](https://www.instagram.com/away_from_people/) / [Jesper Dahlbäck](https://soundcloud.com/jesperdahlback) · [Folded Visuals](https://www.instagram.com/merlemoi/) / [Alexi Delano](https://soundcloud.com/alexidelano) ·
+[Jenny Forsgren](https://www.are.na/jenny-forsgren) / [Martin Kling](https://soundcloud.com/lize-records/lizecast-35-by-martin-kling) ·
+[ssusui](https://emfm.se/) / [Bella Sarris](https://soundcloud.com/bellasarris) · [EBO](https://www.instagram.com/__ebo._/) / [Marble](https://soundcloud.com/marblesthlm), TigerFistUnhinged / [Stefan Kits](https://soundcloud.com/ultrasnurr/ultrasnurr-mix-3)
 
 <!-- <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/519940653?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> -->
 
