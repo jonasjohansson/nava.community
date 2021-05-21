@@ -32,7 +32,7 @@ Installation by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifest
 
 <!-- On certain Sundays, [Curt Lundberg](https://www.mixcloud.com/culman/) seizes the reigns, inviting experimental music and sound artists into the vision of CCTV. -->
 
-[Culmannen](https://www.mixcloud.com/culman/) · [Chris Speed Visuals](https://chrisspeedvisuals.com/) / [Acid Sussi](https://soundcloud.com/acidsussi) · Scenic Route / [Linda Pistol](https://soundcloud.com/linda-pistol) · [Sasha Smirnova](https://vimeo.com/ssshasmirnova) / [Tilliander](https://soundcloud.com/tilliander) · [Daniel Wirtberg](https://danielwirtberg.com/) / [LFO2](https://soundcloud.com/lovefrankotto)
+[Culmannen](https://www.mixcloud.com/culman/) · [Chris Speed](https://chrisspeedvisuals.com/) / [Acid Sussi](https://soundcloud.com/acidsussi) · Scenic Route / [Linda Pistol](https://soundcloud.com/linda-pistol) · [Sasha Smirnova](https://vimeo.com/ssshasmirnova) / [Tilliander](https://soundcloud.com/tilliander) · [Daniel Wirtberg](https://danielwirtberg.com/) / [LFO2](https://soundcloud.com/lovefrankotto)
 
 ---
 
