@@ -26,6 +26,8 @@ As the stage remain closed during 2021, creating momentary blitzes of otherwordl
 
 Installation by [Torbjörn Fernström](https://www.instagram.com/bigbeatmanifesto/)
 
+{% fig "cctv-visualia.jpg" %}
+
 ---
 
 ## 0509 S((o))un((d))ays
