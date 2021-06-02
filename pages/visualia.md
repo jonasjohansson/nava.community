@@ -4,9 +4,9 @@ preamble: 11 September, 2020
 date: 2020-09-11
 permalink: /visualia/
 theme:
-  background_color: '#020963, #b6ae9e, #08080a'
+  background_color: '#050706, #121617, #0e171c, #3f4749'
   emoji: 🪨
-  cover: svarmorstunga_iol.jpg
+  cover: visualia-1.jpg
 layout: page.njk
 tags: page
 ---
@@ -45,7 +45,7 @@ There is no monetary compensation. In return, we will provide you with a stage, 
 
 The experimental reactor R1 was in active use until 1970, and disassembled 1982. Measurements were made for any remaining radiation, which left a visible grid system. Supposedly, there's more radiation on the surface.
 
-{% fig "reaktorhallen-3.jpg"  %}
+{% fig "visualia-1.jpg"  %}
 
 Visualia is made by [Jonas Johansson](http://jonasjohansson.se/), [Adam Siversen Ljung](https://adamsiversenljung.com/), [Moa Forsberg](https://moaforsberg.com/) and Gunilla Östblom.
 
