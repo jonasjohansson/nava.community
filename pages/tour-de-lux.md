@@ -11,9 +11,9 @@ layout: page.njk
 tags: page
 ---
 
-Tour de Lux is a rolling parade of projections, where bikes are upgraded with a projector and battery in order to present urban audiovisual screenings and improvisational stages.
+Tour de Lux is a rolling parade of projections, where moving vehicles are upgraded with a projector and battery in order to present urban audiovisual screenings and improvisational stages.
 
-With support from [Nordisk Kulturfond](https://www.nordiskkulturfond.org/) and [Opstart](https://nordiskkulturfond.org/opstart-info/), NAVA is enabling design teams in Stockholm ([Carl Edwin Waerner](https://work.carledwin.net/)), Oslo ([Rasmus Stride](http://rasmusstride-portfolio.glitch.me/)), Helsinki ([Jan-Erik Lindroos](https://www.facebook.com/pyorapaja/)) to construct their bike, and final experience.
+With support from [Nordisk Kulturkontakt](https://www.nordiskkulturkontakt.org/en/42-projects-were-granted-funding-from-culture-and-art-programme-2/) and [Opstart](https://nordiskkulturfond.org/opstart-info/), NAVA is enabling design teams in Stockholm ([Carl Edwin Waerner](https://work.carledwin.net/)), Oslo ([Rasmus Stride](http://rasmusstride-portfolio.glitch.me/)), Helsinki ([Jan-Erik Lindroos](https://www.facebook.com/pyorapaja/)) to construct their AV machine, and final experience.
 
 {% fig "mapp_bike.jpg", "Image by MAPP_MTL"  %}
 
