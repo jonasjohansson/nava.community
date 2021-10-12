@@ -1,8 +1,8 @@
 ---
-title: Visualia
+title: Visualia Festival
 preamble: 11 September, 2020
 date: 2020-09-11
-permalink: /visualia/
+permalink: /visualia-festival/
 theme:
   background_color: '#050706, #121617, #0e171c, #3f4749'
   emoji: 🪨

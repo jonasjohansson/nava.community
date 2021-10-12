@@ -51,20 +51,6 @@ strong {
 	font-weight: normal;
 }
 
-a,
-a:link {
-	color: inherit;
-	text-decoration: none;
-	will-change: opacity;
-	transition: opacity 100ms ease-in-out;
-}
-
-p a:not(:hover) {
-	/* opacity: 0.8; */
-	text-decoration: underline;
-	text-decoration-thickness: 1px;
-}
-
 h1,
 h2,
 h3 {

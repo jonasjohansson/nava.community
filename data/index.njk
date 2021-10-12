@@ -5,8 +5,8 @@
     <br/>
     <br/>
     {% for page in collections.page | reverse %}
-        <a href="{{ page.data.permalink }}">
-            {{ page.data.theme.emoji }}
+        <a href="{{ page.data.permalink }}" style="--bg: {{ page.data.theme.background_color }}">
+            {# {{ page.data.theme.emoji }} #}
             <span>{{ page.data.title }}</span>
         </a>
     {% endfor %}

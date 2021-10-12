@@ -25,16 +25,14 @@
 }
 
 nav a {
-	/* display: block; */
-	/* padding: 1rem; */
-	background: none !important;
+	background-image: linear-gradient(90deg, var(--bg));
+	filter: contrast(1) brightness(2);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-size: 100%;
+	transition: filter 500ms ease-out;
 }
 
-/* nav a:hover {
-    text-decoration: underline;
-} */
-
-/* nav a span {
-    color: white;
-    mix-blend-mode: hard-light;
-} */
+nav a:hover {
+	filter: contrast(1) brightness(5);
+}
