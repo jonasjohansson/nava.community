@@ -32,4 +32,8 @@ organised [Freaky Bike Parade](https://www.facebook.com/events/827318407980209/)
 
 [Jonas Johansson](https://jonasjohansson.se/), [Sol Sarratea](https://www.instagram.com/solquemal/), Francesco Torelli, Carl Waerner and [Elias Aabjerg](https://www.instagram.com/eliaabjerg/) performed [SYZYGY](https://nobelweeklights.se/installation/syzygy/) in various locations during the Nobel Week Lights, with support by Cycleurope Sverige AB.
 
-{% fig "tdl-sto-syzygy-04.jpg". %}
+{% fig "tdl-sto-syzygy-04.jpg" %}
+
+---
+
+{% fig "mapp_bike.jpg", "Image by MAPP MTL" %}
