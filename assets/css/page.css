@@ -93,6 +93,10 @@ figure video {
 	box-sizing: border-box;
 }
 
+.small {
+	width: 20%;
+}
+
 @media (max-width: 800px) {
 	figure {
 		line-height: 0;
@@ -111,3 +115,4 @@ figure video {
 		width: 100%;
 	}
 }
+

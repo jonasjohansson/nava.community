@@ -34,6 +34,9 @@ organised [Freaky Bike Parade](https://www.facebook.com/events/827318407980209/)
 
 {% fig "tdl-sto-syzygy-04.jpg" %}
 
----
+Tour de Lux is inspired by the work of [Mapp Montreal](https://mappmtl.com/).
 
 {% fig "mapp_bike.jpg", "Image by MAPP MTL" %}
+
+{% img "logo_nmr.png", false, "small"  %}
+
