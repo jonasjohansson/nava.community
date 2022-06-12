@@ -13,7 +13,7 @@ tags: page
 
 Tour de Lux is a rolling parade of projections, where moving vehicles are upgraded with a projector and battery in order to present urban audiovisual screenings and improvisational stages.
 
-With support from [Nordisk Kulturkontakt](https://www.nordiskkulturkontakt.org/en/42-projects-were-granted-funding-from-culture-and-art-programme-2/) and [Opstart](https://nordiskkulturfond.org/opstart-info/), NAVA is enabling design teams in Oslo, Helsinki and Stockholm to construct their AV mobile machines.
+With support from [Nordisk Kulturkontakt](https://www.nordiskkulturkontakt.org/en/42-projects-were-granted-funding-from-culture-and-art-programme-2/), NAVA is enabling design teams in Oslo, Helsinki and Stockholm to construct their AV mobile machines.
 
 ## Oslo
 
