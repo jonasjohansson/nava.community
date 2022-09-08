@@ -1,6 +1,6 @@
 ---
 title: Roskilde
-preamble: 29 June–7 July, 2019
+preamble: 29 June–7 July, 2019x
 date: 2019-06-29
 permalink: /roskilde/
 theme:
@@ -44,3 +44,4 @@ Read the [FAQ](https://goo.gl/iY6GLT) for questions and leave a comment for new 
 - 19.07.07 Festival end
 
 {% fig "nava_countdown.jpg" %}
+
