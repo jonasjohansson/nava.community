@@ -100,6 +100,7 @@ module.exports = function (eleventyConfig) {
 		return content
 	})
 
+	eleventyConfig.addPassthroughCopy('CNAME')
 	eleventyConfig.addPassthroughCopy({ 'assets/fonts': 'assets/fonts' })
 	eleventyConfig.addPassthroughCopy({ 'assets/video': 'assets/video' })
 
