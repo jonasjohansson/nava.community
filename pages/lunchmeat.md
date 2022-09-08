@@ -1,10 +1,10 @@
 ---
 title: Lunchmeat Festival
-preamble: Sep 30–March 5
+preamble: Sep 30–March 5x
 permalink: /lunchmeat/
 theme:
-    background_color: '#9fcded, #f37a12'
-    emoji: 🇨🇿
+  background_color: '#9fcded, #f37a12'
+  emoji: 🇨🇿
 layout: page.njk
 # tags: page
 ---
@@ -20,3 +20,4 @@ This year Lunchmeat invited NAVA to participate in a symposium on digital arts, 
 {% img "lunchmeat_symposium.jpg"  %}
 
 One talk that stood out was with John Richards & Max Wainwright, where a discussion regarding "risk-taking" began, and in the scene of experimental arts, what is the real risk for someone who makes taking risks part of a routine?
+
