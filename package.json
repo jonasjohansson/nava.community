@@ -16,8 +16,10 @@
 		"@11ty/eleventy": "^0.12.1"
 	},
 	"scripts": {
-		"start": "npx @11ty/eleventy --serve"
+		"start": "npx @11ty/eleventy --serve",
+		"build": "env NODE_ENV=production npx @11ty/eleventy"
 	},
 	"author": "",
 	"license": "ISC"
 }
+
