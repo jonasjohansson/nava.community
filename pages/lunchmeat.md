@@ -1,6 +1,6 @@
 ---
 title: Lunchmeat Festival
-preamble: Sep 30–March 5x
+preamble: Sep 30–March 5
 permalink: /lunchmeat/
 theme:
   background_color: '#9fcded, #f37a12'
