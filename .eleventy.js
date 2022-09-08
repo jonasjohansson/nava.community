@@ -101,6 +101,7 @@ module.exports = function (eleventyConfig) {
 	})
 
 	eleventyConfig.addPassthroughCopy('CNAME')
+	eleventyConfig.addPassthroughCopy('assets/favicon.*')
 	eleventyConfig.addPassthroughCopy({ 'assets/fonts': 'assets/fonts' })
 	eleventyConfig.addPassthroughCopy({ 'assets/video': 'assets/video' })
 
