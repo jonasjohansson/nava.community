@@ -7,6 +7,19 @@
 	max-width: max(80vw, 800px);
 }
 
+#home:before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-image: url('/assets/img/home.png');
+	background-size: cover;
+	background-position: center center;
+	filter: blur(10) contrast(1.1);
+}
+
 @media (min-height: 800px) {
 	#home {
 		display: grid;
@@ -24,15 +37,25 @@
 	text-transform: uppercase;
 }
 
+nav {
+	mix-blend-mode: exclusion;
+}
+
 nav a {
-	background-image: linear-gradient(90deg, var(--bg));
-	filter: contrast(1) brightness(2);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
+	xbackground-image: linear-gradient(90deg, var(--bg));
+	x-webkit-background-clip: text;
+	x-webkit-text-fill-color: transparent;
 	background-size: 100%;
 	transition: filter 500ms ease-out;
+	filter: contrast(1) brightness(1);
 }
 
 nav a:hover {
 	filter: contrast(1) brightness(5);
 }
+
+nav a:not(:last-of-type):after {
+	content: ' ·\00a0';
+	display: inline-block;
+}
+
