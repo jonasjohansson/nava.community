@@ -1,20 +1,3 @@
-window.addEventListener('load', () => {
-	document.body.classList.remove('loading')
-})
-
-document.addEventListener('DOMContentLoaded', () => {
-	const anchors = document.querySelectorAll('a')
-	anchors.forEach((a) => {
-		if (isExternalURL(a.href)) {
-			a.setAttribute('target', '_blank')
-			a.setAttribute('rel', 'noreferrer')
-		}
-	})
-})
-function isExternalURL(url) {
-	return new URL(url).origin !== location.origin
-}
-
 /*
  *   Stripe WebGl Gradient Animation
  *   ScrollObserver functionality to disable animation when not scrolled into view has been disabled and
@@ -178,7 +161,7 @@ class MiniGl {
 									return (
 										(name_no_prefix = name_no_prefix.charAt(0).toUpperCase() + name_no_prefix.slice(1)),
 										`uniform struct ${name_no_prefix} 
-								  {\n` +
+                                  {\n` +
 											Object.entries(uniform.value)
 												.map(([name, uniform]) => uniform.getDeclaration(name, type).replace(/^uniform/, ''))
 												.join('') +
@@ -550,14 +533,14 @@ class Gradient {
 						this.el && ((this.computedCanvasStyle = getComputedStyle(this.el)), this.waitForCssVars())
 				  }))
 				  /*
-		  this.scrollObserver = await s.create(.1, !1),
-		  this.scrollObserver.observe(this.el),
-		  this.scrollObserver.onSeparate(() => {
-			  window.removeEventListener("scroll", this.handleScroll), window.removeEventListener("mousedown", this.handleMouseDown), window.removeEventListener("mouseup", this.handleMouseUp), window.removeEventListener("keydown", this.handleKeyDown), this.isIntersecting = !1, this.conf.playing && this.pause()
-		  }), 
-		  this.scrollObserver.onIntersect(() => {
-			  window.addEventListener("scroll", this.handleScroll), window.addEventListener("mousedown", this.handleMouseDown), window.addEventListener("mouseup", this.handleMouseUp), window.addEventListener("keydown", this.handleKeyDown), this.isIntersecting = !0, this.addIsLoadedClass(), this.play()
-		  })*/
+          this.scrollObserver = await s.create(.1, !1),
+          this.scrollObserver.observe(this.el),
+          this.scrollObserver.onSeparate(() => {
+              window.removeEventListener("scroll", this.handleScroll), window.removeEventListener("mousedown", this.handleMouseDown), window.removeEventListener("mouseup", this.handleMouseUp), window.removeEventListener("keydown", this.handleKeyDown), this.isIntersecting = !1, this.conf.playing && this.pause()
+          }), 
+          this.scrollObserver.onIntersect(() => {
+              window.addEventListener("scroll", this.handleScroll), window.addEventListener("mousedown", this.handleMouseDown), window.addEventListener("mouseup", this.handleMouseUp), window.addEventListener("keydown", this.handleKeyDown), this.isIntersecting = !0, this.addIsLoadedClass(), this.play()
+          })*/
 	}
 	disconnect() {
 		this.scrollObserver &&
